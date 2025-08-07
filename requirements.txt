@@ -3,7 +3,7 @@ pandas==2.3.1
 plotly==6.2.0
 altair==5.5.0
 openpyxl==3.1.2
-numpy==1.24.3
+numpy==1.26.0
 matplotlib==3.8.3
 contourpy==1.2.0
 cycler==0.12.1
