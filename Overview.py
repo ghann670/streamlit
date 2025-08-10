@@ -47,8 +47,7 @@ trial_df['Status'] = trial_df['trial_end_date'].apply(get_status_emoji)
 trial_df['Trial Duration'] = trial_df['Status'] + ' ' + trial_df['trial_start_date'] + ' ~ ' + trial_df['trial_end_date_display']
 
 # 7. Engagement 계산을 위해 df_all.csv 로드
-df_all = pd.read_csv("df_all.csv")
-df_all['created_at'] = pd.to_datetime(df_all['created_at'])
+df_all = pd.read_csv("df_all.csv", parse_dates=['created_at'])
 
 # 최근 2주 기간 계산
 now = pd.Timestamp.now()
