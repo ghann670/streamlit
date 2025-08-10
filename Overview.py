@@ -56,28 +56,17 @@ with col1:
 
     # 각 기업명을 클릭 가능한 링크로 만들기
     def make_clickable(org_name):
-        return f'<a href="Usage_Summary?selected_org={org_name}" target="_self">{org_name}</a>'
-
-    show_df['Organization'] = show_df['Organization'].apply(make_clickable)
+        return f'<a target="_self" href="Usage_Summary?selected_org={org_name}">{org_name}</a>'
 
     # HTML로 링크가 작동하는 데이터프레임 표시
     st.write("Click on the organization name to view detailed usage summary:")
-
-    # CSS로 테이블 스타일 지정
-    table_style = """
-    <style>
-        table {
-            width: 100%;
-        }
-        th {
-            text-align: left !important;
-        }
-    </style>
-    """
-
-    # 테이블 HTML과 스타일 함께 표시
-    st.markdown(
-        table_style + show_df.to_html(escape=False, index=False),
+    
+    # Convert the DataFrame to HTML with clickable links
+    show_df_html = show_df.copy()
+    show_df_html['Organization'] = show_df_html['Organization'].apply(make_clickable)
+    
+    st.write(
+        show_df_html.to_html(escape=False, index=False),
         unsafe_allow_html=True
     )
 
@@ -92,14 +81,14 @@ with col2:
         show_paying_df = paying_df[['organization']].rename(columns={'organization': 'Organization'})
         
         # 각 기업명을 클릭 가능한 링크로 만들기
-        show_paying_df['Organization'] = show_paying_df['Organization'].apply(make_clickable)
+        show_paying_df_html = show_paying_df.copy()
+        show_paying_df_html['Organization'] = show_paying_df_html['Organization'].apply(make_clickable)
         
         # HTML로 링크가 작동하는 데이터프레임 표시
         st.write("Click on the organization name to view detailed usage summary:")
         
-        # 테이블 HTML과 스타일 함께 표시
-        st.markdown(
-            table_style + show_paying_df.to_html(escape=False, index=False),
+        st.write(
+            show_paying_df_html.to_html(escape=False, index=False),
             unsafe_allow_html=True
         )
     else:
