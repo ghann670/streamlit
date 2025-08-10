@@ -12,14 +12,15 @@ st.title("🏢 Organization Overview")
 col1, col2 = st.columns(2)
 
 with col1:
-    st.header("Trial Organizations")
-    
     # 1. users.xlsx의 'date' 시트만 불러오기
     excel_file = "users.xlsx"
     df = pd.read_excel(excel_file, sheet_name="date")
 
     # 2. status가 'trial'인 기업만 필터
     trial_df = df[df['status'].str.strip().str.lower() == 'trial'].copy()
+    
+    # Trial Organizations 제목과 조직 수 표시
+    st.header(f"Trial Organizations ({len(trial_df)})")
 
     # 3. 날짜 컬럼 변환
     trial_df['trial_start_date'] = pd.to_datetime(trial_df['trial_start_date']).dt.strftime('%Y-%m-%d')
