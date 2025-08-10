@@ -48,7 +48,8 @@ trial_df['Trial Duration'] = trial_df['Status'] + ' ' + trial_df['trial_start_da
 
 # 7. Engagement 계산을 위해 df_all.csv 로드
 df_all = pd.read_csv("df_all.csv")
-df_all['created_at'] = pd.to_datetime(df_all['created_at'], utc=True)  # UTC 타임존 처리
+# ISO 형식의 datetime 문자열을 파싱
+df_all['created_at'] = pd.to_datetime(df_all['created_at'], format='ISO8601')
 
 # 최근 2주 기간 계산
 now = pd.Timestamp.now(tz='UTC')  # UTC 타임존 사용
