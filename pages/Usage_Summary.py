@@ -12,7 +12,8 @@ st.set_page_config(page_title="Usage Summary", page_icon="📊", layout="wide")
 df_all = pd.read_csv("df_all.csv")
 
 # Convert created_at and trial_start_date to datetime
-df_all['created_at'] = pd.to_datetime(df_all['created_at']).dt.tz_localize(None)
+# UTC 타임존을 인식하고 제거
+df_all['created_at'] = pd.to_datetime(df_all['created_at'], utc=True).dt.tz_localize(None)
 df_all['trial_start_date'] = pd.to_datetime(df_all['trial_start_date'])
 
 # 기준 날짜: 오늘 날짜 정오 기준
@@ -30,7 +31,7 @@ week_ranges = {
 def assign_week_bucket(date):
     if pd.isna(date):
         return None
-    date = pd.to_datetime(date).tz_localize(None)  # timezone 제거
+    # date는 이미 timezone-naive 상태이므로 추가 변환 불필요
     for week, (start, end) in week_ranges.items():
         if start <= date <= end:
             return week
