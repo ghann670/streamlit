@@ -46,34 +46,8 @@ def get_status_emoji(end_date):
 trial_df['Status'] = trial_df['trial_end_date'].apply(get_status_emoji)
 trial_df['Trial Duration'] = trial_df['Status'] + ' ' + trial_df['trial_start_date'] + ' ~ ' + trial_df['trial_end_date_display']
 
-# 7. Engagement 계산을 위해 df_all.csv 로드
-df_all = pd.read_csv("df_all.csv")
-# ISO 형식의 datetime 문자열을 파싱
-df_all['created_at'] = pd.to_datetime(df_all['created_at'], format='ISO8601')
-
-# 최근 2주 기간 계산
-now = pd.Timestamp.now(tz='UTC')  # UTC 타임존 사용
-two_weeks_ago = now - pd.Timedelta(days=14)
-
-# 각 기업별로 최근 2주간 활동 여부 확인
-engagement_data = []
-for org in trial_df['organization']:
-    # 해당 기업의 최근 2주간 데이터만 필터링
-    org_data = df_all[
-        (df_all['organization'] == org) & 
-        (df_all['created_at'] >= two_weeks_ago)
-    ]
-    
-    # 활동한 유저가 한 명이라도 있으면 'High', 없으면 'Low'
-    has_active_users = len(org_data) > 0
-    engagement = 'High' if has_active_users else 'Low'
-    engagement_data.append(engagement)
-
-# Engagement 컬럼 추가
-trial_df['Engagement'] = engagement_data
-
-# 표에 표시할 컬럼만 추출 (기업명, 기간, Engagement)
-show_df = trial_df[['organization', 'Trial Duration', 'Engagement']].rename(columns={'organization': 'Organization'})
+# 표에 표시할 컬럼만 추출 (기업명, 기간)
+show_df = trial_df[['organization', 'Trial Duration']].rename(columns={'organization': 'Organization'})
 
 # 각 기업명을 클릭 가능한 링크로 만들기
 def make_clickable(org_name):
@@ -99,5 +73,4 @@ table_style = """
 # 테이블 HTML과 스타일 함께 표시
 st.markdown(
     table_style + show_df.to_html(escape=False, index=False),
-    unsafe_allow_html=True
-) 
+    unsafe_allow_html=True) 
