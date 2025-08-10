@@ -47,11 +47,13 @@ trial_df['Status'] = trial_df['trial_end_date'].apply(get_status_emoji)
 trial_df['Trial Duration'] = trial_df['Status'] + ' ' + trial_df['trial_start_date'] + ' ~ ' + trial_df['trial_end_date_display']
 
 # 7. Engagement 계산을 위해 df_all.csv 로드
-df_all = pd.read_csv("df_all.csv", parse_dates=['created_at'])
+df_all = pd.read_csv("df_all.csv")
+df_all['created_at'] = pd.to_datetime(df_all['created_at'])
 
 # 최근 2주 기간 계산
 now = pd.Timestamp.now()
 two_weeks_ago = now - pd.Timedelta(days=14)
+two_weeks_ago = pd.to_datetime(two_weeks_ago)  # 타입 일치를 위해 변환
 
 # 각 기업별로 최근 2주간 활동 여부 확인
 engagement_data = []
@@ -59,7 +61,7 @@ for org in trial_df['organization']:
     # 해당 기업의 최근 2주간 데이터만 필터링
     org_data = df_all[
         (df_all['organization'] == org) & 
-        (df_all['created_at'] >= two_weeks_ago)
+        (pd.to_datetime(df_all['created_at']) >= two_weeks_ago)  # 명시적으로 datetime으로 변환
     ]
     
     # 활동한 유저가 한 명이라도 있으면 'High', 없으면 'Low'
