@@ -9,7 +9,11 @@ from urllib.parse import parse_qs
 st.set_page_config(page_title="Usage Summary", page_icon="📊", layout="wide")
 
 # Load dataset
-df_all = pd.read_csv("df_all.csv", parse_dates=['created_at', 'trial_start_date'])
+df_all = pd.read_csv("df_all.csv")
+
+# Convert created_at and trial_start_date to datetime
+df_all['created_at'] = pd.to_datetime(df_all['created_at']).dt.tz_localize(None)
+df_all['trial_start_date'] = pd.to_datetime(df_all['trial_start_date'])
 
 # 기준 날짜: 오늘 날짜 정오 기준
 now = pd.Timestamp.now().normalize() + pd.Timedelta(hours=12)
@@ -26,6 +30,7 @@ week_ranges = {
 def assign_week_bucket(date):
     if pd.isna(date):
         return None
+    date = pd.to_datetime(date).tz_localize(None)  # timezone 제거
     for week, (start, end) in week_ranges.items():
         if start <= date <= end:
             return week
