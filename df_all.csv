@@ -43,6 +43,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 012478df-f3d6-4a96-a477-a32bdcc6020f,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,156110.0,2025-06-28 06:55:47+00:00,active,,2025-06-10,onboarded,onboarded
 012478df-f3d6-4a96-a477-a32bdcc6020f,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,156110.0,2025-06-28 06:55:47+00:00,active,,2025-06-10,onboarded,onboarded
 012478df-f3d6-4a96-a477-a32bdcc6020f,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,156110.0,2025-06-28 06:55:47+00:00,active,,2025-06-10,onboarded,onboarded
+012bb839-1b5f-434a-b75e-b9267912bcf8,integrate_search,user,normal,Carley Shum,carley@carretprivate.com,general,Carret Private,41311.0,2025-08-12 09:25:01+00:00,active,,2025-06-18,,onboarded
 0142b2c0-f108-49da-85be-2f72cef9bcd7,reasoning_r1,user,deep_research,Victor German,victor.german@macquarie.com,general,Macquarie,,2025-07-04 02:14:58+00:00,active,,2025-06-10,,
 0152705f-be66-49c4-9d11-94630a43794d,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-07-07 17:01:09+00:00,active,,2025-05-27,onboarded,onboarded
 015cc971-a44e-4d61-baa6-f10207eb45a8,integrate_search,user,normal,ian.wang,ian.wang@trivest-advisors.com,general,Trivest Advisors,22986.0,2025-07-31 07:45:47+00:00,active,,2024-06-26,onboarded,
@@ -189,6 +190,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 0555d1ed-4ce1-4ad8-9192-bb98c45ec33b,integrate_search,user,normal,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,16180.0,2024-10-23 00:30:18+00:00,active,,2024-06-26,onboarded,
 055c45c7-fbfc-4669-ab69-a09b07f4fcbd,integrate_search,user,normal,Victor Beltran,vbeltran@schonfeld.com,test_feature,Schonfeld,22448.0,2025-02-21 16:27:25+00:00,active,,2024-08-16,,
 057477f1-30dc-4273-9076-28d58e4955cc,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,8155.0,2024-07-24 00:14:38+00:00,active,,2024-06-26,onboarded,
+05762a89-510f-452a-989c-22efa3a1fe87,rms,user,meeting_agent,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,,2025-08-12 03:56:45+00:00,active,,2024-06-26,onboarded,
 058d1c88-29e1-48ff-a10a-c87145cc0ac6,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-07-08 18:11:06+00:00,active,,2025-05-27,onboarded,onboarded
 0590cbdb-e80a-4ec8-b083-0b7722fe9eb8,integrate_search,user,normal,Zhongyuan BI,evan.bi@trivest-advisors.com,general,Trivest Advisors,28472.0,2025-07-30 16:27:54+00:00,active,,2024-06-26,onboarded,
 05a6130c-ea04-48f4-9690-1b45f497be62,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,108393.0,2025-07-07 04:51:15+00:00,active,,2025-06-10,,
@@ -326,6 +328,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 09c9e1d0-6880-466a-aee1-5a7627fbb5c4,reasoning_r1,user,deep_research,Matthew Brooks,matthew.brooks@macquarie.com,general,Macquarie,,2025-06-17 01:05:55+00:00,active,,2025-06-10,onboarded,
 09cfb5fe-7640-4d0f-9615-cbdae3e2aa3a,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-08-08 14:50:33+00:00,active,,2025-05-27,onboarded,onboarded
 09da1f9f-3168-4c9c-8b52-32e858b93eff,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,44798.0,2025-04-10 07:07:38+00:00,active,,2024-08-16,,
+09f7c0f2-1df3-4f91-b8c6-bd3c4ba1d74a,rms,user,meeting_agent,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,,2025-08-12 03:56:21+00:00,active,,2024-06-26,onboarded,
 0a047aac-0028-4987-bbc3-86ad730af621,integrate_search,user,structured_data,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,3410.0,2025-07-22 03:33:39+00:00,active,,2024-06-26,onboarded,
 0a0883fd-87f1-47d4-86ec-c9819ca92560,integrate_search,user,normal,Hangyul Son,hangyul.son@clsa.com,general,CLSA,83227.0,2025-07-27 04:35:48+00:00,active,Research,2025-06-09,onboarded,onboarded
 0a0f8e64-cb97-4c29-8306-94ebba8ee0c0,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,-22027.0,2025-01-31 12:29:00+00:00,active,,2024-06-26,onboarded,
@@ -459,6 +462,8 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 0dc823b6-2ed4-43f4-8a5f-e7d287f4f470,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,42936.0,2025-08-04 19:35:24+00:00,active,,2024-08-16,onboarded,onboarded
 0dc823b6-2ed4-43f4-8a5f-e7d287f4f470,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,42936.0,2025-08-04 19:35:24+00:00,active,,2024-08-16,onboarded,onboarded
 0dc823b6-2ed4-43f4-8a5f-e7d287f4f470,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,42936.0,2025-08-04 19:35:24+00:00,active,,2024-08-16,onboarded,onboarded
+0dc83bf5-cf48-4473-ab3f-b93315b3ee13,integrate_search,user,normal_gpt5,Alfred Yam,intern8@carretprivate.com,general,Carret Private,38564.0,2025-08-12 03:08:36+00:00,active,,2025-06-18,onboarded,onboarded
+0dc83bf5-cf48-4473-ab3f-b93315b3ee13,integrate_search,user,normal_gpt5,Alfred Yam,intern8@carretprivate.com,general,Carret Private,38564.0,2025-08-12 03:08:36+00:00,active,,2025-06-18,onboarded,onboarded
 0dd778de-3a35-4fd0-beb4-3172a8006cf3,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,57059.0,2025-06-24 20:12:26+00:00,active,,2024-08-16,onboarded,onboarded
 0dd778de-3a35-4fd0-beb4-3172a8006cf3,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,57059.0,2025-06-24 20:12:26+00:00,active,,2024-08-16,onboarded,onboarded
 0dd778de-3a35-4fd0-beb4-3172a8006cf3,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,57059.0,2025-06-24 20:12:26+00:00,active,,2024-08-16,onboarded,onboarded
@@ -516,7 +521,9 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 0fbf6271-5028-4b5a-9a45-0cf0fc2b3b4a,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-07-09 16:10:19+00:00,active,,2025-05-27,onboarded,onboarded
 0fbf6271-5028-4b5a-9a45-0cf0fc2b3b4a,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-07-09 16:10:19+00:00,active,,2025-05-27,onboarded,onboarded
 0fc324ed-ac49-4d1a-9be2-144384f1c897,integrate_search,user,normal,oscar chen,ochen@schonfeld.com,test_feature,Schonfeld,18123.0,2025-03-05 15:15:07+00:00,active,,2024-08-16,,
+0fc33393-7edb-4219-9a13-bbd941850cd7,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,11068.0,2025-08-13 00:07:26+00:00,active,,2024-08-16,onboarded,
 0fc463da-ed61-4a63-a8d4-0a698c2130c6,rms,user,individual_summary,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-07-01 02:16:06+00:00,active,,2024-06-26,onboarded,
+0fe96d04-3e01-46c1-8d54-10c52ae3566a,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-08-12 15:10:45+00:00,active,,2025-05-27,onboarded,onboarded
 0feac5e7-a696-49eb-a7e1-ef8c61010490,reasoning_r1,user,deep_research,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,,2025-06-12 03:43:55+00:00,active,,2024-08-16,,
 0fefcab0-0331-4637-b45e-da6ed797b4ed,integrate_search,user,normal,Johnson Lin,jlin@schonfeld.com,test_feature,Schonfeld,31167.0,2025-07-28 15:03:01+00:00,active,,2024-08-16,,
 0ff3222e-e477-46d1-aa30-93d72d125a42,rms,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,38347.0,2025-07-01 23:36:24+00:00,active,,2025-06-10,,
@@ -610,6 +617,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 1314af68-3c4c-4fc9-aa91-1deb758c2861,rms,user,individual_summary,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-07-05 16:20:31+00:00,active,,2024-06-26,onboarded,
 1317cbd5-f3c4-4358-8f86-2f5cf1fe0d2d,integrate_search,user,normal,Suthinee Witha,suthinee.wi@cgsi.com,general,CGS International,140478.0,2025-07-14 06:52:47+00:00,active,,2025-06-10,onboarded,onboarded
 132c3339-dcfd-405f-bb00-bd7880fced32,linq_alpha,user,normal,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,13991.0,2024-09-12 06:39:29+00:00,active,,2024-06-26,onboarded,
+132d3b86-ceff-4744-8efa-d98fee626009,integrate_search,user,meeting_agent,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,,2025-08-12 12:52:58+00:00,active,,2024-06-26,onboarded,
 133301ab-8297-45c9-8ddc-97dcfbf77fbe,integrate_search,user,normal,Daniel Kim,daniel.dw.kim@macquarie.com,general,Macquarie,23468.0,2025-06-26 00:31:46+00:00,active,,2025-06-10,,
 135b20ca-2dac-49ab-b3a9-b865a5364504,integrate_search,user,normal,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-05-29 14:11:02+00:00,active,,2025-05-27,onboarded,onboarded
 135ca655-d262-4fae-8bf5-6957836808c0,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,10927.0,2024-08-02 02:00:17+00:00,active,,2024-06-26,onboarded,
@@ -676,6 +684,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 15cd52cd-dd81-415a-83ab-ac34a5043d62,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,11565.0,2024-11-25 09:00:42+00:00,active,,2024-06-26,onboarded,
 15d2674a-0dd7-4e2a-aa55-5eb7138a59ca,integrate_search,user,structured_data,Hangyul Son,hangyul.son@clsa.com,general,CLSA,8951.0,2025-08-05 13:24:50+00:00,active,Research,2025-06-09,onboarded,onboarded
 15dddaec-436f-492e-8e42-79d0f213d3e6,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-04-01 02:32:53+00:00,active,,2024-06-26,onboarded,
+16061814-672c-442a-976b-1c3d72d8b0c0,rms,user,meeting_agent,Admin Janchor,admin@janchorpartners.com,general,Janchor Partners,,2025-08-12 08:05:18+00:00,active,,2025-06-02,,
 1609c9ea-95df-4f18-8416-43a4904d523b,integrate_search,user,meeting_agent,Nicole Chan,nicole.chan@cgsi.com,general,CGS International,,2025-06-18 02:28:06+00:00,active,,2025-06-10,,
 161bb3dd-dcef-4522-81cf-c4407c941a6e,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,8491.0,2024-08-09 01:24:30+00:00,active,,2024-06-26,onboarded,
 162231c5-5c47-4123-9aa4-0143308b9557,integrate_search,user,normal,Fergus Kwan,fergus.kwan@macquarie.com,general,Macquarie,41819.0,2025-08-05 13:56:44+00:00,active,,2025-06-10,,
@@ -756,6 +765,8 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 18870512-f676-495b-a62f-02e635f414aa,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,23496.0,2025-07-07 22:29:19+00:00,active,,2024-08-16,onboarded,onboarded
 18870512-f676-495b-a62f-02e635f414aa,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,23496.0,2025-07-07 22:29:19+00:00,active,,2024-08-16,onboarded,onboarded
 18870512-f676-495b-a62f-02e635f414aa,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,23496.0,2025-07-07 22:29:19+00:00,active,,2024-08-16,onboarded,onboarded
+188fbaeb-7437-4986-895c-0ad562e38f6c,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,74781.0,2025-08-12 03:55:59+00:00,active,,2025-06-18,onboarded,onboarded
+188fbaeb-7437-4986-895c-0ad562e38f6c,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,74781.0,2025-08-12 03:55:59+00:00,active,,2025-06-18,onboarded,onboarded
 18907b56-4aa5-4fc0-8d5c-92ae8ca7a39c,integrate_search,user,company_screener,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,,2025-06-20 08:31:50+00:00,active,,2025-06-18,onboarded,onboarded
 18907b56-4aa5-4fc0-8d5c-92ae8ca7a39c,integrate_search,user,company_screener,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,,2025-06-20 08:31:50+00:00,active,,2025-06-18,onboarded,onboarded
 18961214-7c1e-400f-8ddb-169707e01c21,rms,user,normal,Amit  Singh,amit.singh@carretprivate.com,general,Carret Private,17420.0,2025-06-27 03:51:25+00:00,active,,2025-06-18,,
@@ -815,6 +826,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 1a717fc6-cf1d-4f70-b20d-e53f8d5a9401,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,22655.0,2025-05-27 19:34:36+00:00,active,,2025-05-27,onboarded,onboarded
 1a721f3d-84c6-411e-9655-7ccf44c5f577,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-06-20 04:54:01+00:00,active,,2024-06-26,onboarded,
 1a942274-33cd-42a8-af64-32c01384ff6d,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,27314.0,2025-08-04 07:11:09+00:00,active,,2025-06-10,,
+1a9a8590-76ab-4169-921e-0bf28809acf0,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-08-12 15:10:45+00:00,active,,2025-05-27,onboarded,onboarded
 1a9b510b-2ecb-4aa7-94d0-8fc1e57d957e,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,23428.0,2025-04-28 01:45:22+00:00,active,,2024-06-26,onboarded,
 1aa1dad9-b9fa-4967-b78a-0774c6b09d1f,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,20062.0,2025-03-31 09:06:54+00:00,active,,2024-08-16,,
 1aa25258-f908-48f8-89c7-b5ed01d28b4f,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,35054.0,2025-05-29 19:59:28+00:00,active,,2025-05-27,onboarded,onboarded
@@ -828,6 +840,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 1ad49f4b-36bf-4c15-b2d0-f98157d3f803,reasoning_r1,user,deep_research,Alfred Yam,intern8@carretprivate.com,general,Carret Private,,2025-07-20 04:13:25+00:00,active,,2025-06-18,onboarded,onboarded
 1add49f7-ea63-4f2d-8d07-1e264fe37417,integrate_search,user,normal,David Lee,dlee@redwoodpeak.com,general,Redwood Peak,37003.0,2025-07-23 07:51:07+00:00,active,,2025-07-03,onboarded,
 1add624b-0564-404f-a3bb-e98652fa46ba,rms,user,individual_summary,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-06-27 08:24:14+00:00,active,,2024-06-26,onboarded,
+1af6adf1-8eac-45b9-841d-b06f612be841,integrate_search,user,normal,Carley Shum,carley@carretprivate.com,general,Carret Private,32263.0,2025-08-12 09:47:50+00:00,active,,2025-06-18,,onboarded
 1b002c4d-06ed-45c7-88f4-773b597b5451,integrate_search,user,normal,Lin Hu,hu.lin@cgsi.com,general,CGS International,,2025-07-02 06:52:05+00:00,active,,2025-06-10,onboarded,onboarded
 1b002c4d-06ed-45c7-88f4-773b597b5451,integrate_search,user,normal,Lin Hu,hu.lin@cgsi.com,general,CGS International,,2025-07-02 06:52:05+00:00,active,,2025-06-10,onboarded,onboarded
 1b046d86-a61b-4c29-a8d1-7851bc15c2bf,integrate_search,user,primer,Cecily Yu,cecily.yu@clsa.com,general,CLSA,,2025-06-13 06:22:09+00:00,active,Research,2025-06-09,onboarded,
@@ -867,6 +880,8 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 1c4dbfff-432f-4dd5-a8e7-28e307aaa64d,integrate_search,user,normal,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,12382.0,2025-07-05 04:42:48+00:00,active,,2024-06-26,onboarded,
 1c570f0c-6f53-4c8e-bee1-278f3010a409,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2024-06-26 11:16:07+00:00,active,,2024-06-26,onboarded,
 1c598496-4aeb-44a5-8773-4d2bbaf8d055,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,24309.0,2025-07-08 08:31:33+00:00,active,,2025-06-10,,
+1c5a7f5e-1ee7-48a6-9a55-a204ecd8b553,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,89559.0,2025-08-12 03:10:32+00:00,active,,2025-06-18,onboarded,onboarded
+1c5a7f5e-1ee7-48a6-9a55-a204ecd8b553,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,89559.0,2025-08-12 03:10:32+00:00,active,,2025-06-18,onboarded,onboarded
 1c737351-a45f-484a-8f3f-8a230fcf95d0,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,22752.0,2025-07-27 08:04:02+00:00,active,,2024-08-16,,
 1c82d4c5-0d18-40c0-86a1-b74a8c40c77e,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-06-03 02:18:18+00:00,active,,2024-06-26,onboarded,
 1c830c11-3eb9-4e5d-895c-e47f19845bfb,integrate_search,user,meeting_agent,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,,2025-08-11 09:01:36+00:00,active,,2024-06-26,onboarded,
@@ -892,6 +907,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 1d512625-9682-49cf-9908-3e0efb6a26ab,integrate_search,user,normal,Carley Shum,carley@carretprivate.com,general,Carret Private,47560.0,2025-08-07 04:15:03+00:00,active,,2025-06-18,,onboarded
 1d6ccc5b-512f-4520-abdc-a9547f9977c5,integrate_search,user,normal,ian.wang,ian.wang@trivest-advisors.com,general,Trivest Advisors,12648.0,2025-05-01 01:15:55+00:00,active,,2024-06-26,onboarded,
 1d6eddd6-2a04-4ec0-a056-f2d18b77fcef,reasoning_r1,user,deep_research,Victor German,victor.german@macquarie.com,general,Macquarie,,2025-06-17 01:29:19+00:00,active,,2025-06-10,,
+1d70d68b-89b6-4a38-b57f-f1d7096cd9ef,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-08-12 15:10:45+00:00,active,,2025-05-27,onboarded,onboarded
 1d73b01e-7f2c-4f0f-a536-62aa55491d4b,integrate_search,user,normal,Hangyul Son,hangyul.son@clsa.com,general,CLSA,110750.0,2025-08-11 14:17:01+00:00,active,Research,2025-06-09,onboarded,onboarded
 1d7f092e-92db-404c-bc13-d95fa79560d6,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-05-27 02:30:23+00:00,active,,2024-06-26,onboarded,
 1d80287e-06e3-4dad-bdfd-e44d045c62a6,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,37175.0,2025-08-04 03:47:02+00:00,active,,2025-06-18,onboarded,onboarded
@@ -1021,6 +1037,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 220f461a-17ef-45c0-bd05-8fb4a5ae634e,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,154499.0,2025-07-23 13:26:19+00:00,active,,2024-08-16,onboarded,
 2218a629-99ed-4a93-aa43-b06aa3675094,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,46843.0,2025-08-08 18:01:40+00:00,active,,2025-05-27,onboarded,onboarded
 2218a629-99ed-4a93-aa43-b06aa3675094,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,46843.0,2025-08-08 18:01:40+00:00,active,,2025-05-27,onboarded,onboarded
+221a417b-62d2-4c15-ac61-60b679e4671e,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-08-12 16:24:12+00:00,active,,2025-05-27,onboarded,onboarded
 2227cadf-9fe5-447c-9f50-0c7ca8e34d28,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-04-16 02:14:37+00:00,active,,2024-06-26,onboarded,
 222a89ae-3fd9-424a-8771-0931ffdf2bee,rms,user,individual_summary,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-06-04 00:18:43+00:00,active,,2024-06-26,onboarded,
 222d61f1-0f4b-4b4f-8dd4-e6bdd2a903c3,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,,2025-04-23 02:54:46+00:00,active,,2024-08-16,,
@@ -1294,17 +1311,22 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 2b61550d-d855-456c-b46b-12a692e4c8c1,integrate_search,user,ownership_data,Luqman Yahya,luqman.yahya@cgsi.com,general,CGS International,,2025-07-08 10:43:11+00:00,active,,2025-06-10,,
 2b647165-9d9d-4463-abe2-194bc438fcbf,integrate_search,user,meeting_agent,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,,2025-07-11 12:24:21+00:00,active,,2024-06-26,onboarded,
 2b782b26-3463-4ddd-b3b7-c567ab97e39b,integrate_search,user,normal,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,28481.0,2025-05-04 12:37:44+00:00,active,,2024-06-26,onboarded,
+2b81d6dc-d821-4cf1-a641-d899389f7a46,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,,2025-08-13 00:40:39+00:00,active,,2025-06-18,onboarded,onboarded
+2b81d6dc-d821-4cf1-a641-d899389f7a46,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,,2025-08-13 00:40:39+00:00,active,,2025-06-18,onboarded,onboarded
 2b87fdb7-5906-463b-9bbb-46ea4af2cd92,integrate_search,user,normal,Hiroshi Yamashina,hiroshi.yamashina@macquarie.com,general,Macquarie,32304.0,2025-07-07 22:32:07+00:00,active,,2025-06-10,,
 2b8c99f9-a3dd-442b-9974-24f2c22b84d6,rms,user,normal,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,17222.0,2025-07-07 02:22:50+00:00,active,,2024-06-26,onboarded,
 2b9dab59-cc30-47e5-82cc-45d7a2f18b74,rms,user,individual_summary,Terence Chang,terence.chang@macquarie.com,general,Macquarie,,2025-06-24 06:24:55+00:00,active,,2025-06-10,onboarded,onboarded
 2b9dab59-cc30-47e5-82cc-45d7a2f18b74,rms,user,individual_summary,Terence Chang,terence.chang@macquarie.com,general,Macquarie,,2025-06-24 06:24:55+00:00,active,,2025-06-10,onboarded,onboarded
 2b9dab59-cc30-47e5-82cc-45d7a2f18b74,rms,user,individual_summary,Terence Chang,terence.chang@macquarie.com,general,Macquarie,,2025-06-24 06:24:55+00:00,active,,2025-06-10,onboarded,onboarded
+2bad4e96-1793-4623-8a76-2af77a317b57,rms,user,meeting_agent,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,,2025-08-12 03:57:13+00:00,active,,2024-06-26,onboarded,
+2bbbb7f3-b9a6-4fc7-bfe1-030095fd0e2c,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-08-12 15:10:45+00:00,active,,2025-05-27,onboarded,onboarded
 2bd0d499-ef46-4d94-a024-a3dc386d6c6e,rms,user,normal,Ian Hui,intern9@carretprivate.com,general,Carret Private,16621.0,2025-07-17 06:00:07+00:00,active,,2025-06-18,,
 2be16ae4-9713-44ed-b09d-83957090aa80,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,179654.0,2025-07-07 07:15:27+00:00,active,,2025-06-10,,
 2bf0b938-cc5d-464d-b8a7-bbe2c40e297e,integrate_search,user,normal,Scott Schafer,scott@rockspringscapital.com,general,Rock Springs Capital,42417.0,2025-07-11 19:29:41+00:00,active,,2025-07-07,,
 2bf3361f-413f-40c8-8dab-433637fbbbeb,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,37068.0,2025-08-08 01:16:17+00:00,active,,2024-08-16,onboarded,
 2bf939f2-34e6-4f73-bad2-8d3b86f562c9,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,41906.0,2025-02-03 01:16:27+00:00,active,,2024-06-26,onboarded,
 2bfbf9e0-cc97-43ca-85ff-52f92660fa51,rms,user,individual_summary,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-06-01 19:58:09+00:00,active,,2024-06-26,onboarded,
+2bfff9a8-67ad-4681-a2df-f85efd4042bc,reasoning_r1,user,deep_research,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,,2025-08-12 02:04:41+00:00,active,,2024-08-16,,
 2c0569b7-7d6c-4ea2-b34f-d7556f9ad2bc,integrate_search,user,normal,MICHAEL YAN LUNG YIP,michael@carretprivate.com,general,Carret Private,91119.0,2025-07-30 03:00:43+00:00,active,,2025-06-18,,
 2c182800-3263-4583-b72c-cc58fcb3d373,reasoning_r1,user,deep_research,Alfred Yam,intern8@carretprivate.com,general,Carret Private,,2025-07-16 06:43:47+00:00,active,,2025-06-18,onboarded,onboarded
 2c182800-3263-4583-b72c-cc58fcb3d373,reasoning_r1,user,deep_research,Alfred Yam,intern8@carretprivate.com,general,Carret Private,,2025-07-16 06:43:47+00:00,active,,2025-06-18,onboarded,onboarded
@@ -1344,6 +1366,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 2d3d41cb-05db-4543-8fc5-b0cc482f608c,integrate_search,user,normal,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,20318.0,2025-05-09 08:30:10+00:00,active,,2024-06-26,onboarded,
 2d533907-6fd0-4ed2-b090-835fa95ba374,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,16497.0,2025-05-30 18:08:07+00:00,active,,2025-05-27,onboarded,onboarded
 2d533907-6fd0-4ed2-b090-835fa95ba374,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,16497.0,2025-05-30 18:08:07+00:00,active,,2025-05-27,onboarded,onboarded
+2d538d30-08e3-4d6d-9b48-946acd806b25,rms,user,meeting_agent,Admin Janchor,admin@janchorpartners.com,general,Janchor Partners,,2025-08-12 08:09:32+00:00,active,,2025-06-02,,
 2d5b7d43-bed0-4e68-9111-f391f68ddda1,integrate_search,user,call_summarize,Chee Kin Soo,cheekin.soo@cgsi.com,general,CGS International,23292.0,2025-06-26 02:08:43+00:00,active,,2025-06-10,,
 2d7141b4-69bb-490a-bfc9-b2f40499aaeb,integrate_search,user,normal,Lin Hu,hu.lin@cgsi.com,general,CGS International,61805.0,2025-07-01 07:27:46+00:00,active,,2025-06-10,onboarded,onboarded
 2d7141b4-69bb-490a-bfc9-b2f40499aaeb,integrate_search,user,normal,Lin Hu,hu.lin@cgsi.com,general,CGS International,61805.0,2025-07-01 07:27:46+00:00,active,,2025-06-10,onboarded,onboarded
@@ -1365,6 +1388,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 2df0bb4c-e9f9-4766-acc1-81c1bc2222b1,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,44124.0,2025-08-11 16:22:14+00:00,active,,2025-06-18,onboarded,onboarded
 2df0bb4c-e9f9-4766-acc1-81c1bc2222b1,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,44124.0,2025-08-11 16:22:14+00:00,active,,2025-06-18,onboarded,onboarded
 2dfcba70-0726-4491-aa07-377cc733aa9e,rms,user,normal,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,13143.0,2025-07-30 13:55:44+00:00,active,,2024-06-26,onboarded,
+2e21c813-5c3c-4a40-8435-e01b2353985e,integrate_search,user,normal,Johnson Lin,jlin@schonfeld.com,test_feature,Schonfeld,24379.0,2025-08-12 09:22:35+00:00,active,,2024-08-16,,
 2e28f113-97bd-4676-9e8c-8e3a79a28953,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,41427.0,2025-05-29 02:02:15+00:00,active,,2024-06-26,onboarded,
 2e335feb-c4b4-4d54-a824-c8314808aa17,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-06-24 14:45:30+00:00,active,,2025-05-27,onboarded,onboarded
 2e527233-5f67-4c02-946f-4230b0062b9f,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,45307.0,2025-08-07 09:18:29+00:00,active,,2024-08-16,,
@@ -1392,6 +1416,8 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 2ed3e894-da2d-4dc7-9c3e-0e7c4bd1586c,rms,user,individual_summary,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-05-22 06:54:14+00:00,active,,2024-06-26,onboarded,
 2eeefab0-adeb-4597-8b48-ce9e11a4319b,integrate_search,user,normal,MICHAEL YAN LUNG YIP,michael@carretprivate.com,general,Carret Private,29128.0,2025-07-28 08:51:57+00:00,active,,2025-06-18,,
 2ef5b148-e744-4028-8501-cdb45893c1bc,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,14023.0,2025-03-25 03:14:43+00:00,active,,2024-08-16,,
+2f00bdbb-91c9-4499-af13-4666fc11f10e,reasoning_r1,user,deep_research,Alfred Yam,intern8@carretprivate.com,general,Carret Private,,2025-08-12 09:30:23+00:00,active,,2025-06-18,onboarded,onboarded
+2f00bdbb-91c9-4499-af13-4666fc11f10e,reasoning_r1,user,deep_research,Alfred Yam,intern8@carretprivate.com,general,Carret Private,,2025-08-12 09:30:23+00:00,active,,2025-06-18,onboarded,onboarded
 2f01b809-549a-47db-87d9-e44a54df01db,rms,user,normal,Peter Williamson,peter.williamson@macquarie.com,general,Macquarie,23600.0,2025-06-23 08:43:36+00:00,active,,2025-06-10,onboarded,
 2f30d409-f71e-4aed-b88b-949541e31b83,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,18178.0,2025-07-22 08:46:10+00:00,active,,2025-06-10,,
 2f4316f4-b411-44e5-8e6c-d9ce9820dd4c,integrate_search,user,normal,Scott Schafer,scott@rockspringscapital.com,general,Rock Springs Capital,51385.0,2025-07-11 19:26:35+00:00,active,,2025-07-07,,
@@ -1497,6 +1523,8 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 3271dd26-88e5-4efb-85e5-827423330bd8,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,55097.0,2025-07-22 23:04:17+00:00,active,,2024-08-16,onboarded,onboarded
 3271dd26-88e5-4efb-85e5-827423330bd8,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,55097.0,2025-07-22 23:04:17+00:00,active,,2024-08-16,onboarded,onboarded
 3271dd26-88e5-4efb-85e5-827423330bd8,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,55097.0,2025-07-22 23:04:17+00:00,active,,2024-08-16,onboarded,onboarded
+3283632d-d1a0-44f0-b17e-178299121f7c,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,89365.0,2025-08-12 03:50:13+00:00,active,,2025-06-18,onboarded,onboarded
+3283632d-d1a0-44f0-b17e-178299121f7c,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,89365.0,2025-08-12 03:50:13+00:00,active,,2025-06-18,onboarded,onboarded
 32ae4f09-c65b-416a-88d2-615a2672d2ae,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-06-03 17:49:17+00:00,active,,2024-06-26,onboarded,
 32b5e614-e5a9-44df-85e3-4698d1a0c67d,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,16907.0,2025-03-30 07:52:07+00:00,active,,2024-08-16,,
 32c70179-863b-412b-afed-60a93f2f7a31,integrate_search,user,normal,Jayden Son,jayden.son@macquarie.com,general,Macquarie,25113.0,2025-07-27 02:10:14+00:00,active,,2025-06-10,onboarded,onboarded
@@ -1576,6 +1604,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 3503700b-3016-4d54-82a9-3a9d0e0b9b2d,integrate_search,user,normal,Kunal Aswani,intern7@carretprivate.com,general,Carret Private,85127.0,2025-07-03 09:33:30+00:00,active,,2025-06-18,,
 350dbe82-b924-4b2c-9efe-a141177ea85f,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,17667.0,2025-04-01 05:54:26+00:00,active,,2024-08-16,,
 350dd8fb-c68a-46d0-81f4-74850bfeaefc,integrate_search,user,normal,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,15574.0,2024-10-29 06:51:22+00:00,active,,2024-06-26,onboarded,
+35112fe4-1f68-49f2-bfa4-d5ad07f2b9b7,integrate_search,user,normal,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,31518.0,2025-08-12 14:14:44+00:00,active,,2025-05-27,onboarded,onboarded
 3511758c-e59a-45c7-afb4-ab32cdb5865e,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-03-24 02:10:44+00:00,active,,2024-06-26,onboarded,
 3517944b-a771-43db-9a67-5247137c92bc,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-05-30 14:59:07+00:00,active,,2025-05-27,onboarded,onboarded
 351a1c7b-70c8-470c-8ee6-a6e06c9bff2c,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-08-05 17:14:03+00:00,active,,2025-05-27,onboarded,onboarded
@@ -1599,6 +1628,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 357bc0d8-54a2-431c-b0ea-1942996e082e,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-07-07 16:15:53+00:00,active,,2025-05-27,onboarded,onboarded
 35b459f0-0291-4531-9cc3-88d1c36019f1,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,,2025-08-07 23:27:48+00:00,active,,2025-06-18,onboarded,onboarded
 35b459f0-0291-4531-9cc3-88d1c36019f1,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,,2025-08-07 23:27:48+00:00,active,,2025-06-18,onboarded,onboarded
+35c52fe1-73e2-4d13-a3ad-945c05b3972e,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,30375.0,2025-08-12 03:51:23+00:00,active,,2024-08-16,onboarded,
 35d07871-0443-46fa-9619-3827264eabb5,linq_alpha,user,normal,Seungyeop Lee,sylee@schonfeld.com,test_feature,Schonfeld,9696.0,2024-08-16 07:30:28+00:00,active,,2024-08-16,,
 35d5f064-4c42-40f7-8c02-d8a0c5f3c275,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2024-06-27 07:53:57+00:00,active,,2024-06-26,onboarded,
 35f8b01f-aceb-4b4e-ae9a-547a4913960f,integrate_search,user,normal,Dickie Wong,dickie.wong@carretprivate.com,general,Carret Private,23978.0,2025-06-20 08:25:40+00:00,active,,2025-06-18,,
@@ -1682,6 +1712,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 3878f077-9c53-4ef9-b8b3-c90acf084413,integrate_search,user,pulse_check,Hangyul Son,hangyul.son@clsa.com,general,CLSA,,2025-07-21 02:28:13+00:00,active,Research,2025-06-09,onboarded,onboarded
 38810c4f-9af9-421d-8955-536c9c483528,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,22455.0,2025-07-20 08:31:50+00:00,active,,2025-06-18,onboarded,onboarded
 38810c4f-9af9-421d-8955-536c9c483528,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,22455.0,2025-07-20 08:31:50+00:00,active,,2025-06-18,onboarded,onboarded
+38911166-fcd4-44cf-a231-57a3440712e9,integrate_search,user,normal,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,24259.0,2025-08-12 19:14:39+00:00,active,,2025-05-27,onboarded,onboarded
 389cf04f-e894-4470-8500-d2196ade0591,integrate_search,user,structured_data,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,4359.0,2025-07-21 11:41:47+00:00,active,,2025-05-27,onboarded,onboarded
 389f4cf3-24f8-4384-88a1-742048c13265,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,9805.0,2025-01-03 05:25:39+00:00,active,,2024-06-26,onboarded,
 38a2ef1c-41c9-4b58-85a0-081208471525,integrate_search,user,normal,Fergus Kwan,fergus.kwan@macquarie.com,general,Macquarie,40789.0,2025-05-09 03:10:55+00:00,active,,2025-06-10,,
@@ -1844,6 +1875,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 3dbf34fe-2f35-434d-8ac7-bbeaaa70700c,integrate_search,user,normal,HING MAN LEUNG,inness@carretprivate.com,general,Carret Private,164609.0,2025-08-01 01:40:21+00:00,active,,2025-06-18,,
 3dc14b57-a3d4-4bbf-bf5e-c03b56a51279,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,14502.0,2024-10-25 07:25:58+00:00,active,,2024-06-26,onboarded,
 3dc63cf9-9aa1-4dbf-96b3-2680158b4c8b,integrate_search,user,call_summarize,Hangyul Son,hangyul.son@clsa.com,general,CLSA,,2025-07-21 02:17:12+00:00,active,Research,2025-06-09,onboarded,onboarded
+3de6b449-5094-4936-a680-ec09e1a71123,integrate_search,user,meeting_agent,Ray Wu,rywu@schonfeld.com,test_feature,Schonfeld,,2025-08-12 17:03:41+00:00,active,,2024-08-16,onboarded,
 3de92237-008f-4991-be5c-03ee4ade2e5d,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,21180.0,2025-07-15 10:14:30+00:00,active,,2025-06-10,,
 3deaf35c-bb91-42e7-97e2-a37905e9f6ae,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,32253.0,2025-08-06 11:16:53+00:00,active,,2025-06-10,,
 3df93cdc-9435-4393-981c-93a74bd22f48,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,586219.0,2025-06-20 11:04:30+00:00,active,,2025-06-10,onboarded,onboarded
@@ -1936,6 +1968,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 4160ab00-0101-47a2-9f01-c16f82625e61,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-07-07 16:15:53+00:00,active,,2025-05-27,onboarded,onboarded
 41656c3d-7c81-4161-99c7-eafd2d7597ec,integrate_search,user,normal,Nicolas Katsapas,nkatsapas@schonfeld.com,test_feature,Schonfeld,34088.0,2025-08-08 15:05:25+00:00,active,,2024-08-16,,onboarded
 417390ae-5c5f-4b01-b92c-41bc8c055a36,integrate_search,user,normal,Ray Wu,rywu@schonfeld.com,test_feature,Schonfeld,31852.0,2025-08-08 08:50:55+00:00,active,,2024-08-16,onboarded,
+41787023-d110-487d-95ad-e56c065d8c04,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,33064.0,2025-08-12 08:21:45+00:00,active,,2024-06-26,onboarded,
 417a98a9-c68c-4833-bdcb-820e159e4282,integrate_search,user,call_summarize,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,,2025-05-01 06:25:26+00:00,active,,2024-08-16,,
 4180791e-0088-4bf2-abb3-e86017782d8f,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,19424.0,2025-05-21 21:37:48+00:00,active,,2024-06-26,onboarded,
 4180c905-66ed-4059-a973-0d7e0e817c88,reasoning_r1,user,deep_research,Jayden Son,jayden.son@macquarie.com,general,Macquarie,,2025-06-24 04:50:14+00:00,active,,2025-06-10,onboarded,onboarded
@@ -1979,6 +2012,8 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 422e54e9-10e4-401c-8eeb-8d895a80cd2d,reasoning_r1,user,deep_research,Terence Chang,terence.chang@macquarie.com,general,Macquarie,,2025-06-24 23:43:11+00:00,active,,2025-06-10,onboarded,onboarded
 4237073d-9bb8-45fc-8dac-30e4b8908b74,integrate_search,user,normal,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,16234.0,2025-04-30 03:15:08+00:00,active,,2024-06-26,onboarded,
 424bd4c9-f589-4d81-b602-98426d8eac48,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,8177.0,2024-08-10 07:19:33+00:00,active,,2024-06-26,onboarded,
+42525d7f-f99f-4598-a5c9-972bd160c436,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,36487.0,2025-08-12 03:36:33+00:00,active,,2025-06-18,onboarded,onboarded
+42525d7f-f99f-4598-a5c9-972bd160c436,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,36487.0,2025-08-12 03:36:33+00:00,active,,2025-06-18,onboarded,onboarded
 4256c34a-cd15-4ea7-a53f-0887ecab89f1,reasoning_r1,user,deep_research,Alfred Yam,intern8@carretprivate.com,general,Carret Private,,2025-07-15 04:51:05+00:00,active,,2025-06-18,onboarded,onboarded
 4256c34a-cd15-4ea7-a53f-0887ecab89f1,reasoning_r1,user,deep_research,Alfred Yam,intern8@carretprivate.com,general,Carret Private,,2025-07-15 04:51:05+00:00,active,,2025-06-18,onboarded,onboarded
 4258dc99-bdcd-4a63-ab5e-6747fe978c6d,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,38618.0,2025-08-07 09:20:17+00:00,active,,2024-08-16,,
@@ -2416,6 +2451,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 506e761e-bf76-4df4-bb5f-d06ecb96835c,reasoning_r1,user,deep_research,Matthew Brooks,matthew.brooks@macquarie.com,general,Macquarie,,2025-08-07 01:09:03+00:00,active,,2025-06-10,onboarded,
 507427c7-6fdd-409b-8481-3e93f5d47a8e,reasoning_r1,user,deep_research,Kelly Chan,kelly.chan@janchorpartners.com,general,Janchor Partners,,2025-06-05 08:16:57+00:00,active,,2025-06-02,active,
 50867bfa-efe8-414c-9fbf-973ca75c6a23,integrate_search,user,normal,ian.wang,ian.wang@trivest-advisors.com,general,Trivest Advisors,21805.0,2025-08-01 03:34:02+00:00,active,,2024-06-26,onboarded,
+508f3144-91bf-458e-bd05-07469545bc4f,rms,user,meeting_agent,Admin Janchor,admin@janchorpartners.com,general,Janchor Partners,,2025-08-12 08:10:52+00:00,active,,2025-06-02,,
 5092aac9-1e62-4b70-ba6e-e6a974adf8ee,rms,user,meeting_agent,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,,2025-03-19 08:03:42+00:00,active,,2024-06-26,onboarded,
 5095e290-9442-4e61-8b6e-1b414b94e3bd,integrate_search,user,meeting_agent,Shuo Yang,shuo.yang@trivest-advisors.com,general,Trivest Advisors,,2025-07-17 16:31:05+00:00,active,,2024-06-26,active,
 509ac6f0-1182-4fd4-8081-f3bbe45ff99e,reasoning_r1,user,deep_research,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,,2025-07-14 01:13:00+00:00,active,,2025-06-10,,
@@ -2477,6 +2513,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 5231e808-ac94-43f5-bc1d-715366658cc2,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,36795.0,2025-07-25 07:07:36+00:00,active,,2024-08-16,onboarded,
 524d9481-a0bf-42ed-a420-e1552e144b43,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,17480.0,2024-10-30 22:15:54+00:00,active,,2024-06-26,onboarded,
 52510bdd-d4f2-499c-a864-28c94bb3b236,reasoning_r1,user,deep_research,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,,2025-07-31 05:30:17+00:00,active,,2025-06-10,,
+525c7286-a52c-4c1b-b395-0d092991e07a,integrate_search,user,meeting_agent,Ray Wu,rywu@schonfeld.com,test_feature,Schonfeld,,2025-08-12 17:01:36+00:00,active,,2024-08-16,onboarded,
 526b6c90-6b8b-4673-a325-facfe2ca4f3b,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-07-14 17:37:33+00:00,active,,2025-05-27,onboarded,onboarded
 527f7f44-fadf-4209-9d82-fd62dff9cbe4,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-07-07 17:01:09+00:00,active,,2025-05-27,onboarded,onboarded
 5296aedb-a3f7-4bba-a4ce-ef130264fbbf,reasoning_r1,user,deep_research,Alfred Yam,intern8@carretprivate.com,general,Carret Private,,2025-07-16 06:04:53+00:00,active,,2025-06-18,onboarded,onboarded
@@ -2530,6 +2567,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 54355e5f-e33e-4c67-a7bb-61acea9da260,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,25082.0,2025-07-10 02:26:11+00:00,active,,2025-06-10,,
 543b39cf-7949-451f-9f4d-eb64b2c12c10,integrate_search,user,normal,David Lee,dlee@redwoodpeak.com,general,Redwood Peak,19010.0,2025-07-17 02:18:43+00:00,active,,2025-07-03,onboarded,
 544056e5-da1c-4e9e-82fc-cb2a165c473f,integrate_search,user,normal,Peter Williamson,peter.williamson@macquarie.com,general,Macquarie,25892.0,2025-04-17 09:46:36+00:00,active,,2025-06-10,onboarded,
+5441a0d2-ca48-4944-8b7b-f04e76df07dd,reasoning_r1,user,deep_research,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,,2025-08-12 06:52:21+00:00,active,,2024-08-16,,
 5448be42-cd4f-4abb-a3f3-2e1a2a274357,reasoning_r1,user,deep_research,Abhiram Eleswarapu,abhiram.eleswarapu@asia.bnpparibas.com,general,BNP Paribas,,2025-06-09 08:17:20+00:00,active,,2025-06-09,onboarded,onboarded
 544e34d9-e0a4-4580-9a4e-897ec478cf2b,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,285718.0,2025-07-07 08:06:20+00:00,active,,2025-06-10,onboarded,onboarded
 544e34d9-e0a4-4580-9a4e-897ec478cf2b,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,285718.0,2025-07-07 08:06:20+00:00,active,,2025-06-10,onboarded,onboarded
@@ -2537,6 +2575,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 5450a3a4-09d5-4c8a-80a0-dfd1084148cb,integrate_search,user,normal,Elsie Haiwen Cheng,elsie.cheng@trivest-advisors.com,general,Trivest Advisors,11433.0,2025-01-01 05:46:16+00:00,active,,2024-06-26,blocked,
 5462196e-e57f-4c5b-9893-7acf78426f08,rms,user,individual_summary,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,,2025-06-05 02:47:11+00:00,active,,2024-06-26,onboarded,
 546e154e-06dc-42a3-b6bd-40e0ad1f5188,integrate_search,user,normal,Ian Hui,intern9@carretprivate.com,general,Carret Private,73012.0,2025-07-28 01:48:59+00:00,active,,2025-06-18,,
+547d6271-40f5-4697-aedb-aad42cc816f8,integrate_search,user,normal,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,68713.0,2025-08-12 14:45:02+00:00,active,,2024-06-26,onboarded,
 5480e5ce-3032-4795-aaae-2cd8fd7c60ae,rms,user,individual_summary,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-07-21 07:47:22+00:00,active,,2024-06-26,onboarded,
 548a50b2-77e5-45ac-829e-54db946b71e6,integrate_search,user,normal,Abhiram Eleswarapu,abhiram.eleswarapu@asia.bnpparibas.com,general,BNP Paribas,,2025-07-08 09:25:31+00:00,active,,2025-06-09,onboarded,onboarded
 549a2b3b-1f54-482a-a6a3-55ac5687ee00,integrate_search,user,normal,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,44566.0,2025-07-17 13:06:35+00:00,active,,2025-05-27,onboarded,onboarded
@@ -2568,6 +2607,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 557f4351-1143-4f2a-9995-66c8ee79338a,integrate_search,user,pulse_check,Jayden Son,jayden.son@macquarie.com,general,Macquarie,,2025-06-24 06:20:45+00:00,active,,2025-06-10,onboarded,onboarded
 55939e30-13d8-4edd-8ca3-791e0e082cda,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,33581.0,2025-07-01 08:58:38+00:00,active,,2025-06-18,onboarded,onboarded
 55939e30-13d8-4edd-8ca3-791e0e082cda,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,33581.0,2025-07-01 08:58:38+00:00,active,,2025-06-18,onboarded,onboarded
+55946310-df20-4ff8-bbb3-b32d37f0529d,rms,user,meeting_agent,Admin Janchor,admin@janchorpartners.com,general,Janchor Partners,,2025-08-12 08:10:10+00:00,active,,2025-06-02,,
 5598d796-f51f-45dd-ada4-77c8a210157b,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,45157.0,2025-08-07 10:04:20+00:00,active,,2025-06-10,,
 559b2449-5571-4537-826e-cacd45ed5f5f,integrate_search,user,normal,Peter Williamson,peter.williamson@macquarie.com,general,Macquarie,21905.0,2025-05-09 03:44:11+00:00,active,,2025-06-10,onboarded,
 55a15472-018d-4524-8bba-2726416b657d,integrate_search,user,normal,Jayden Son,jayden.son@macquarie.com,general,Macquarie,19984.0,2025-07-27 03:18:01+00:00,active,,2025-06-10,onboarded,onboarded
@@ -2575,6 +2615,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 55ae5b2c-8f71-47b9-9c7f-93592308aae1,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,28458.0,2025-07-03 09:20:07+00:00,active,,2025-06-18,onboarded,onboarded
 55ae5b2c-8f71-47b9-9c7f-93592308aae1,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,28458.0,2025-07-03 09:20:07+00:00,active,,2025-06-18,onboarded,onboarded
 55bba4b3-4e24-4b48-8375-dbcf7a92f951,integrate_search,user,normal,Josh YAng,josh.yang@citi.com,general,Citigroup,87990.0,2025-07-29 08:02:09+00:00,active,,2025-07-28,active,
+55d4bdeb-75d7-46c8-9e49-2c7f278697fc,integrate_search,user,meeting_agent,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,,2025-08-12 12:48:27+00:00,active,,2024-06-26,onboarded,
 55e659e9-afc0-4f05-a00f-ddd3a708b156,reasoning_r1,user,deep_research,Victor German,victor.german@macquarie.com,general,Macquarie,,2025-07-27 10:29:42+00:00,active,,2025-06-10,,
 560db727-5ea9-49e8-a859-08122b259625,rms,user,individual_summary,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-06-03 22:33:05+00:00,active,,2024-06-26,onboarded,
 56120cd2-d9a1-4931-a701-071edd8bef7f,integrate_search,user,normal,Elsie Haiwen Cheng,elsie.cheng@trivest-advisors.com,general,Trivest Advisors,14480.0,2025-01-02 09:08:20+00:00,active,,2024-06-26,blocked,
@@ -2599,6 +2640,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 565af5b8-5a14-4f43-884c-2bacc8fdf902,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-07-07 16:15:53+00:00,active,,2025-05-27,onboarded,onboarded
 5668f3da-b529-48d6-82b1-fabc889b4fb2,integrate_search,user,normal,Boyan Petrov,bpetrov@schonfeld.com,test_feature,Schonfeld,13606.0,2024-12-10 14:12:53+00:00,active,,2024-08-16,,
 567112ab-d465-47dd-9747-eb98ff69b807,integrate_search,user,normal,Allison Horenberg,allison@rockspringscapital.com,general,Rock Springs Capital,24621.0,2025-07-07 16:08:19+00:00,active,,2025-07-07,,
+56714146-1139-49f0-a7c3-4ba4d53f4af4,integrate_search,user,pulse_check,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,,2025-08-12 13:11:42+00:00,active,,2024-06-26,onboarded,
 569049bf-b5f7-44a5-8e2f-4b009063848f,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,24475.0,2025-07-28 02:19:49+00:00,active,,2025-06-18,onboarded,onboarded
 569049bf-b5f7-44a5-8e2f-4b009063848f,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,24475.0,2025-07-28 02:19:49+00:00,active,,2025-06-18,onboarded,onboarded
 56939fdb-edc4-4299-ac28-da0ddedebc91,integrate_search,user,meeting_agent,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,,2025-08-11 09:08:45+00:00,active,,2024-06-26,onboarded,
@@ -2649,6 +2691,8 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 579457a1-2ee8-4133-aaf5-c41edde548cf,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,17190.0,2025-06-23 20:43:17+00:00,active,,2025-05-27,onboarded,onboarded
 579457a1-2ee8-4133-aaf5-c41edde548cf,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,17190.0,2025-06-23 20:43:17+00:00,active,,2025-05-27,onboarded,onboarded
 579c03b5-96ec-4e9a-ab3b-56e7184764a1,integrate_search,user,normal,Mayumi  Nishikawa,mayumi.nishikawa@japan.bnpparibas.com,general,BNP Paribas,38941.0,2025-07-25 04:48:22+00:00,active,,2025-06-09,onboarded,
+57a18990-f4d0-4e64-97a1-ffb5803cebed,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,76869.0,2025-08-12 03:34:22+00:00,active,,2025-06-18,onboarded,onboarded
+57a18990-f4d0-4e64-97a1-ffb5803cebed,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,76869.0,2025-08-12 03:34:22+00:00,active,,2025-06-18,onboarded,onboarded
 57a92f8c-4fd9-4bad-956e-52a3dd56b0b5,integrate_search,user,normal,Jayden Son,jayden.son@macquarie.com,general,Macquarie,27930.0,2025-07-27 06:42:10+00:00,active,,2025-06-10,onboarded,onboarded
 57aa6a77-b2ea-4942-9530-29c4da91dc1a,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,10734.0,2024-09-11 21:51:50+00:00,active,,2024-06-26,onboarded,
 57bc556a-d0d8-48d1-a4f0-e42d1592f0e1,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-02-27 16:45:00+00:00,active,,2024-06-26,onboarded,
@@ -2663,6 +2707,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 5816f483-1ad5-459b-ace2-68c41fbe7aa3,integrate_search,user,normal,Dickie Wong,dickie.wong@carretprivate.com,general,Carret Private,60983.0,2025-07-21 03:36:29+00:00,active,,2025-06-18,,
 581d8a3c-29ca-4714-8439-26f111fdf258,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,26847.0,2025-08-06 06:38:41+00:00,active,,2025-06-18,onboarded,onboarded
 581d8a3c-29ca-4714-8439-26f111fdf258,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,26847.0,2025-08-06 06:38:41+00:00,active,,2025-06-18,onboarded,onboarded
+582175a9-babd-4c8e-bc94-5a0c7ac4fcaf,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-08-12 16:24:12+00:00,active,,2025-05-27,onboarded,onboarded
 5822d83e-e57a-43ee-9546-d162a9910734,integrate_search,user,normal,Suthinee Witha,suthinee.wi@cgsi.com,general,CGS International,29921.0,2025-06-25 07:05:53+00:00,active,,2025-06-10,onboarded,onboarded
 5824056d-c560-4388-8355-f15fb10538bd,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,80081.0,2025-07-14 14:59:26+00:00,active,,2025-06-18,onboarded,onboarded
 5824056d-c560-4388-8355-f15fb10538bd,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,80081.0,2025-07-14 14:59:26+00:00,active,,2025-06-18,onboarded,onboarded
@@ -2672,6 +2717,8 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 584b7ad1-2582-4a24-b512-efd876117959,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,23630.0,2024-10-30 22:54:31+00:00,active,,2024-06-26,onboarded,
 58584218-498e-434c-bce7-11422167b435,reasoning_r1,user,deep_research,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-06-27 12:14:39+00:00,active,,2025-05-27,onboarded,onboarded
 58584218-498e-434c-bce7-11422167b435,reasoning_r1,user,deep_research,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-06-27 12:14:39+00:00,active,,2025-05-27,onboarded,onboarded
+58592a77-52ee-41c6-aa58-21b874e1d191,integrate_search,user,normal_gpt5,Alfred Yam,intern8@carretprivate.com,general,Carret Private,38436.0,2025-08-12 03:44:35+00:00,active,,2025-06-18,onboarded,onboarded
+58592a77-52ee-41c6-aa58-21b874e1d191,integrate_search,user,normal_gpt5,Alfred Yam,intern8@carretprivate.com,general,Carret Private,38436.0,2025-08-12 03:44:35+00:00,active,,2025-06-18,onboarded,onboarded
 585f3484-8bdd-47b3-a54b-57b02d02dba8,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,14301.0,2025-06-03 12:06:57+00:00,active,,2025-05-27,onboarded,onboarded
 585f3484-8bdd-47b3-a54b-57b02d02dba8,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,14301.0,2025-06-03 12:06:57+00:00,active,,2025-05-27,onboarded,onboarded
 5872c018-0547-4a29-8a28-49dc8a6590e3,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-08-08 14:50:33+00:00,active,,2025-05-27,onboarded,onboarded
@@ -2825,6 +2872,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 5d627aac-887c-4ea2-87f3-0ff939811e22,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,34065.0,2025-06-30 01:08:21+00:00,active,,2025-06-10,,
 5d63d9aa-ec8d-4f5f-854f-35fa2ffb5463,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,9793.0,2024-11-03 02:30:10+00:00,active,,2024-06-26,onboarded,
 5d67e704-d102-4916-953b-8f897768159c,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,28464.0,2025-07-23 15:16:02+00:00,active,,2024-08-16,onboarded,
+5d687df5-5629-4147-a460-5d0a35cc4a98,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-08-12 16:24:12+00:00,active,,2025-05-27,onboarded,onboarded
 5d7c55a5-e1b9-4706-afc8-392ce3152507,integrate_search,user,normal,Peter Williamson,peter.williamson@macquarie.com,general,Macquarie,18476.0,2025-04-17 07:37:53+00:00,active,,2025-06-10,onboarded,
 5d896853-f48c-44f7-a477-6e93759c2eed,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,66520.0,2025-08-11 17:52:42+00:00,active,,2024-08-16,onboarded,onboarded
 5d896853-f48c-44f7-a477-6e93759c2eed,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,66520.0,2025-08-11 17:52:42+00:00,active,,2024-08-16,onboarded,onboarded
@@ -2925,6 +2973,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 609157f5-602c-48ae-988f-70ee04da3c7e,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,20751.0,2025-06-19 05:37:34+00:00,active,,2025-06-18,onboarded,onboarded
 609157f5-602c-48ae-988f-70ee04da3c7e,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,20751.0,2025-06-19 05:37:34+00:00,active,,2025-06-18,onboarded,onboarded
 60a8d742-6365-4a40-8792-4d7eb6198650,integrate_search,user,meeting_agent,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-07-24 07:33:47+00:00,active,,2024-06-26,onboarded,
+60bb486e-cb3d-4cce-86e3-af8f7f4ba8b7,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,32139.0,2025-08-12 12:53:43+00:00,active,,2024-06-26,onboarded,
 60c2f647-e1bc-4b0b-9de4-f20dd6966e6c,rms,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,25820.0,2025-07-28 08:17:33+00:00,active,,2025-06-10,,
 60ce3fe2-4ef8-4c91-97a4-3869120bd79e,integrate_search,user,normal,Elsie Haiwen Cheng,elsie.cheng@trivest-advisors.com,general,Trivest Advisors,,2024-12-04 04:55:48+00:00,active,,2024-06-26,blocked,
 60ddb006-b6db-4b12-8c1a-4b90469cfdca,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,110736.0,2025-07-10 06:48:01+00:00,active,,2025-06-18,onboarded,onboarded
@@ -2968,6 +3017,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 61e07101-e119-4e45-8798-daa52d5d81a9,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,29820.0,2025-05-27 19:15:09+00:00,active,,2025-05-27,onboarded,onboarded
 61e07101-e119-4e45-8798-daa52d5d81a9,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,29820.0,2025-05-27 19:15:09+00:00,active,,2025-05-27,onboarded,onboarded
 61e2af28-316f-4a62-9b20-d8fcb74bc29a,integrate_search,user,normal,Johnson Lin,jlin@schonfeld.com,test_feature,Schonfeld,47444.0,2025-08-07 07:24:33+00:00,active,,2024-08-16,,
+620ff48f-e3a5-4cb8-91dd-742787d58445,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-08-12 16:24:12+00:00,active,,2025-05-27,onboarded,onboarded
 6216aded-bfb6-4ae1-8051-1e1526b77f6f,rms,user,individual_summary,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-07-03 06:09:15+00:00,active,,2024-06-26,onboarded,
 621ebba9-a1be-44a7-ae58-cceb9ddb2612,integrate_search,user,normal,Fergus Kwan,fergus.kwan@macquarie.com,general,Macquarie,44823.0,2025-06-12 09:50:51+00:00,active,,2025-06-10,,
 622b08c7-1216-43d1-821c-53df1da43900,reasoning_r1,user,deep_research,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-05-23 04:42:39+00:00,active,,2024-06-26,onboarded,
@@ -3102,6 +3152,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 663862ad-9419-4504-bf3a-7a4138048013,integrate_search,user,normal,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,17887.0,2025-01-06 11:18:10+00:00,active,,2024-06-26,onboarded,
 664371be-7b60-4ffe-a9a8-c6002f3c391c,integrate_search,user,normal,MICHAEL YAN LUNG YIP,michael@carretprivate.com,general,Carret Private,49186.0,2025-07-22 03:12:13+00:00,active,,2025-06-18,,
 6646579a-da02-4046-bf64-b6e8a1b4c4fa,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-07-10 05:44:17+00:00,active,,2024-06-26,onboarded,
+66492be9-5f3f-4747-91f5-56211dccb8ca,integrate_search,user,normal,Johnson Lin,jlin@schonfeld.com,test_feature,Schonfeld,28163.0,2025-08-12 07:27:10+00:00,active,,2024-08-16,,
 664bf1a2-94c7-44f3-b7be-a27e86f1251f,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-07-28 08:39:37+00:00,active,,2024-06-26,onboarded,
 664d5d9f-0abe-4cec-9cfb-5e26b38ed1df,integrate_search,user,normal,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,17137.0,2025-04-13 12:18:36+00:00,active,,2024-06-26,onboarded,
 665699d4-581d-4fa9-98e9-b731ab048849,reasoning_r1,user,deep_research,Victor German,victor.german@macquarie.com,general,Macquarie,,2025-07-28 07:33:05+00:00,active,,2025-06-10,,
@@ -3349,6 +3400,8 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 6e82f5f1-fcdd-48cb-980b-284f45f220b0,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,38314.0,2025-08-02 10:47:47+00:00,active,,2025-06-10,,
 6e9d53e3-5f06-4b7c-9790-a3db15913c43,rms,user,meeting_agent,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,,2025-03-03 06:58:15+00:00,active,,2024-06-26,onboarded,
 6e9d98e8-00dc-43f9-afc2-b9e44657bf78,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-03-19 05:24:42+00:00,active,,2024-06-26,onboarded,
+6ebe163e-f303-4e79-9c28-25f5ddf032f7,integrate_search,user,normal_gpt5,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,112724.0,2025-08-12 08:50:59+00:00,active,,2025-06-18,onboarded,onboarded
+6ebe163e-f303-4e79-9c28-25f5ddf032f7,integrate_search,user,normal_gpt5,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,112724.0,2025-08-12 08:50:59+00:00,active,,2025-06-18,onboarded,onboarded
 6ecff971-127b-4660-bc63-dabbb9a76757,integrate_search,user,normal,Fergus Kwan,fergus.kwan@macquarie.com,general,Macquarie,31217.0,2025-06-12 09:33:57+00:00,active,,2025-06-10,,
 6ed6dabc-b4aa-43be-bee2-39a77b359fb3,integrate_search,user,normal,Zhongyuan BI,evan.bi@trivest-advisors.com,general,Trivest Advisors,26889.0,2025-08-01 15:23:50+00:00,active,,2024-06-26,onboarded,
 6ed753ff-a1eb-42cb-8751-d4356656039f,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-07-17 12:02:19+00:00,active,,2025-05-27,onboarded,onboarded
@@ -3483,6 +3536,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 731ebc1a-ccd8-44c9-a3ef-7d18ee3d28c2,rms,user,normal,Kunal Aswani,intern7@carretprivate.com,general,Carret Private,19388.0,2025-07-04 07:49:11+00:00,active,,2025-06-18,,
 73343d85-63b2-499c-a5af-27814e71e2c4,rms,user,individual_summary,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-06-12 15:58:04+00:00,active,,2024-06-26,onboarded,
 73493694-b6b3-4f9f-8a75-94d30c041e1b,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,8657.0,2024-07-26 05:07:19+00:00,active,,2024-06-26,onboarded,
+7356d915-3ff2-4f4f-a891-5155faad25bd,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,19298.0,2025-08-12 02:57:05+00:00,active,,2024-08-16,onboarded,
 735cfc9b-fd9b-4cef-aa90-b7c8e2234ba7,integrate_search,user,normal,Dickie Wong,dickie.wong@carretprivate.com,general,Carret Private,45094.0,2025-06-19 02:28:45+00:00,active,,2025-06-18,,
 735dcc43-5d10-4596-9cc9-f375223c69ea,integrate_search,user,normal,Dickie Wong,dickie.wong@carretprivate.com,general,Carret Private,25071.0,2025-06-20 01:45:51+00:00,active,,2025-06-18,,
 7365f571-6641-4fa6-b172-84c38b40d9d7,rms,user,individual_summary,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,,2025-05-13 09:33:01+00:00,active,,2024-06-26,onboarded,
@@ -3569,6 +3623,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 75bcb1de-14c5-4019-b5c0-d723fe7c8b41,news,user,normal,Seungyeop Lee,sylee@schonfeld.com,test_feature,Schonfeld,81671.0,2024-09-29 23:57:56+00:00,active,,2024-08-16,,
 75d04ed5-0ff6-47f4-a4dc-6ce9cb3299e2,integrate_search,user,normal,Thanapol Thanapol,thanapol.ji@cgsi.com,general,CGS International,49999.0,2025-07-14 09:14:37+00:00,active,,2025-06-10,,
 75d1f9c8-5480-4ec1-9bf0-20eb5a33d020,integrate_search,user,normal,Peter Williamson,peter.williamson@macquarie.com,general,Macquarie,31307.0,2025-07-10 06:29:06+00:00,active,,2025-06-10,onboarded,
+75d79f11-2adf-4631-8a65-ba9743c5959d,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,100818.0,2025-08-12 06:08:21+00:00,active,,2024-08-16,onboarded,
 75d94ba6-081d-49ed-b554-800a0cf2ae74,integrate_search,user,normal,oscar chen,ochen@schonfeld.com,test_feature,Schonfeld,,2025-03-05 15:14:26+00:00,active,,2024-08-16,,
 75e2fec7-2447-45d7-86d3-0a3b66f7d337,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,81335.0,2025-08-05 03:22:27+00:00,active,,2025-06-10,,
 75f5edb4-ab2e-46bf-8887-0c336480bfdb,rms,user,individual_summary,Abhiram Eleswarapu,abhiram.eleswarapu@asia.bnpparibas.com,general,BNP Paribas,,2025-06-09 08:51:08+00:00,active,,2025-06-09,onboarded,onboarded
@@ -3621,6 +3676,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 77c5325a-767f-4247-b7f3-110f06af43bb,integrate_search,user,normal,Nicolas Katsapas,nkatsapas@schonfeld.com,test_feature,Schonfeld,23307.0,2024-12-20 06:46:54+00:00,active,,2024-08-16,,onboarded
 77ee3908-14ae-4d67-b669-57749cfa491e,integrate_search,user,normal,Mo L,molly.luan@asia.bnpparibas.com,general,BNP Paribas,20732.0,2025-06-23 02:15:38+00:00,active,,2025-06-09,active,
 77f4bce2-19fc-499b-b9c0-4154f6184e13,reasoning_r1,user,deep_research,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-06-23 18:14:32+00:00,active,,2025-05-27,onboarded,onboarded
+77f52d33-d71d-46a0-994f-9aec1f609923,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,12480.0,2025-08-12 02:56:17+00:00,active,,2024-08-16,onboarded,
 7823bbec-39b1-4ec0-9820-fa4c5e5a529b,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,33741.0,2025-07-24 08:19:59+00:00,active,,2024-08-16,onboarded,
 782bdaf9-0d13-49c8-a601-3d1f8cfadc94,integrate_search,user,normal,Dickie Wong,dickie.wong@carretprivate.com,general,Carret Private,18426.0,2025-06-27 04:28:53+00:00,active,,2025-06-18,,
 782e1acb-9f5a-4e37-aa27-d6c57d90a77a,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,21591.0,2025-03-30 07:38:08+00:00,active,,2024-08-16,,
@@ -3676,9 +3732,12 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 79af14ff-b41e-47ba-a1a0-84f9f8f60631,rms,user,normal,David Lee,dlee@redwoodpeak.com,general,Redwood Peak,12280.0,2025-07-10 02:39:43+00:00,active,,2025-07-03,onboarded,
 79b25901-5b7b-4d72-b54b-f1c4dd1e0fad,reasoning_r1,user,deep_research,Matthew Brooks,matthew.brooks@macquarie.com,general,Macquarie,,2025-06-17 23:07:14+00:00,active,,2025-06-10,onboarded,
 79b82540-944f-4087-9c52-5d5ba6c612c0,reasoning_r1,user,deep_research,Sunkey Wang,sunkey.wang@trivest-advisors.com,general,Trivest Advisors,,2025-07-02 07:14:29+00:00,active,,2024-06-26,active,
+79c12a00-0fe3-4193-920d-5a5cbe56fee4,rms,user,meeting_agent,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,,2025-08-12 03:55:30+00:00,active,,2024-06-26,onboarded,
 79cc677f-df1c-46b9-bffd-1bf87c8a1ccd,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,,2025-06-20 03:03:09+00:00,active,,2025-06-18,onboarded,onboarded
 79cc677f-df1c-46b9-bffd-1bf87c8a1ccd,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,,2025-06-20 03:03:09+00:00,active,,2025-06-18,onboarded,onboarded
 79d5b6a0-a8a2-48d0-9312-82679aaa7316,integrate_search,user,normal,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,21518.0,2025-04-30 03:09:28+00:00,active,,2024-06-26,onboarded,
+79d69a23-f7a9-4d32-b503-f79b5ce0b60e,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,49599.0,2025-08-13 00:11:24+00:00,active,,2025-06-18,onboarded,onboarded
+79d69a23-f7a9-4d32-b503-f79b5ce0b60e,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,49599.0,2025-08-13 00:11:24+00:00,active,,2025-06-18,onboarded,onboarded
 79eaef7f-de58-4eba-9f48-af3584510f44,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,32055.0,2025-07-28 02:14:16+00:00,active,,2025-06-18,onboarded,onboarded
 79eaef7f-de58-4eba-9f48-af3584510f44,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,32055.0,2025-07-28 02:14:16+00:00,active,,2025-06-18,onboarded,onboarded
 79ec0e32-8d11-46a3-9ece-303c69e29865,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,17699.0,2025-07-20 08:17:32+00:00,active,,2025-06-18,onboarded,onboarded
@@ -3700,6 +3759,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 7a36efb1-4caa-4352-b8c8-a2623b2ac8cc,reasoning_r1,user,deep_research,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-06-23 16:33:07+00:00,active,,2025-05-27,onboarded,onboarded
 7a416b37-1191-4500-a8eb-5e08f00c8f01,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,11947.0,2024-11-19 05:25:40+00:00,active,,2024-06-26,onboarded,
 7a50ab7c-2929-44f3-b23c-5d80dd3ec8db,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-08-08 16:38:23+00:00,active,,2025-05-27,onboarded,onboarded
+7a550ec9-afba-43fc-9161-f1a860683cac,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,104944.0,2025-08-12 05:06:23+00:00,active,,2024-08-16,onboarded,
 7a5c22f9-6fe8-4883-bd85-6881670d1747,rms,user,individual_summary,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-06-03 22:24:58+00:00,active,,2024-06-26,onboarded,
 7a5cd010-984d-4346-9d37-1fe8ac816849,integrate_search,user,structured_data,Prem Jearajasingam,prem.jearajasingam@cgsi.com,general,CGS International,10226.0,2025-06-30 08:12:22+00:00,active,,2025-06-10,onboarded,
 7a5d34d6-f18f-485b-8a85-96548b1c07b1,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,18036.0,2025-06-19 01:48:09+00:00,active,,2025-06-18,onboarded,onboarded
@@ -3718,6 +3778,8 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 7aa09d3d-02bd-451e-89d4-62385bb4f857,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,31057.0,2025-08-07 13:11:47+00:00,active,,2025-06-18,onboarded,onboarded
 7aa2b84d-55dd-45fb-85a5-f55925013f4e,rms,user,individual_summary,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-05-21 10:44:10+00:00,active,,2024-06-26,onboarded,
 7aa49bdc-0945-4fdf-9cc9-991c8765336e,rms,user,normal,Amit  Singh,amit.singh@carretprivate.com,general,Carret Private,15657.0,2025-06-27 03:49:33+00:00,active,,2025-06-18,,
+7ab34553-fc6f-4a00-964b-67e9dc6067c7,integrate_search,user,normal_gpt5,Alfred Yam,intern8@carretprivate.com,general,Carret Private,,2025-08-12 09:28:25+00:00,active,,2025-06-18,onboarded,onboarded
+7ab34553-fc6f-4a00-964b-67e9dc6067c7,integrate_search,user,normal_gpt5,Alfred Yam,intern8@carretprivate.com,general,Carret Private,,2025-08-12 09:28:25+00:00,active,,2025-06-18,onboarded,onboarded
 7ac6e6e7-2ae9-47de-b888-73347bfa19c3,reasoning_r1,user,deep_research,Peter Li,peter.li@macquarie.com,general,Macquarie,,2025-06-17 01:49:36+00:00,active,,2025-06-10,onboarded,
 7ac7042a-544a-4e8d-bb83-63f3672f7771,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-07-02 14:31:01+00:00,active,,2025-05-27,onboarded,onboarded
 7ad1b497-adc5-4137-ac41-980c36de30db,integrate_search,user,normal,Peter Williamson,peter.williamson@macquarie.com,general,Macquarie,21101.0,2025-05-16 00:35:57+00:00,active,,2025-06-10,onboarded,
@@ -3726,6 +3788,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 7aeb3293-c1eb-449a-82de-974789bb160d,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,59526.0,2025-07-25 02:38:57+00:00,active,,2024-06-26,onboarded,
 7af56888-408b-43fb-82c6-bef1168c6de0,integrate_search,user,normal,Siew Khee Lim,siewkhee.lim@cgsi.com,general,CGS International,,2025-06-16 03:44:49+00:00,active,,2025-06-10,onboarded,
 7b005067-c5db-4221-b49d-b05d8733d402,integrate_search,user,normal,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,18834.0,2025-06-12 15:10:54+00:00,active,,2025-05-27,onboarded,onboarded
+7b02dd5f-877d-4970-985e-58ec8c4144cd,integrate_search,user,normal,Sunkey Wang,sunkey.wang@trivest-advisors.com,general,Trivest Advisors,41997.0,2025-08-12 07:42:12+00:00,active,,2024-06-26,active,
 7b095a8e-523b-4bd5-84a3-929a2c3b62d3,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,33316.0,2025-05-19 07:01:33+00:00,active,,2024-06-26,onboarded,
 7b128457-7f52-4a9e-8653-07b672510034,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,25639.0,2025-03-20 07:41:05+00:00,active,,2024-06-26,onboarded,
 7b18964c-8b5d-40ca-8c1b-26992f736dec,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-07-07 16:15:53+00:00,active,,2025-05-27,onboarded,onboarded
@@ -3771,6 +3834,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 7c4d928a-4bdd-483d-9c7d-322a47851a26,integrate_search,user,normal,Fergus Kwan,fergus.kwan@macquarie.com,general,Macquarie,36381.0,2025-05-13 08:11:13+00:00,active,,2025-06-10,,
 7c521c89-0a85-4d5b-89cc-30b3abf8ad0e,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-07-02 14:31:01+00:00,active,,2025-05-27,onboarded,onboarded
 7c5e6d99-838d-452e-bb01-cbd8ae294979,integrate_search,user,normal,Elsie Haiwen Cheng,elsie.cheng@trivest-advisors.com,general,Trivest Advisors,7261.0,2025-01-28 03:27:51+00:00,active,,2024-06-26,blocked,
+7c6ec509-633e-4795-94b4-46301588f477,integrate_search,user,meeting_agent,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,,2025-08-12 12:58:41+00:00,active,,2024-06-26,onboarded,
 7c7372e1-f5e7-4f2f-b130-20ae900ed516,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,10796.0,2024-11-13 06:37:20+00:00,active,,2024-06-26,onboarded,
 7c78e20e-cfbb-427b-8c31-a07ebe7dd74e,integrate_search,user,normal,Peter Williamson,peter.williamson@macquarie.com,general,Macquarie,9715.0,2025-05-16 00:16:22+00:00,active,,2025-06-10,onboarded,
 7c7a959c-359e-47c1-9c39-2d62cd190d78,integrate_search,user,normal,Seri Idan,idan@anekcapital.com,general,Anek Capital,21317.0,2025-08-01 13:57:36+00:00,active,,2025-07-07,onboarded,onboarded
@@ -3807,6 +3871,7 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 7dcd9213-4eef-46fc-9419-81bc28b77ca7,integrate_search,user,normal,Peter Williamson,peter.williamson@macquarie.com,general,Macquarie,9960.0,2025-05-16 00:19:58+00:00,active,,2025-06-10,onboarded,
 7dd6ee66-3482-49dc-8713-60b1ead25c4c,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,30575.0,2025-06-05 03:53:28+00:00,active,,2024-06-26,onboarded,
 7dd8e5e6-175d-4034-9fbf-947e472367d6,linq_alpha,user,normal,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,7308.0,2024-08-29 08:57:14+00:00,active,,2024-06-26,onboarded,
+7de46949-8cd1-4732-882d-7d82adc49f05,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,31520.0,2025-08-12 09:35:01+00:00,active,,2024-06-26,onboarded,
 7de720df-4b5e-445c-81fc-4db211a8d399,reasoning_r1,user,deep_research,Ian Hui,intern9@carretprivate.com,general,Carret Private,,2025-07-23 02:39:12+00:00,active,,2025-06-18,,
 7df7e781-ec0c-4579-9621-5faf1d541878,integrate_search,user,normal,Fergus Kwan,fergus.kwan@macquarie.com,general,Macquarie,27352.0,2025-05-09 08:55:41+00:00,active,,2025-06-10,,
 7dfa3826-8ae4-4775-8dd0-fd14b383545c,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2024-11-03 02:23:48+00:00,active,,2024-06-26,onboarded,
@@ -3919,69 +3984,126 @@ id,selected_model,sender,function_mode,user_name,user_email,user_group,organizat
 819e60e3-6303-48ab-9521-f8e216dbf317,integrate_search,user,normal,Shuo Yang,shuo.yang@trivest-advisors.com,general,Trivest Advisors,179545.0,2025-07-14 04:18:29+00:00,active,,2024-06-26,active,
 81a1c52d-46a2-42a7-b5ad-a3305119c557,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,,2025-07-25 04:12:46+00:00,active,,2025-06-10,,
 81aa2548-eeee-4fa9-ac8b-0e82241843c0,linq_alpha,user,normal,Seungyeop Lee,sylee@schonfeld.com,test_feature,Schonfeld,10567.0,2024-08-16 07:43:51+00:00,active,,2024-08-16,,
-81ac2d05-ca4b-4f6b-868e-b25f4c7012c4,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,21744.0,2025-07-17 04:05:53+00:00,active,,2025-06-10,,
-81ae655c-7f9c-4f71-bd0e-7570375912b7,integrate_search,user,normal,Marcus Shin,mshin@schonfeld.com,test_feature,Schonfeld,34557.0,2025-08-04 03:14:01+00:00,active,,2024-08-16,onboarded,
-81afae73-95ac-4de8-bb2b-80df2d726ff5,integrate_search,user,structured_data,Seri Idan,idan@anekcapital.com,general,Anek Capital,3156.0,2025-07-21 08:58:58+00:00,active,,2025-07-07,onboarded,onboarded
-81b38b6a-df50-4c02-8b2e-8778bafef802,integrate_search,user,normal,Hangyul Son,hangyul.son@clsa.com,general,CLSA,31637.0,2025-08-05 13:45:07+00:00,active,Research,2025-06-09,onboarded,onboarded
-81bb6735-4c95-4a12-8335-07e2c80eb48f,reasoning_r1,user,deep_research,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-08-08 02:26:19+00:00,active,,2024-06-26,onboarded,
-81be2889-3b0b-495b-8283-a6e9714c5f8d,rms,user,normal,Ian Hui,intern9@carretprivate.com,general,Carret Private,17258.0,2025-07-24 03:33:19+00:00,active,,2025-06-18,,
-81d08a16-f983-49f1-9bc5-c14c573187b6,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,441876.0,2025-07-14 03:25:44+00:00,active,,2025-06-10,onboarded,onboarded
-81d08a16-f983-49f1-9bc5-c14c573187b6,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,441876.0,2025-07-14 03:25:44+00:00,active,,2025-06-10,onboarded,onboarded
-81d08a16-f983-49f1-9bc5-c14c573187b6,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,441876.0,2025-07-14 03:25:44+00:00,active,,2025-06-10,onboarded,onboarded
-81d4f4f3-e914-4a82-a245-3ecd400aa5f5,integrate_search,user,normal,MICHAEL YAN LUNG YIP,michael@carretprivate.com,general,Carret Private,21146.0,2025-07-21 04:03:35+00:00,active,,2025-06-18,,
-81eb9c5e-4e3d-43c0-afe4-465010104daa,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-06-24 13:27:43+00:00,active,,2025-05-27,onboarded,onboarded
-81eb9c5e-4e3d-43c0-afe4-465010104daa,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-06-24 13:27:43+00:00,active,,2025-05-27,onboarded,onboarded
-81ff99e0-7583-46eb-8581-00b1cb3d096d,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,141064.0,2025-07-07 05:22:17+00:00,active,,2025-06-10,,
-8211a65e-a740-4543-9020-718b90425bcf,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,18230.0,2025-07-17 04:58:50+00:00,active,,2025-06-10,,
-821941e0-0534-4545-b040-e6913ef32a98,rms,user,overall_summary,Aditya Suresh,aditya.suresh@macquarie.com,general,Macquarie,18045.0,2025-08-06 07:58:48+00:00,active,,2025-06-10,,
-822204b0-cbd7-42f8-ba9e-67236f74318b,integrate_search,user,call_summarize,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,,2025-05-16 01:39:26+00:00,active,,2024-08-16,,
-822e398e-a362-4dc6-ae69-50059a43288e,integrate_search,user,normal,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,10220.0,2024-11-03 05:53:33+00:00,active,,2024-06-26,onboarded,
-822f56aa-644f-4dc7-84fe-16872384882b,reasoning_r1,user,deep_research,VISHNU MUCHHAL,vishnukant_muchhal@icicipruamc.com,general,ICICI Prudential,,2025-07-04 08:22:28+00:00,active,,2025-06-26,onboarded,onboarded
-822fae62-fdd7-4f3f-b385-03ed915bfd68,integrate_search,user,company_screener,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-05-27 19:20:19+00:00,active,,2025-05-27,onboarded,onboarded
-822fae62-fdd7-4f3f-b385-03ed915bfd68,integrate_search,user,company_screener,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-05-27 19:20:19+00:00,active,,2025-05-27,onboarded,onboarded
-8235e242-79da-4598-8312-0b085b1d294d,integrate_search,user,meeting_agent,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,,2025-07-11 12:30:13+00:00,active,,2024-06-26,onboarded,
-8238e613-537b-4c24-be05-725edd3567c3,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,10627.0,2024-08-23 02:33:12+00:00,active,,2024-06-26,onboarded,
-824e3732-4e1d-41e4-aef2-4bc66acc2d29,integrate_search,user,normal,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,62960.0,2025-07-02 05:03:14+00:00,active,,2024-06-26,onboarded,
-825a2d8c-b0dc-4e2e-8a6e-a0ba552292db,integrate_search,user,normal,oscar chen,ochen@schonfeld.com,test_feature,Schonfeld,136143.0,2025-02-26 10:43:55+00:00,active,,2024-08-16,,
-82771aa3-079c-4d51-b92c-3c7a2476aee4,integrate_search,user,normal,Michael Chang,michael.chang@cgsi.com,general,CGS International,82199.0,2025-07-11 01:19:43+00:00,active,,2025-06-10,onboarded,
-8281b8c3-8543-4cbe-a6e5-7a9ca46b9570,integrate_search,user,normal,Boyan Petrov,bpetrov@schonfeld.com,test_feature,Schonfeld,19716.0,2025-02-27 09:12:46+00:00,active,,2024-08-16,,
-8286bc0c-9421-4acc-86fc-b0908d27073c,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,434061.0,2025-06-20 10:49:19+00:00,active,,2025-06-10,onboarded,onboarded
-8286bc0c-9421-4acc-86fc-b0908d27073c,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,434061.0,2025-06-20 10:49:19+00:00,active,,2025-06-10,onboarded,onboarded
-8286bc0c-9421-4acc-86fc-b0908d27073c,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,434061.0,2025-06-20 10:49:19+00:00,active,,2025-06-10,onboarded,onboarded
-828a96c8-15cb-4e53-8427-745c226cad35,integrate_search,user,normal,Chee Kin Soo,cheekin.soo@cgsi.com,general,CGS International,38934.0,2025-06-26 02:16:32+00:00,active,,2025-06-10,,
-828b1b9b-30ff-4b5e-ad21-9e870deb9c57,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,25108.0,2025-08-02 12:02:01+00:00,active,,2025-06-10,,
-8292e451-a551-4c6f-8d30-4f66dc206b46,rms,user,individual_summary,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-07-05 16:20:31+00:00,active,,2024-06-26,onboarded,
-82add490-04ff-4e78-9b70-c22ed41b0c4f,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-07-08 18:11:06+00:00,active,,2025-05-27,onboarded,onboarded
-82c65d80-01dd-4475-b631-ad05ea09c0e8,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,44148.0,2025-08-02 11:15:10+00:00,active,,2025-06-10,,
-82d50f50-3c1c-42bf-a453-6b5a75dbfb9f,integrate_search,user,normal,Peter Li,peter.li@macquarie.com,general,Macquarie,65516.0,2025-06-17 02:00:16+00:00,active,,2025-06-10,onboarded,
-82f04c31-3d5c-456d-b16e-a0e786040cef,integrate_search,user,normal,Zhongyuan BI,evan.bi@trivest-advisors.com,general,Trivest Advisors,23142.0,2025-07-26 09:10:39+00:00,active,,2024-06-26,onboarded,
-83011e9a-3bdd-47e9-989c-576c5bae9510,reasoning_r1,user,deep_research,Alfred Yam,intern8@carretprivate.com,general,Carret Private,,2025-06-22 06:11:27+00:00,active,,2025-06-18,onboarded,onboarded
-83011e9a-3bdd-47e9-989c-576c5bae9510,reasoning_r1,user,deep_research,Alfred Yam,intern8@carretprivate.com,general,Carret Private,,2025-06-22 06:11:27+00:00,active,,2025-06-18,onboarded,onboarded
-830af209-f325-4b84-8f0a-67d14f7786c4,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,42598.0,2025-07-10 16:32:10+00:00,active,,2025-05-27,onboarded,onboarded
-830af209-f325-4b84-8f0a-67d14f7786c4,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,42598.0,2025-07-10 16:32:10+00:00,active,,2025-05-27,onboarded,onboarded
-83107d46-4fa6-4578-b448-acab0bc1ac33,integrate_search,user,meeting_agent,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,,2025-07-29 02:07:43+00:00,active,,2024-08-16,onboarded,onboarded
-83107d46-4fa6-4578-b448-acab0bc1ac33,integrate_search,user,meeting_agent,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,,2025-07-29 02:07:43+00:00,active,,2024-08-16,onboarded,onboarded
-83107d46-4fa6-4578-b448-acab0bc1ac33,integrate_search,user,meeting_agent,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,,2025-07-29 02:07:43+00:00,active,,2024-08-16,onboarded,onboarded
-831a019b-7333-445b-8efe-f8d83ffa3fd6,integrate_search,user,normal,Kunal Aswani,intern7@carretprivate.com,general,Carret Private,109315.0,2025-07-03 05:48:01+00:00,active,,2025-06-18,,
-83245f6c-44aa-40ae-a9b4-194134a6699b,integrate_search,user,normal,Fergus Kwan,fergus.kwan@macquarie.com,general,Macquarie,,2025-04-30 03:36:38+00:00,active,,2025-06-10,,
-832b2985-b26e-45b9-b543-9644d638ac44,rms,user,individual_summary,Terence Chang,terence.chang@macquarie.com,general,Macquarie,,2025-06-12 15:03:19+00:00,active,,2025-06-10,onboarded,onboarded
-832b2985-b26e-45b9-b543-9644d638ac44,rms,user,individual_summary,Terence Chang,terence.chang@macquarie.com,general,Macquarie,,2025-06-12 15:03:19+00:00,active,,2025-06-10,onboarded,onboarded
-832b2985-b26e-45b9-b543-9644d638ac44,rms,user,individual_summary,Terence Chang,terence.chang@macquarie.com,general,Macquarie,,2025-06-12 15:03:19+00:00,active,,2025-06-10,onboarded,onboarded
-83329c0f-f498-42ec-b298-4f412334ecd1,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,24263.0,2025-03-25 03:15:51+00:00,active,,2024-08-16,,
-83331183-c096-4fea-add6-87642bac1a8d,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,8749.0,2024-10-06 15:06:53+00:00,active,,2024-06-26,onboarded,
-833794c1-91af-48b8-836a-bb3ac91f3162,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,63024.0,2025-07-29 03:51:11+00:00,active,,2025-06-10,,
-833bc92f-908d-4196-aa82-491b80cfbf3f,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,27257.0,2025-07-25 04:17:57+00:00,active,,2025-06-10,,
-833d311e-431e-4d4a-935c-688b9f3a5bc2,integrate_search,user,normal,Victor German,victor.german@macquarie.com,general,Macquarie,131023.0,2025-07-27 12:32:44+00:00,active,,2025-06-10,,
-833dcba0-a71a-4597-adcf-fab77956b438,integrate_search,user,normal,MICHAEL YAN LUNG YIP,michael@carretprivate.com,general,Carret Private,24786.0,2025-07-31 09:14:26+00:00,active,,2025-06-18,,
-835e30b6-77ce-485a-9eb4-a5009faf62c6,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,21043.0,2025-04-16 08:27:31+00:00,active,,2024-06-26,onboarded,
-835f6255-6b52-4278-ab61-02f309fb32ae,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,31488.0,2025-07-31 09:21:31+00:00,active,,2025-06-10,,
-83605cb1-cde0-434e-bb1d-cb5c26d92de3,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,20712.0,2025-07-17 16:30:32+00:00,active,,2025-05-27,onboarded,onboarded
-83605cb1-cde0-434e-bb1d-cb5c26d92de3,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,20712.0,2025-07-17 16:30:32+00:00,active,,2025-05-27,onboarded,onboarded
-836b34c4-00f4-471b-9089-c3321c753412,rms,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,12611.0,2025-07-02 05:49:34+00:00,active,,2025-06-18,onboarded,onboarded
-836b34c4-00f4-471b-9089-c3321c753412,rms,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,12611.0,2025-07-02 05:49:34+00:00,active,,2025-06-18,onboarded,onboarded
-836eeecc-27c9-4f7d-a3fb-facef7324f97,rms,user,individual_summary,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-06-29 09:48:26+00:00,active,,2024-06-26,onboarded,
-8375389c-f5fa-474d-9385-8b9b52dc2697,integrate_search,user,normal,MICHAEL YAN LUNG YIP,michael@carretprivate.com,general,Carret Private,18805.0,2025-06-18 08:39:16+00:00,active,,2025-06-18,,
-83820f38-6ed5-465b-bb79-c70914d8e1bf,integrate_search,user,normal,John Ho,john.ho@janchorpartners.com,general,Janchor Partners,21005.0,2025-07-31 00:35:53+00:00,active,,2025-06-02,pending,
+ea647b7f-696c-49ed-b522-7c52e22b07dc,integrate_search,user,call_summarize,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,,2025-08-05 10:04:43+00:00,active,,2024-08-16,,
+ea65c6a0-00a5-4237-aa88-5d2baa87316c,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,60375.0,2025-07-07 12:38:09+00:00,active,,2024-06-26,onboarded,
+ea7cee60-228d-4e55-be3e-a7598f11f3c3,integrate_search,user,normal,Kunal Aswani,intern7@carretprivate.com,general,Carret Private,41580.0,2025-07-10 05:23:24+00:00,active,,2025-06-18,,
+ea873649-7a06-4a67-8b3f-42618168759e,integrate_search,user,meeting_agent,steven.chen,steven.chen@trivest-advisors.com,general,Trivest Advisors,,2025-06-23 05:45:34+00:00,active,,2024-06-26,onboarded,
+ea8af4a7-eafa-42d9-807e-12421e3cb8d9,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,19492.0,2025-03-21 03:03:33+00:00,active,,2024-06-26,onboarded,
+ea93776f-d1d1-4401-8785-ec3d68b36717,integrate_search,user,call_summarize,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,,2025-08-01 13:38:58+00:00,active,,2024-08-16,,
+ea960175-f9be-4583-ba5c-b13633368cff,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,420268.0,2025-07-17 03:23:46+00:00,active,,2025-06-10,onboarded,onboarded
+ea960175-f9be-4583-ba5c-b13633368cff,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,420268.0,2025-07-17 03:23:46+00:00,active,,2025-06-10,onboarded,onboarded
+ea960175-f9be-4583-ba5c-b13633368cff,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,420268.0,2025-07-17 03:23:46+00:00,active,,2025-06-10,onboarded,onboarded
+ea9a2188-072d-4fe8-a668-07335260447c,rms,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,22925.0,2025-07-17 05:15:12+00:00,active,,2024-06-26,onboarded,
+ea9ddd0b-32f8-4629-b31e-27ec6f43e0ed,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,123859.0,2025-06-12 22:33:33+00:00,active,,2024-08-16,onboarded,onboarded
+ea9ddd0b-32f8-4629-b31e-27ec6f43e0ed,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,123859.0,2025-06-12 22:33:33+00:00,active,,2024-08-16,onboarded,onboarded
+ea9ddd0b-32f8-4629-b31e-27ec6f43e0ed,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,123859.0,2025-06-12 22:33:33+00:00,active,,2024-08-16,onboarded,onboarded
+eab2ba62-6920-40de-8c44-b99b78c1984c,integrate_search,user,meeting_agent,Admin Janchor,admin@janchorpartners.com,general,Janchor Partners,,2025-08-01 07:47:07+00:00,active,,2025-06-02,,
+eab673f3-fd8a-44be-af10-e59ddd9b8b46,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,37572.0,2025-07-15 05:20:31+00:00,active,,2025-06-10,,
+eab8272b-bc5d-4f79-9883-185de4bea548,integrate_search,user,normal,Carley Shum,carley@carretprivate.com,general,Carret Private,60789.0,2025-06-18 08:03:43+00:00,active,,2025-06-18,,onboarded
+ead66566-7968-401d-b888-de844dedaad8,integrate_search,user,normal,Scott Schafer,scott@rockspringscapital.com,general,Rock Springs Capital,125541.0,2025-07-22 17:50:49+00:00,active,,2025-07-07,,
+eae07e86-d727-4802-865b-481ce1ac6f1b,integrate_search,user,normal,Christopher Kim,christopher.kim@clsa.com,general,CLSA,22027.0,2025-07-25 01:12:16+00:00,active,Research,2025-06-09,onboarded,
+eafcaa8c-e076-4a01-a0db-1696ee08c1b3,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,32710.0,2025-07-29 01:33:44+00:00,active,,2024-08-16,onboarded,
+eafdbfdd-126d-4b33-82dd-2859914f5685,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,,2025-07-20 08:16:39+00:00,active,,2025-06-18,onboarded,onboarded
+eafdbfdd-126d-4b33-82dd-2859914f5685,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,,2025-07-20 08:16:39+00:00,active,,2025-06-18,onboarded,onboarded
+eb05a714-8cd1-483f-992b-7751172ad5c6,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,39912.0,2025-07-30 02:19:24+00:00,active,,2025-06-18,onboarded,onboarded
+eb05a714-8cd1-483f-992b-7751172ad5c6,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,39912.0,2025-07-30 02:19:24+00:00,active,,2025-06-18,onboarded,onboarded
+eb0b8ec3-668f-4d53-8b2f-d478cca60835,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,40707.0,2025-07-23 07:06:59+00:00,active,,2024-06-26,onboarded,
+eb33f7b2-394d-41a6-aa92-c61fdd909793,integrate_search,user,normal,Jayden Son,jayden.son@macquarie.com,general,Macquarie,42118.0,2025-07-23 05:29:25+00:00,active,,2025-06-10,onboarded,onboarded
+eb451a44-99b6-46d8-9f2a-7baaa7d229c3,integrate_search,user,normal,Peter Williamson,peter.williamson@macquarie.com,general,Macquarie,23706.0,2025-04-23 08:26:55+00:00,active,,2025-06-10,onboarded,
+eb5e38dc-4776-419f-8eef-d2e606b5ef0e,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,-15656.0,2025-02-12 00:22:21+00:00,active,,2024-06-26,onboarded,
+eb5fccc0-fc8f-4a7d-891a-3a3b6713d83a,integrate_search,user,normal,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,25981.0,2025-06-03 18:37:46+00:00,active,,2025-05-27,onboarded,onboarded
+eb620201-5270-4b39-a2da-9199ddb73317,integrate_search,user,normal,Hangyul Son,hangyul.son@clsa.com,general,CLSA,,2025-08-03 13:41:21+00:00,active,Research,2025-06-09,onboarded,onboarded
+eb6aea73-dc43-4a91-842f-210f8228e1f2,integrate_search,user,call_summarize,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,30544.0,2025-04-25 01:52:54+00:00,active,,2024-08-16,,
+eb6b3f98-5765-47e8-897c-719856631c5c,integrate_search,user,normal,Sunkey Wang,sunkey.wang@trivest-advisors.com,general,Trivest Advisors,28951.0,2025-06-23 14:07:02+00:00,active,,2024-06-26,active,
+eb6b5cd9-0480-4147-a2a7-056fdc513a1f,integrate_search,user,normal,Sandy Dowling,sandy.chen.dowling@clsa.com,general,CLSA,22945.0,2025-07-14 07:07:17+00:00,active,Trading,2025-06-09,,
+eb6d604d-a968-4191-9131-6bbcfd43dbd8,integrate_search,user,normal,MICHAEL YAN LUNG YIP,michael@carretprivate.com,general,Carret Private,30483.0,2025-07-28 01:57:15+00:00,active,,2025-06-18,,
+eb783c62-9e08-4705-b88f-976a9dd36b1e,reasoning_r1,user,deep_research,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-08-04 09:31:41+00:00,active,,2024-06-26,onboarded,
+eb7fbda6-d6e2-4c76-8968-dac6ffc4f903,integrate_search,user,call_summarize,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,72192.0,2025-08-05 10:05:01+00:00,active,,2024-08-16,,
+eb8f73ed-2b8b-4adb-bde4-277170c741df,integrate_search,user,normal,Lin Hu,hu.lin@cgsi.com,general,CGS International,41335.0,2025-06-24 06:24:04+00:00,active,,2025-06-10,onboarded,onboarded
+eb8f73ed-2b8b-4adb-bde4-277170c741df,integrate_search,user,normal,Lin Hu,hu.lin@cgsi.com,general,CGS International,41335.0,2025-06-24 06:24:04+00:00,active,,2025-06-10,onboarded,onboarded
+eb91e93c-7b1e-40a5-8de5-1eea5e76dd8c,integrate_search,user,normal,Peter Williamson,peter.williamson@macquarie.com,general,Macquarie,51398.0,2025-05-09 08:37:27+00:00,active,,2025-06-10,onboarded,
+eb99b74e-7839-48bb-977b-4cedd685b03d,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,21708.0,2025-06-20 11:53:22+00:00,active,,2025-06-10,,
+eb9a11b6-741f-492a-971e-5cc4c8b6883f,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,19135.0,2025-06-02 15:06:19+00:00,active,,2024-06-26,onboarded,
+eb9b2eec-1bb9-4144-a443-c55b64006c3e,integrate_search,user,normal,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,18282.0,2024-10-24 06:56:39+00:00,active,,2024-06-26,onboarded,
+ebb752b9-2072-4534-a87b-5afb8c3c293a,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,21016.0,2025-06-18 02:04:34+00:00,active,,2025-06-18,onboarded,onboarded
+ebb752b9-2072-4534-a87b-5afb8c3c293a,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,21016.0,2025-06-18 02:04:34+00:00,active,,2025-06-18,onboarded,onboarded
+ebd44166-56b2-4a63-a693-75b9869c3c0f,rms,user,individual_summary,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-06-05 15:56:09+00:00,active,,2024-06-26,onboarded,
+ebd44323-76e7-40d8-8ab1-3fc7ec62ad38,news,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,11394.0,2024-10-05 13:03:22+00:00,active,,2024-06-26,onboarded,
+ebea9177-0f81-48e0-a529-0b7dbbb51930,rms,user,normal,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,18845.0,2025-05-13 13:46:59+00:00,active,,2024-06-26,onboarded,
+ebeef00b-c2a1-4cd5-ad61-c7957d93fca9,rms,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,21425.0,2025-07-09 11:56:56+00:00,active,,2025-06-10,,
+ebf182ca-e348-48e1-b31b-1edc24139300,reasoning_r1,user,deep_research,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,,2025-08-05 02:58:53+00:00,active,,2025-06-10,,
+ec118f48-7c79-4076-a640-a23b03170f10,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,29548.0,2025-07-10 16:34:44+00:00,active,,2025-05-27,onboarded,onboarded
+ec118f48-7c79-4076-a640-a23b03170f10,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,29548.0,2025-07-10 16:34:44+00:00,active,,2025-05-27,onboarded,onboarded
+ec185a6e-fd9b-4a72-b9e4-0f834fb1359e,integrate_search,user,structured_data,Alfred Yam,intern8@carretprivate.com,general,Carret Private,4793.0,2025-08-04 08:53:58+00:00,active,,2025-06-18,onboarded,onboarded
+ec185a6e-fd9b-4a72-b9e4-0f834fb1359e,integrate_search,user,structured_data,Alfred Yam,intern8@carretprivate.com,general,Carret Private,4793.0,2025-08-04 08:53:58+00:00,active,,2025-06-18,onboarded,onboarded
+ec188549-7c75-4181-b7bf-9832caa7d81e,reasoning_r1,user,deep_research,Jayden Son,jayden.son@macquarie.com,general,Macquarie,,2025-06-30 06:45:56+00:00,active,,2025-06-10,onboarded,onboarded
+ec2c9894-81a9-49fe-addb-28e1b09d8ce5,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-05-19 02:10:59+00:00,active,,2024-06-26,onboarded,
+ec3fe18e-5fb5-4415-b48e-a3654e7a27bc,integrate_search,user,normal,Peter Li,peter.li@macquarie.com,general,Macquarie,40452.0,2025-06-11 02:18:10+00:00,active,,2025-06-10,onboarded,
+ec408730-00ef-4b50-a8d4-7db289c3f143,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,391934.0,2025-07-04 13:11:04+00:00,active,,2025-06-10,onboarded,onboarded
+ec408730-00ef-4b50-a8d4-7db289c3f143,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,391934.0,2025-07-04 13:11:04+00:00,active,,2025-06-10,onboarded,onboarded
+ec408730-00ef-4b50-a8d4-7db289c3f143,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,391934.0,2025-07-04 13:11:04+00:00,active,,2025-06-10,onboarded,onboarded
+ec6a9d10-97d9-41b2-a044-8ecf4d1f3e3c,rms,user,normal,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,53222.0,2025-02-03 16:18:00+00:00,active,,2024-06-26,onboarded,
+ec77ae8c-6c31-4760-adb5-693bbee7ebf5,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,35867.0,2025-07-20 01:59:36+00:00,active,,2024-06-26,onboarded,
+ec7e32e6-0655-4123-bb35-5c4131c4b3bc,integrate_search,user,normal,Sunkey Wang,sunkey.wang@trivest-advisors.com,general,Trivest Advisors,23127.0,2025-08-01 00:35:19+00:00,active,,2024-06-26,active,
+ec8688b0-92e8-4d08-bd15-81fcb33e9ff1,reasoning_r1,user,deep_research,Victor German,victor.german@macquarie.com,general,Macquarie,,2025-06-19 22:56:21+00:00,active,,2025-06-10,,
+ec9a269b-5f15-4240-995b-079587b525d6,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,17818.0,2024-10-31 14:10:57+00:00,active,,2024-06-26,onboarded,
+ec9bbcea-c5b1-4241-b55b-7595a52d50e6,reasoning_r1,user,deep_research,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,,2025-08-05 10:08:40+00:00,active,,2024-08-16,,
+ecacebc0-230d-419f-8dad-8943aef3a850,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,25125.0,2025-07-11 18:49:18+00:00,active,,2025-05-27,onboarded,onboarded
+ecacebc0-230d-419f-8dad-8943aef3a850,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,25125.0,2025-07-11 18:49:18+00:00,active,,2025-05-27,onboarded,onboarded
+ecc983b5-4450-4de1-8d11-fbce749f05d5,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,55328.0,2025-07-24 08:21:51+00:00,active,,2024-08-16,onboarded,
+ecd0fbbd-5191-45ae-939e-d4dc944fa2e7,integrate_search,user,normal,Abhiram Eleswarapu,abhiram.eleswarapu@asia.bnpparibas.com,general,BNP Paribas,59734.0,2025-06-09 08:19:15+00:00,active,,2025-06-09,onboarded,onboarded
+ecd3c79f-04ce-438c-bbae-b37200a371a8,rms,user,normal,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,1732258080392.0,2024-11-22 06:47:54+00:00,active,,2024-06-26,onboarded,
+ecd45e08-d43c-4463-92ba-c70e79dfe87d,integrate_search,user,structured_data,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,15860.0,2025-07-21 11:48:05+00:00,active,,2025-05-27,onboarded,onboarded
+ecd92feb-c4e8-453c-bd28-6cc29157df40,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,59011.0,2025-07-21 18:45:05+00:00,active,,2025-05-27,onboarded,onboarded
+ecd92feb-c4e8-453c-bd28-6cc29157df40,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,59011.0,2025-07-21 18:45:05+00:00,active,,2025-05-27,onboarded,onboarded
+ecda4e04-0a8f-40b1-bf34-654020f5c401,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,44793.0,2025-04-29 05:43:01+00:00,active,,2024-08-16,,
+ece6a4d8-45ad-4a54-b972-325c7d16431a,integrate_search,user,normal,Terence Chang,terence.chang@macquarie.com,general,Macquarie,20435.0,2025-06-12 12:45:46+00:00,active,,2025-06-10,onboarded,onboarded
+ece6a4d8-45ad-4a54-b972-325c7d16431a,integrate_search,user,normal,Terence Chang,terence.chang@macquarie.com,general,Macquarie,20435.0,2025-06-12 12:45:46+00:00,active,,2025-06-10,onboarded,onboarded
+ece6a4d8-45ad-4a54-b972-325c7d16431a,integrate_search,user,normal,Terence Chang,terence.chang@macquarie.com,general,Macquarie,20435.0,2025-06-12 12:45:46+00:00,active,,2025-06-10,onboarded,onboarded
+ececcd75-e1b0-4b94-b56c-87fe47081885,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,14218.0,2025-07-09 08:40:19+00:00,active,,2025-06-10,,
+eceda728-5757-4189-8849-ca5fe7f4c4ec,rms,user,meeting_agent,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,,2025-07-06 02:55:26+00:00,active,,2024-06-26,onboarded,
+ecf9fe05-9393-4a83-9aab-453c4f93d74f,integrate_search,user,normal,Seri Idan,idan@anekcapital.com,general,Anek Capital,39838.0,2025-08-06 07:12:57+00:00,active,,2025-07-07,onboarded,onboarded
+ed0d8555-3dc7-4b0e-b268-feea05c123ee,integrate_search,user,normal,Chee Kin Soo,cheekin.soo@cgsi.com,general,CGS International,,2025-06-19 00:56:36+00:00,active,,2025-06-10,,
+ed22a957-475f-48d3-8f84-ecb52de80ba7,integrate_search,user,normal,Jayden Son,jayden.son@macquarie.com,general,Macquarie,30407.0,2025-06-17 07:55:40+00:00,active,,2025-06-10,onboarded,onboarded
+ed382c7a-50c0-471a-9338-621ce455e5e4,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-06-13 21:50:22+00:00,active,,2024-06-26,onboarded,
+ed383867-b82c-43e0-9182-9a19105fcc2a,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,107447.0,2025-06-30 02:50:15+00:00,active,,2025-06-18,onboarded,onboarded
+ed383867-b82c-43e0-9182-9a19105fcc2a,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,107447.0,2025-06-30 02:50:15+00:00,active,,2025-06-18,onboarded,onboarded
+ed3b4950-a153-4b0e-8f0b-43152e72ce17,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-06-10 14:42:32+00:00,active,,2025-05-27,onboarded,onboarded
+ed3bc7c1-c158-4d2f-a16c-982f5d343354,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,441930.0,2025-06-20 10:54:26+00:00,active,,2025-06-10,onboarded,onboarded
+ed3bc7c1-c158-4d2f-a16c-982f5d343354,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,441930.0,2025-06-20 10:54:26+00:00,active,,2025-06-10,onboarded,onboarded
+ed3bc7c1-c158-4d2f-a16c-982f5d343354,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,441930.0,2025-06-20 10:54:26+00:00,active,,2025-06-10,onboarded,onboarded
+ed5956a6-6768-4cdf-bdcf-340209afb63c,integrate_search,user,normal,Sunkey Wang,sunkey.wang@trivest-advisors.com,general,Trivest Advisors,31768.0,2025-07-13 13:09:05+00:00,active,,2024-06-26,active,
+ed7676d1-9828-4f18-b359-161b0598735e,integrate_search,user,meeting_agent,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,,2025-07-29 02:05:32+00:00,active,,2024-08-16,onboarded,onboarded
+ed7676d1-9828-4f18-b359-161b0598735e,integrate_search,user,meeting_agent,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,,2025-07-29 02:05:32+00:00,active,,2024-08-16,onboarded,onboarded
+ed7676d1-9828-4f18-b359-161b0598735e,integrate_search,user,meeting_agent,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,,2025-07-29 02:05:32+00:00,active,,2024-08-16,onboarded,onboarded
+ed8a7b18-5b6e-4942-bdd8-f0881835d59c,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,22859.0,2025-07-31 17:42:08+00:00,active,,2025-06-10,,
+ed8ca980-f6c9-4d00-824b-d0d464543834,integrate_search,user,normal_gpt5,Alfred Yam,intern8@carretprivate.com,general,Carret Private,65177.0,2025-08-12 02:57:59+00:00,active,,2025-06-18,onboarded,onboarded
+ed8ca980-f6c9-4d00-824b-d0d464543834,integrate_search,user,normal_gpt5,Alfred Yam,intern8@carretprivate.com,general,Carret Private,65177.0,2025-08-12 02:57:59+00:00,active,,2025-06-18,onboarded,onboarded
+ed995c0f-d8ee-46bb-8d1b-1c3228b68b5a,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,22776.0,2025-07-21 08:56:38+00:00,active,,2024-06-26,onboarded,
+ed9a7bef-4432-4d7e-aa66-08aceaed09ed,integrate_search,user,normal,Kelly Chan,kelly.chan@janchorpartners.com,general,Janchor Partners,26980.0,2025-07-28 13:58:46+00:00,active,,2025-06-02,active,
+ed9abffa-b5d0-43cf-b946-553cdaa0aee9,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,95136.0,2025-07-23 14:43:26+00:00,active,,2024-08-16,onboarded,
+eda78f8d-62cc-46e7-8e96-e1e5a0c323be,integrate_search,user,normal,Felix Sit,felix.sit@cgsi.com,general,CGS International,19842.0,2025-07-16 08:16:35+00:00,active,,2025-06-10,,
+edb44995-ca44-44c2-ba66-da6331820483,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,12997.0,2025-03-04 22:42:24+00:00,active,,2024-06-26,onboarded,
+edb76233-b4fc-4103-b999-e2924f374765,integrate_search,user,normal,Scott Schafer,scott@rockspringscapital.com,general,Rock Springs Capital,28469.0,2025-07-09 11:45:07+00:00,active,,2025-07-07,,
+edc48124-fa5f-4d88-ae6e-d2afc8942d20,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,23850.0,2025-05-25 12:40:11+00:00,active,,2024-08-16,onboarded,onboarded
+edc48124-fa5f-4d88-ae6e-d2afc8942d20,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,23850.0,2025-05-25 12:40:11+00:00,active,,2024-08-16,onboarded,onboarded
+edc48124-fa5f-4d88-ae6e-d2afc8942d20,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,23850.0,2025-05-25 12:40:11+00:00,active,,2024-08-16,onboarded,onboarded
+edc7a102-2128-4795-a0bb-bc6d0e3d3777,rms,user,overall_summary,Kelly Chan,kelly.chan@janchorpartners.com,general,Janchor Partners,25059.0,2025-06-02 07:45:23+00:00,active,,2025-06-02,active,
+edcbdf10-7f6f-4d20-8869-96be37ac19ee,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,22093.0,2024-08-08 14:45:56+00:00,active,,2024-06-26,onboarded,
+edd79c0c-3c78-455e-8fd5-c692b7a3dd12,integrate_search,user,normal,Hangyul Son,hangyul.son@clsa.com,general,CLSA,,2025-08-11 14:16:57+00:00,active,Research,2025-06-09,onboarded,onboarded
+edd7ccf1-5adc-47c9-90f6-f7631ed7a483,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-04-07 03:33:14+00:00,active,,2024-06-26,onboarded,
+edd82f70-729e-4bd6-aea9-076fad7107d7,integrate_search,user,normal,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,991.0,2024-10-19 14:06:03+00:00,active,,2024-06-26,onboarded,
+eddb6be7-dc61-4b21-a3c0-2a84ebae5619,reasoning_r1,user,deep_research,Cherry Ma,cherry.ma@macquarie.com,general,Macquarie,,2025-07-08 03:16:40+00:00,active,,2025-06-10,onboarded,
+eddee231-95de-4b31-88c5-c82b590c2e0a,integrate_search,user,normal,David Lee,dlee@redwoodpeak.com,general,Redwood Peak,37338.0,2025-07-21 07:25:52+00:00,active,,2025-07-03,onboarded,
+ede507ca-44ce-4740-84dc-9caf59b5a121,integrate_search,user,normal,Jason Sim,jason.sim@cgsi.com,general,CGS International,60745.0,2025-06-24 02:09:48+00:00,active,,2025-06-10,,
+edf2431c-0c23-4dc4-9c42-a788cfc68c16,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,11791.0,2024-11-10 09:33:26+00:00,active,,2024-06-26,onboarded,
+edfbc772-3a46-472f-a503-f45921d7b933,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,33717.0,2025-07-21 02:33:07+00:00,active,,2025-06-10,,
+ee00bc8b-673f-4356-8b4d-6b2995d06a49,rms,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,16497.0,2025-06-14 11:24:14+00:00,active,,2025-06-10,,
+ee05eff6-f05a-4294-a513-685b77370466,integrate_search,user,normal,Elsie Haiwen Cheng,elsie.cheng@trivest-advisors.com,general,Trivest Advisors,18007.0,2025-01-26 14:39:27+00:00,active,,2024-06-26,blocked,
+ee07dae9-b76d-44b0-8197-f72088dba17c,integrate_search,user,normal,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,28536.0,2025-05-30 18:30:12+00:00,active,,2025-05-27,onboarded,onboarded
+ee1a399d-632c-4187-a449-111b9dcd118b,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,9188.0,2024-11-21 08:47:31+00:00,active,,2024-06-26,onboarded,
+ee267dbe-70df-4afd-83ee-e73ce719cd2e,rms,user,individual_summary,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-06-04 00:20:10+00:00,active,,2024-06-26,onboarded,
+ee2a2db9-ae3f-4328-b629-660223fcce0a,integrate_search,user,normal,Carley Shum,carley@carretprivate.com,general,Carret Private,28666.0,2025-06-26 08:18:39+00:00,active,,2025-06-18,,onboarded
 ee300123-c12b-42e0-8c1b-f036a77ff5da,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,32356.0,2025-07-01 09:13:08+00:00,active,,2025-06-18,onboarded,onboarded
 ee300123-c12b-42e0-8c1b-f036a77ff5da,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,32356.0,2025-07-01 09:13:08+00:00,active,,2025-06-18,onboarded,onboarded
 ee4a5987-a9c5-46ab-8caf-17b4c8866bbc,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,6967.0,2024-08-28 04:46:40+00:00,active,,2024-06-26,onboarded,
@@ -4105,6 +4227,7 @@ f242cf75-1622-4320-9153-db17ffd71291,integrate_search,user,normal,Cyrus Hung,cyr
 f242cf75-1622-4320-9153-db17ffd71291,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,11952.0,2025-07-09 08:39:35+00:00,active,,2025-06-18,onboarded,onboarded
 f2495615-4dc7-469c-841b-9729fc5ead7d,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,19573.0,2025-06-25 06:27:38+00:00,active,,2025-06-18,onboarded,onboarded
 f2495615-4dc7-469c-841b-9729fc5ead7d,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,19573.0,2025-06-25 06:27:38+00:00,active,,2025-06-18,onboarded,onboarded
+f24c00c4-16c0-45db-80f5-535a92366d71,reasoning_r1,user,deep_research,Sunkey Wang,sunkey.wang@trivest-advisors.com,general,Trivest Advisors,,2025-08-12 13:11:43+00:00,active,,2024-06-26,active,
 f25e82cf-5cad-4443-8945-db9cfa5080e4,integrate_search,user,normal,Elsie Haiwen Cheng,elsie.cheng@trivest-advisors.com,general,Trivest Advisors,17756.0,2025-01-26 09:28:46+00:00,active,,2024-06-26,blocked,
 f26584f1-1419-4bfe-94fb-a6fcaa1a96b1,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2024-08-07 03:18:02+00:00,active,,2024-06-26,onboarded,
 f274078c-73d2-44b5-9260-e4925399919c,integrate_search,user,normal,David Lee,dlee@redwoodpeak.com,general,Redwood Peak,26461.0,2025-07-21 06:47:20+00:00,active,,2025-07-03,onboarded,
@@ -4233,6 +4356,7 @@ f64b73d7-d76a-47fa-abe5-315637a9b26c,rms,user,normal,lu.sun,lu.sun@trivest-advis
 f65af12b-2af2-4b31-adf4-6496953340cb,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,17434.0,2025-04-17 01:42:58+00:00,active,,2024-06-26,onboarded,
 f6627483-9edf-4cb4-a160-1b0f15f47575,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-04-30 09:57:34+00:00,active,,2024-06-26,onboarded,
 f6632b88-d800-4e26-b108-3cd96291d121,integrate_search,user,normal,Bertram Lai,bertram.lai@cgsi.com,general,CGS International,279240.0,2025-08-06 06:45:52+00:00,active,,2025-06-10,,
+f6654191-6ce9-4830-bda9-4e88d3f9e976,integrate_search,user,meeting_agent,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,,2025-08-12 12:52:10+00:00,active,,2024-06-26,onboarded,
 f67ab7d3-4e89-4d53-b0b7-ff5af9e7480e,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-07-02 16:56:12+00:00,active,,2025-05-27,onboarded,onboarded
 f688ed08-27d2-4ac1-90e5-7bed8fc60d38,rms,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,10202.0,2025-07-25 05:09:52+00:00,active,,2025-06-10,onboarded,onboarded
 f688ed08-27d2-4ac1-90e5-7bed8fc60d38,rms,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,10202.0,2025-07-25 05:09:52+00:00,active,,2025-06-10,onboarded,onboarded
@@ -4294,6 +4418,7 @@ f7a82ed0-d733-4967-b148-fe26ab9743e0,integrate_search,user,normal,Zhongyuan BI,e
 f7b9a86a-2ca5-4e1f-87f6-4847569e73a9,integrate_search,user,normal,Seri Idan,idan@anekcapital.com,general,Anek Capital,22799.0,2025-07-28 07:03:53+00:00,active,,2025-07-07,onboarded,onboarded
 f7cf745a-7ecc-4b9d-8418-263d74343029,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,12511.0,2024-08-07 16:50:18+00:00,active,,2024-06-26,onboarded,
 f7f002a7-b85c-4682-a69f-2393f1900874,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,25831.0,2025-07-07 03:55:27+00:00,active,,2025-06-10,,
+f7f8ec2b-fa2a-4037-9872-c0c795579e84,integrate_search,user,normal,Zhongyuan BI,evan.bi@trivest-advisors.com,general,Trivest Advisors,94002.0,2025-08-12 12:29:27+00:00,active,,2024-06-26,onboarded,
 f7fd8c4d-ad63-4528-a4f3-901cc873fca8,integrate_search,user,primer,Seri Idan,idan@anekcapital.com,general,Anek Capital,,2025-07-09 12:00:42+00:00,active,,2025-07-07,onboarded,onboarded
 f800790a-dc46-4f9a-8b9a-4ed290875ade,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,32750.0,2025-07-18 02:00:23+00:00,active,,2024-08-16,,
 f807bf0c-8623-4311-b50c-40cc278546ed,integrate_search,user,call_summarize,Luqman Yahya,luqman.yahya@cgsi.com,general,CGS International,,2025-07-17 10:14:44+00:00,active,,2025-06-10,,
@@ -4412,11 +4537,16 @@ fb6a3659-e9ce-4181-a9b5-eaba9b3a1ee0,rms,user,individual_summary,John Rolfe,john
 fb745d24-d166-482c-b346-0d6c7e3dc63e,integrate_search,user,meeting_agent,Helen LOU,helen.lou@trivest-advisors.com,general,Trivest Advisors,,2025-07-10 06:28:13+00:00,active,,2024-06-26,active,
 fb7fa438-a7df-4521-92ce-0fe812023b53,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,22503.0,2025-06-27 07:50:59+00:00,active,,2024-06-26,onboarded,
 fb8dbea5-885f-4929-be9a-6305d0aa0cb8,rms,user,individual_summary,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-07-05 10:39:33+00:00,active,,2024-06-26,onboarded,
+fb98621a-7933-4dce-83e7-2340fb27a338,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,427921.0,2025-08-12 01:42:33+00:00,active,,2025-06-10,onboarded,onboarded
+fb98621a-7933-4dce-83e7-2340fb27a338,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,427921.0,2025-08-12 01:42:33+00:00,active,,2025-06-10,onboarded,onboarded
+fb98621a-7933-4dce-83e7-2340fb27a338,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,427921.0,2025-08-12 01:42:33+00:00,active,,2025-06-10,onboarded,onboarded
 fb9be0da-cd8d-4c5a-aab5-9fe0de25554b,integrate_search,user,structured_data,Peter Li,peter.li@macquarie.com,general,Macquarie,3526.0,2025-07-21 07:13:01+00:00,active,,2025-06-10,onboarded,
 fb9e546c-99b2-4333-987e-ec279ae6eb15,reasoning_r1,user,deep_research,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-07-22 09:02:21+00:00,active,,2024-06-26,onboarded,
 fba3f693-93e3-4d30-8a1d-244ff380795e,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,10727.0,2024-08-09 01:16:57+00:00,active,,2024-06-26,onboarded,
 fbb12651-46d8-4fa3-bcbf-0a942cd41b94,integrate_search,user,normal,Peter Williamson,peter.williamson@macquarie.com,general,Macquarie,35489.0,2025-04-23 03:51:37+00:00,active,,2025-06-10,onboarded,
 fbb6e111-5b8d-4c37-9a0c-4a50d646acae,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,41661.0,2025-07-17 06:13:48+00:00,active,,2025-06-10,,
+fbbdc142-61fa-435e-a650-2e32b8d73565,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,46753.0,2025-08-12 03:01:50+00:00,active,,2025-06-18,onboarded,onboarded
+fbbdc142-61fa-435e-a650-2e32b8d73565,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,46753.0,2025-08-12 03:01:50+00:00,active,,2025-06-18,onboarded,onboarded
 fbc08357-049f-4a0b-8f8b-5b7d6ff78343,integrate_search,user,normal,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,41092.0,2025-08-07 12:38:26+00:00,active,,2024-06-26,onboarded,
 fbcd3785-6a19-4051-811b-cd4fec24922b,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-07-03 06:09:21+00:00,active,,2024-06-26,onboarded,
 fbdd2fb4-a43d-48af-b9b8-128fd5f97a72,integrate_search,user,normal,Siew Khee Lim,siewkhee.lim@cgsi.com,general,CGS International,49895.0,2025-07-25 10:19:48+00:00,active,,2025-06-10,onboarded,
@@ -4433,6 +4563,7 @@ fc55ee49-c24a-4f95-828c-8210c68dcdfd,integrate_search,user,normal,Ray Wu,rywu@sc
 fc704b87-941d-4b18-a48f-f08fa4ded9a8,integrate_search,user,normal,Abhiram Eleswarapu,abhiram.eleswarapu@asia.bnpparibas.com,general,BNP Paribas,18539.0,2025-07-29 04:46:17+00:00,active,,2025-06-09,onboarded,onboarded
 fc73099b-45aa-4703-8d2d-ee760ee44bd5,news,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,1109.0,2024-10-15 11:32:17+00:00,active,,2024-06-26,onboarded,
 fc798b2a-ea46-4d0e-a735-fee2d9a3cc53,integrate_search,user,normal,Kunal Aswani,intern7@carretprivate.com,general,Carret Private,114966.0,2025-07-03 05:56:27+00:00,active,,2025-06-18,,
+fc7a5e18-c902-4b9c-baaf-a721a7c9c1f9,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,36539.0,2025-08-12 03:40:12+00:00,active,,2024-08-16,onboarded,
 fc7f5d2b-a74e-4fc7-a53c-00f6492e2cf0,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-04-03 03:55:51+00:00,active,,2024-06-26,onboarded,
 fc87b7a0-feed-461c-ba03-66a8441643e5,news,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,11162.0,2024-09-18 11:09:40+00:00,active,,2024-06-26,onboarded,
 fc96599d-a786-4432-82f6-4ff98a427bf0,linq_alpha,user,normal,ian.wang,ian.wang@trivest-advisors.com,general,Trivest Advisors,5859.0,2024-08-28 22:16:31+00:00,active,,2024-06-26,onboarded,
@@ -4484,6 +4615,8 @@ fdfbf010-8e9e-47b2-b8c0-12ae852a0014,rms,user,normal,Jason Chandra,jason.chandra
 fdfbf010-8e9e-47b2-b8c0-12ae852a0014,rms,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,13006.0,2025-07-14 07:35:16+00:00,active,,2025-06-10,onboarded,onboarded
 fdfbf010-8e9e-47b2-b8c0-12ae852a0014,rms,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,13006.0,2025-07-14 07:35:16+00:00,active,,2025-06-10,onboarded,onboarded
 fe0428bd-6896-49f4-8a38-ec058e19e8b9,integrate_search,user,normal,ian.wang,ian.wang@trivest-advisors.com,general,Trivest Advisors,11006.0,2025-05-02 03:56:05+00:00,active,,2024-06-26,onboarded,
+fe0ce6c2-b9ae-4051-aba0-366aabb19e1f,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,35379.0,2025-08-12 13:34:52+00:00,active,,2025-06-18,onboarded,onboarded
+fe0ce6c2-b9ae-4051-aba0-366aabb19e1f,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,35379.0,2025-08-12 13:34:52+00:00,active,,2025-06-18,onboarded,onboarded
 fe12fa05-ea50-495d-826f-ec1a968e70fe,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,18415.0,2025-04-25 06:54:07+00:00,active,,2024-06-26,onboarded,
 fe23343d-1f52-4dde-abe3-d521a0ccf6ec,integrate_search,user,normal,Kunal Aswani,intern7@carretprivate.com,general,Carret Private,20808.0,2025-07-16 06:15:40+00:00,active,,2025-06-18,,
 fe379c81-8eec-4d24-a7ad-e8ad5002fe11,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-05-07 08:37:34+00:00,active,,2024-06-26,onboarded,
@@ -4542,17 +4675,124 @@ ffaf4fc0-62ae-479a-b3e8-144813c6e988,integrate_search,user,primer,Yang Liu,yaliu
 ffb17cf7-5245-4bb7-9939-191b34403f71,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,11953.0,2025-04-30 03:29:26+00:00,active,,2024-06-26,onboarded,
 ffb612ce-a1b9-4245-9219-161d57149cc3,integrate_search,user,normal,Daniel Lundgren,daniel@rockspringscapital.com,general,Rock Springs Capital,1752502001406.0,2025-07-14 14:06:10+00:00,active,,2025-07-07,,
 ffc5704d-658e-45d9-b1b8-2c826d7af240,integrate_search,user,normal,Abhiram Eleswarapu,abhiram.eleswarapu@asia.bnpparibas.com,general,BNP Paribas,26435.0,2025-06-19 08:28:18+00:00,active,,2025-06-09,onboarded,onboarded
-ffc94c70-989d-495d-94a4-b999d43b5167,integrate_search,user,primer,Victor German,victor.german@macquarie.com,general,Macquarie,,2025-06-17 05:35:20+00:00,active,,2025-06-10,,
-ffd05215-dc6b-486c-bac7-a6b331a8343c,reasoning_r1,user,normal,Johnson Lin,jlin@schonfeld.com,test_feature,Schonfeld,-1740989377522.0,2025-03-03 08:09:38+00:00,active,,2024-08-16,,
-ffdda0c5-c93d-4465-84db-dc984a9bec6b,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,37515.0,2025-06-24 12:12:01+00:00,active,,2024-08-16,onboarded,onboarded
-ffdda0c5-c93d-4465-84db-dc984a9bec6b,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,37515.0,2025-06-24 12:12:01+00:00,active,,2024-08-16,onboarded,onboarded
-ffdda0c5-c93d-4465-84db-dc984a9bec6b,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,37515.0,2025-06-24 12:12:01+00:00,active,,2024-08-16,onboarded,onboarded
-fff23abe-df95-4a4f-8dc3-d3f6349c3b53,integrate_search,user,normal,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,12218.0,2024-10-22 08:17:56+00:00,active,,2024-06-26,onboarded,
-fff3acb5-0b08-4f77-b435-1b03e36195aa,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-07-03 06:16:22+00:00,active,,2024-06-26,onboarded,
-fff903a0-3dd3-48bf-b7bb-d468af206dc4,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,54259.0,2025-06-25 07:57:20+00:00,active,,2025-06-18,onboarded,onboarded
-fff903a0-3dd3-48bf-b7bb-d468af206dc4,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,54259.0,2025-06-25 07:57:20+00:00,active,,2025-06-18,onboarded,onboarded
-fffb9123-ec12-46e7-bdf2-5dd91d3ac110,reasoning_r1,user,deep_research,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-05-30 14:45:36+00:00,active,,2025-05-27,onboarded,onboarded
-fffb9123-ec12-46e7-bdf2-5dd91d3ac110,reasoning_r1,user,deep_research,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-05-30 14:45:36+00:00,active,,2025-05-27,onboarded,onboarded
+d5cb97f6-232f-4fe0-a5bf-d422905eb6d9,integrate_search,user,normal,Thanapol Thanapol,thanapol.ji@cgsi.com,general,CGS International,,2025-07-15 06:02:05+00:00,active,,2025-06-10,,
+d5d02f7c-af3c-4faa-9166-026fb049bf0a,integrate_search,user,normal,Nicole Chan,nicole.chan@cgsi.com,general,CGS International,23006.0,2025-06-18 02:04:27+00:00,active,,2025-06-10,,
+d5dcb154-24dc-4cbc-b4d0-88e30c7cfe2e,integrate_search,user,primer,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-05-20 07:18:36+00:00,active,,2024-06-26,onboarded,
+d5e299d1-86a0-4662-aa94-47ec76c72c1b,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,51751.0,2025-07-09 08:41:53+00:00,active,,2025-06-18,onboarded,onboarded
+d5e299d1-86a0-4662-aa94-47ec76c72c1b,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,51751.0,2025-07-09 08:41:53+00:00,active,,2025-06-18,onboarded,onboarded
+d5f7925e-fe62-4f11-8290-d606d311a5b9,integrate_search,user,normal,Dickie Wong,dickie.wong@carretprivate.com,general,Carret Private,20860.0,2025-07-27 07:13:48+00:00,active,,2025-06-18,,
+d5fb6bfa-91f6-49eb-b02c-e435e08cb51d,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,60481.0,2024-09-30 06:03:09+00:00,active,,2024-06-26,onboarded,
+d60f462a-6937-4dfa-9317-bc8940a6b383,integrate_search,user,normal,Peter Williamson,peter.williamson@macquarie.com,general,Macquarie,26657.0,2025-06-24 02:47:08+00:00,active,,2025-06-10,onboarded,
+d6109120-5d04-4c19-856b-93db5f9bc3b9,integrate_search,user,normal,Johnson Lin,jlin@schonfeld.com,test_feature,Schonfeld,31344.0,2025-08-11 07:09:41+00:00,active,,2024-08-16,,
+d6174508-fa5e-450e-a305-f0845fb4160a,integrate_search,user,normal,Christian Jaeger,christian.jaeger@clsa.com,general,CLSA,40120.0,2025-06-25 08:06:42+00:00,active,Product,2025-06-09,,onboarded
+d6174508-fa5e-450e-a305-f0845fb4160a,integrate_search,user,normal,Christian Jaeger,christian.jaeger@clsa.com,general,CLSA,40120.0,2025-06-25 08:06:42+00:00,active,Product,2025-06-09,,onboarded
+d6174508-fa5e-450e-a305-f0845fb4160a,integrate_search,user,normal,Christian Jaeger,christian.jaeger@clsa.com,general,CLSA,40120.0,2025-06-25 08:06:42+00:00,active,Product,2025-06-09,,onboarded
+d6174508-fa5e-450e-a305-f0845fb4160a,integrate_search,user,normal,Christian Jaeger,christian.jaeger@clsa.com,general,CLSA,40120.0,2025-06-25 08:06:42+00:00,active,Product,2025-06-09,,onboarded
+d6399dec-abb2-4cd4-aa65-7dcdc9102bed,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-07-07 09:28:29+00:00,active,,2024-06-26,onboarded,
+d63bf671-436e-4712-993d-4321e9874773,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,34658.0,2025-07-28 08:43:48+00:00,active,,2025-06-18,onboarded,onboarded
+d63bf671-436e-4712-993d-4321e9874773,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,34658.0,2025-07-28 08:43:48+00:00,active,,2025-06-18,onboarded,onboarded
+d640c95a-8447-40d6-aba7-43d890dd3d0c,integrate_search,user,normal,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,25202.0,2024-11-30 23:34:34+00:00,active,,2024-06-26,onboarded,
+d641617f-7491-40d2-b923-c966e4249a04,rms,user,individual_summary,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-06-01 20:21:02+00:00,active,,2024-06-26,onboarded,
+d647ca94-0c83-4b05-94cc-75383c2eb9c7,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,15432.0,2025-03-05 01:49:58+00:00,active,,2024-06-26,onboarded,
+d64d98de-8c95-4e2b-8faa-74f07cdb4f9d,reasoning_r1,user,deep_research,Victor German,victor.german@macquarie.com,general,Macquarie,,2025-06-12 09:52:59+00:00,active,,2025-06-10,,
+d6513c9a-5592-47a8-8136-e00d14955380,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,43988.0,2025-08-05 16:55:12+00:00,active,,2024-08-16,onboarded,onboarded
+d6513c9a-5592-47a8-8136-e00d14955380,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,43988.0,2025-08-05 16:55:12+00:00,active,,2024-08-16,onboarded,onboarded
+d6513c9a-5592-47a8-8136-e00d14955380,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,43988.0,2025-08-05 16:55:12+00:00,active,,2024-08-16,onboarded,onboarded
+d6536bfc-00a6-4d5d-b345-11f2b4f8ec84,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,11611.0,2024-09-22 09:17:26+00:00,active,,2024-06-26,onboarded,
+d66c45d7-901f-41e0-90ec-9170da575c43,integrate_search,user,primer,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-06-18 14:31:01+00:00,active,,2025-05-27,onboarded,onboarded
+d67c99db-094a-4d8b-a941-d34973387411,integrate_search,user,meeting_agent,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,,2025-07-07 17:19:33+00:00,active,,2024-06-26,onboarded,
+d680046e-ba15-4872-8747-c96e40386568,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,387264.0,2025-06-19 01:47:10+00:00,active,,2025-06-10,onboarded,onboarded
+d680046e-ba15-4872-8747-c96e40386568,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,387264.0,2025-06-19 01:47:10+00:00,active,,2025-06-10,onboarded,onboarded
+d680046e-ba15-4872-8747-c96e40386568,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,387264.0,2025-06-19 01:47:10+00:00,active,,2025-06-10,onboarded,onboarded
+d680ad54-fbb1-4154-9332-57c6dff15a12,rms,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-02-24 01:43:46+00:00,active,,2024-06-26,onboarded,
+d6824653-c52c-4222-913b-fa3bcff4daa0,integrate_search,user,normal,Farhad Bin Siddique,farhadbin.siddique@macquarie.com,general,Macquarie,49569.0,2025-07-15 01:11:18+00:00,active,,2025-06-10,,
+d6890de2-852d-441c-b897-e5fc08412b90,integrate_search,user,normal,Ian Hui,intern9@carretprivate.com,general,Carret Private,45268.0,2025-07-18 02:56:43+00:00,active,,2025-06-18,,
+d69916d7-8887-4746-959e-57dbc289a2cc,rms,user,devil_advocate,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,24051.0,2025-07-07 17:03:24+00:00,active,,2025-05-27,onboarded,onboarded
+d69a670e-a145-42a2-8bf9-183f8fbe88fe,integrate_search,user,normal,Elsie Haiwen Cheng,elsie.cheng@trivest-advisors.com,general,Trivest Advisors,4202.0,2025-01-30 05:17:11+00:00,active,,2024-06-26,blocked,
+d6a1a301-79d0-4475-9423-55d99fb26780,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,20833.0,2025-07-17 06:12:25+00:00,active,,2025-06-10,,
+d6ac9515-533a-4c6a-80de-953330988dda,rms,user,individual_summary,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-07-22 05:35:17+00:00,active,,2024-06-26,onboarded,
+d6b6e4bb-7ec7-4077-a794-747d37f64a8d,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-07-02 12:31:33+00:00,active,,2024-06-26,onboarded,
+d6bbc3ca-723e-4466-86db-15f04a0afb52,rms,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,10958.0,2025-07-10 08:22:18+00:00,active,,2025-06-18,onboarded,onboarded
+d6bbc3ca-723e-4466-86db-15f04a0afb52,rms,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,10958.0,2025-07-10 08:22:18+00:00,active,,2025-06-18,onboarded,onboarded
+d6bef6ab-d4b0-40dc-8d63-30c012b53d92,integrate_search,user,normal,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,6142.0,2024-10-19 14:04:07+00:00,active,,2024-06-26,onboarded,
+d6dcabac-18ca-4af1-b1be-a5b0d12d923f,integrate_search,user,primer,Terence Chang,terence.chang@macquarie.com,general,Macquarie,,2025-06-11 01:50:44+00:00,active,,2025-06-10,onboarded,onboarded
+d6dcabac-18ca-4af1-b1be-a5b0d12d923f,integrate_search,user,primer,Terence Chang,terence.chang@macquarie.com,general,Macquarie,,2025-06-11 01:50:44+00:00,active,,2025-06-10,onboarded,onboarded
+d6dcabac-18ca-4af1-b1be-a5b0d12d923f,integrate_search,user,primer,Terence Chang,terence.chang@macquarie.com,general,Macquarie,,2025-06-11 01:50:44+00:00,active,,2025-06-10,onboarded,onboarded
+d6e28d22-09b5-46f5-a238-76a8a7361096,integrate_search,user,normal,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,20727.0,2025-02-07 07:42:40+00:00,active,,2024-06-26,onboarded,
+d6ed0502-1a14-41d2-8bc0-c0f24adfa295,integrate_search,user,normal,Sunkey Wang,sunkey.wang@trivest-advisors.com,general,Trivest Advisors,37475.0,2025-07-04 03:58:24+00:00,active,,2024-06-26,active,
+d707cf47-34a2-42cc-aaea-b64cf010f8cc,reasoning_r1,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,-1744269403352.0,2025-04-10 07:16:45+00:00,active,,2024-08-16,,
+d70863a0-57f0-415c-a6d8-eaef79d62116,integrate_search,user,structured_data,Victor German,victor.german@macquarie.com,general,Macquarie,10198.0,2025-06-17 05:39:12+00:00,active,,2025-06-10,,
+d70a5d47-1391-4134-ba0b-1ec642da17df,reasoning_r1,user,deep_research,VISHNU MUCHHAL,vishnukant_muchhal@icicipruamc.com,general,ICICI Prudential,,2025-07-01 04:19:51+00:00,active,,2025-06-26,onboarded,onboarded
+d711f5bc-9f5b-4937-8fa7-eac564cfb600,integrate_search,user,normal,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,25505.0,2025-06-18 18:31:19+00:00,active,,2025-05-27,onboarded,onboarded
+d7255e7f-9bf1-4cb4-b742-ab89b80d369a,integrate_search,user,primer,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,,2025-08-13 00:34:01+00:00,active,,2024-08-16,onboarded,
+d727b301-1eb4-4e41-928e-d727bb82065e,integrate_search,user,call_summarize,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,89065.0,2025-08-05 10:04:28+00:00,active,,2024-08-16,,
+d72dc0d0-22c5-472c-b09d-8e7518f01896,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,8239.0,2024-08-08 07:31:47+00:00,active,,2024-06-26,onboarded,
+d72e31fd-45e3-4ec8-9dbe-252e3562c8fb,integrate_search,user,normal,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,142478.0,2025-07-21 15:24:03+00:00,active,,2025-05-27,onboarded,onboarded
+d748e239-8149-42e0-91c5-3b2fb99d127a,rms,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,29804.0,2025-07-21 07:24:59+00:00,active,,2025-06-18,onboarded,onboarded
+d748e239-8149-42e0-91c5-3b2fb99d127a,rms,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,29804.0,2025-07-21 07:24:59+00:00,active,,2025-06-18,onboarded,onboarded
+d74af496-7d1b-419e-b5da-054e3cd9b358,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,56583.0,2025-07-25 10:17:53+00:00,active,,2025-06-10,onboarded,onboarded
+d74af496-7d1b-419e-b5da-054e3cd9b358,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,56583.0,2025-07-25 10:17:53+00:00,active,,2025-06-10,onboarded,onboarded
+d74af496-7d1b-419e-b5da-054e3cd9b358,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,56583.0,2025-07-25 10:17:53+00:00,active,,2025-06-10,onboarded,onboarded
+d7519699-f1e6-4d1e-b226-e345a804dbbd,integrate_search,user,normal,Boyan Petrov,bpetrov@schonfeld.com,test_feature,Schonfeld,22450.0,2024-12-12 09:50:23+00:00,active,,2024-08-16,,
+d759d448-1871-492a-9e13-93c11ca3163b,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,26681.0,2025-04-13 12:12:34+00:00,active,,2024-08-16,,
+d75e051a-c07b-493a-a56d-7b074be78746,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-08-07 02:15:01+00:00,active,,2024-06-26,onboarded,
+d764d1fc-af2c-4a87-80de-2693ebc95428,rms,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,25785.0,2025-07-15 07:15:47+00:00,active,,2025-06-10,,
+d76d99eb-c4bb-4535-85a3-8256e84aea28,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,100571.0,2025-07-29 03:13:46+00:00,active,,2025-06-10,,
+d77c4af5-152f-4a4c-98c3-c74d01707bbe,integrate_search,user,company_screener,Michael Chryssos,mchryssos@twinlionsmgmt.com,general,Twin Lions Management,,2025-07-21 14:09:51+00:00,active,,2025-07-21,active,
+d77e2dd9-8b0d-4fbd-8fe4-1b52e9271c09,integrate_search,user,normal,Christian Jaeger,christian.jaeger@clsa.com,general,CLSA,51236.0,2025-07-23 00:33:55+00:00,active,Product,2025-06-09,,onboarded
+d77e2dd9-8b0d-4fbd-8fe4-1b52e9271c09,integrate_search,user,normal,Christian Jaeger,christian.jaeger@clsa.com,general,CLSA,51236.0,2025-07-23 00:33:55+00:00,active,Product,2025-06-09,,onboarded
+d77e2dd9-8b0d-4fbd-8fe4-1b52e9271c09,integrate_search,user,normal,Christian Jaeger,christian.jaeger@clsa.com,general,CLSA,51236.0,2025-07-23 00:33:55+00:00,active,Product,2025-06-09,,onboarded
+d77e2dd9-8b0d-4fbd-8fe4-1b52e9271c09,integrate_search,user,normal,Christian Jaeger,christian.jaeger@clsa.com,general,CLSA,51236.0,2025-07-23 00:33:55+00:00,active,Product,2025-06-09,,onboarded
+d78ba4af-d49b-4396-8c01-9b316e0e9b2b,rms,user,overall_summary,Flora Liao,flora.liao@janchorpartners.com,general,Janchor Partners,13987.0,2025-07-24 06:31:54+00:00,active,,2025-06-02,active,
+d7a4703d-eb9e-434d-acdd-e959b19153d4,integrate_search,user,normal,Johnson Lin,jlin@schonfeld.com,test_feature,Schonfeld,43462.0,2025-08-07 06:04:29+00:00,active,,2024-08-16,,
+d7b128ff-ac42-499f-82ef-33ed061853dc,integrate_search,user,normal,Mo L,molly.luan@asia.bnpparibas.com,general,BNP Paribas,21433.0,2025-06-11 08:30:16+00:00,active,,2025-06-09,active,
+d7bd26a7-27f4-4903-98d6-71ebadaeb1d7,integrate_search,user,normal,Dickie Wong,dickie.wong@carretprivate.com,general,Carret Private,36558.0,2025-06-26 03:40:22+00:00,active,,2025-06-18,,
+d7bd35f7-13f2-41f1-870e-5eb232736265,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,31291.0,2025-06-20 01:48:09+00:00,active,,2025-06-18,onboarded,onboarded
+d7bd35f7-13f2-41f1-870e-5eb232736265,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,31291.0,2025-06-20 01:48:09+00:00,active,,2025-06-18,onboarded,onboarded
+d7c34b80-29ed-4fd8-b6b7-76532ac7db6c,integrate_search,user,normal,Richard Feng,richard.feng@macquarie.com,general,Macquarie,23381.0,2025-06-26 08:16:49+00:00,active,,2025-06-10,,
+d7c37f9a-cde0-42ae-8568-fcf23a99bb17,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,26895.0,2025-06-13 12:20:07+00:00,active,,2024-08-16,onboarded,onboarded
+d7c37f9a-cde0-42ae-8568-fcf23a99bb17,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,26895.0,2025-06-13 12:20:07+00:00,active,,2024-08-16,onboarded,onboarded
+d7c37f9a-cde0-42ae-8568-fcf23a99bb17,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,26895.0,2025-06-13 12:20:07+00:00,active,,2024-08-16,onboarded,onboarded
+d7c67302-fafb-4231-adb9-f1764f243fbb,integrate_search,user,primer,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,,2025-07-31 19:39:21+00:00,active,,2024-08-16,onboarded,onboarded
+d7c67302-fafb-4231-adb9-f1764f243fbb,integrate_search,user,primer,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,,2025-07-31 19:39:21+00:00,active,,2024-08-16,onboarded,onboarded
+d7c67302-fafb-4231-adb9-f1764f243fbb,integrate_search,user,primer,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,,2025-07-31 19:39:21+00:00,active,,2024-08-16,onboarded,onboarded
+d7d50c8d-04a4-4972-872d-5742774109e5,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-06-17 01:22:07+00:00,active,,2024-06-26,onboarded,
+d7fd6dfe-c124-478c-a212-20d0d1ef90dc,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,28395.0,2025-06-20 01:58:06+00:00,active,,2025-06-18,onboarded,onboarded
+d7fd6dfe-c124-478c-a212-20d0d1ef90dc,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,28395.0,2025-06-20 01:58:06+00:00,active,,2025-06-18,onboarded,onboarded
+d7ffe167-9ea8-4b01-907c-40d0c2530048,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,20139.0,2025-05-08 03:54:42+00:00,active,,2024-08-16,,
+d805c524-25fb-446f-9be1-4458c12ba462,reasoning_r1,user,deep_research,Kelly Chan,kelly.chan@janchorpartners.com,general,Janchor Partners,,2025-06-22 03:27:06+00:00,active,,2025-06-02,active,
+d80dc297-e7a1-46ce-81cd-c602c9c0bf43,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-04-08 06:13:51+00:00,active,,2024-06-26,onboarded,
+d822941d-4192-4775-8e04-0771f27fe876,integrate_search,user,normal,Jayden Son,jayden.son@macquarie.com,general,Macquarie,94585.0,2025-07-30 05:52:04+00:00,active,,2025-06-10,onboarded,onboarded
+d83ef27b-746d-4812-a19e-4d9a6a457b8d,rms,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,25000.0,2025-07-21 07:18:43+00:00,active,,2025-06-18,onboarded,onboarded
+d83ef27b-746d-4812-a19e-4d9a6a457b8d,rms,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,25000.0,2025-07-21 07:18:43+00:00,active,,2025-06-18,onboarded,onboarded
+d843e762-2343-4a05-af7c-d606a87419bf,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,14553.0,2024-08-07 16:38:05+00:00,active,,2024-06-26,onboarded,
+d8441bb3-0658-48b2-af7b-fa1f6e594190,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,28935.0,2025-06-18 08:37:28+00:00,active,,2025-06-18,onboarded,onboarded
+d8441bb3-0658-48b2-af7b-fa1f6e594190,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,28935.0,2025-06-18 08:37:28+00:00,active,,2025-06-18,onboarded,onboarded
+d8516c47-22fd-48e7-8821-03a25b84a044,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-06-24 13:17:49+00:00,active,,2025-05-27,onboarded,onboarded
+d8516c47-22fd-48e7-8821-03a25b84a044,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-06-24 13:17:49+00:00,active,,2025-05-27,onboarded,onboarded
+d8516d75-8e70-4607-a099-d8336cf9ec6b,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,24491.0,2025-07-30 19:55:55+00:00,active,,2024-08-16,onboarded,onboarded
+d8516d75-8e70-4607-a099-d8336cf9ec6b,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,24491.0,2025-07-30 19:55:55+00:00,active,,2024-08-16,onboarded,onboarded
+d8516d75-8e70-4607-a099-d8336cf9ec6b,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,24491.0,2025-07-30 19:55:55+00:00,active,,2024-08-16,onboarded,onboarded
+d8561e10-e97a-4018-951d-a52c56512469,reasoning_r1,user,deep_research,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-06-29 15:11:19+00:00,active,,2024-06-26,onboarded,
+d867bb40-52f8-4ca9-a582-f0ac8a46f3e4,integrate_search,user,normal,Peter Williamson,peter.williamson@macquarie.com,general,Macquarie,64861.0,2025-06-24 02:42:33+00:00,active,,2025-06-10,onboarded,
+d86a8ac0-5f6a-48cb-a90f-faece5195d3e,rms,user,meeting_agent,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,,2025-02-24 10:15:18+00:00,active,,2024-06-26,onboarded,
+d86aa847-3fc6-4b8b-9d98-b15da7d17388,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-05-29 14:34:09+00:00,active,,2025-05-27,onboarded,onboarded
+d873175c-262d-4429-bd40-616cee7c0f05,integrate_search,user,normal,Roger Tay,roger.tay@cgsi.com,general,CGS International,,2025-06-10 09:44:14+00:00,active,,2025-06-10,,
+d87bc6df-1d00-4a31-94d8-c6104af41184,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,31335.0,2024-10-17 02:52:36+00:00,active,,2024-06-26,onboarded,
+d8824983-1be6-4c6d-ae99-6ac29b723db9,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,371430.0,2025-08-01 11:55:00+00:00,active,,2025-06-10,,
+d889be6b-066d-491f-8b8a-bf024b15db01,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,10161.0,2024-07-26 03:25:40+00:00,active,,2024-06-26,onboarded,
+d88bf5d6-1933-4ceb-93a9-54d97e785dad,news,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,2125.0,2024-10-05 13:21:12+00:00,active,,2024-06-26,onboarded,
+d88c257d-330b-4450-a946-172c69f47e3f,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,10701.0,2024-09-13 02:37:18+00:00,active,,2024-06-26,onboarded,
+d88cf660-6812-4d2c-98dc-75e62e7439c3,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-07-03 06:21:26+00:00,active,,2024-06-26,onboarded,
+d897df8c-7846-46ad-82eb-1b02d853320d,integrate_search,user,normal,oscar chen,ochen@schonfeld.com,test_feature,Schonfeld,31096.0,2025-03-06 03:19:46+00:00,active,,2024-08-16,,
+d89d7152-e85b-461e-a007-b63467639cbe,integrate_search,user,normal,Victor Beltran,vbeltran@schonfeld.com,test_feature,Schonfeld,22787.0,2024-12-16 07:32:30+00:00,active,,2024-08-16,,
+d8aa074a-acfa-4d56-ae23-92d1d0ac70b4,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,12751.0,2025-06-03 17:49:44+00:00,active,,2025-05-27,onboarded,onboarded
+d8aa074a-acfa-4d56-ae23-92d1d0ac70b4,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,12751.0,2025-06-03 17:49:44+00:00,active,,2025-05-27,onboarded,onboarded
+d8af9895-c140-4e21-aa81-6c47f82126a3,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,19522.0,2025-04-10 08:58:12+00:00,active,,2024-08-16,,
+d8afe2ea-39cd-4177-9cdd-553e9bea0075,rms,user,individual_summary,Peter Li,peter.li@macquarie.com,general,Macquarie,,2025-06-11 02:31:02+00:00,active,,2025-06-10,onboarded,
+d8bc0c2b-d43a-44d7-b1d4-af9ca191c740,reasoning_r1,user,deep_research,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,,2025-07-25 02:59:07+00:00,active,,2024-08-16,,
+d8c19291-f0de-4f4a-befa-0d1eaca8d5df,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-04-02 02:00:04+00:00,active,,2024-06-26,onboarded,
+d8c7dac5-74a9-4042-8751-d54a76b22ab1,rms,user,individual_summary,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-06-25 15:33:03+00:00,active,,2024-06-26,onboarded,
 d8ceb1b1-ba2d-4dcf-82e6-c0caa1d807be,integrate_search,user,normal,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,25392.0,2025-06-17 19:50:09+00:00,active,,2025-05-27,onboarded,onboarded
 d8d29f1f-6ebd-413b-aca6-b7051f6f66c4,integrate_search,user,normal,John Ho,john.ho@janchorpartners.com,general,Janchor Partners,32248.0,2025-07-30 10:44:52+00:00,active,,2025-06-02,pending,
 d8d83ac4-b7ce-47ca-b87b-82543830f64a,integrate_search,user,normal,Dickie Wong,dickie.wong@carretprivate.com,general,Carret Private,49680.0,2025-07-02 13:58:02+00:00,active,,2025-06-18,,
@@ -4567,6 +4807,7 @@ d8fe4805-84d8-4441-8152-ca9318f0573a,integrate_search,user,normal,Jason Chandra,
 d8fe4805-84d8-4441-8152-ca9318f0573a,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,381014.0,2025-06-12 08:49:50+00:00,active,,2025-06-10,onboarded,onboarded
 d8ff8e52-a3a3-440d-a9a8-b503961c6a8a,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,32865.0,2025-07-24 06:20:43+00:00,active,,2024-08-16,onboarded,
 d9039396-d0d0-4a00-ae6d-a5c7aa2c2167,integrate_search,user,normal,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,62478.0,2025-04-29 08:55:15+00:00,active,,2024-06-26,onboarded,
+d907ef63-f3c6-40ed-8846-bea6258c8f5c,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-08-12 16:24:12+00:00,active,,2025-05-27,onboarded,onboarded
 d908dce6-737f-4d48-8b38-029ae7fa13be,linq_alpha,user,normal,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,14082.0,2024-09-13 09:52:05+00:00,active,,2024-06-26,onboarded,
 d913ab1f-2c23-4122-8afd-0b6ccdc7a417,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,8234.0,2025-02-04 04:58:51+00:00,active,,2024-06-26,onboarded,
 d9156379-9512-4e0c-9ffb-b8b2be65301e,integrate_search,user,ownership_data,Farhad Bin Siddique,farhadbin.siddique@macquarie.com,general,Macquarie,,2025-06-26 08:11:28+00:00,active,,2025-06-10,,
@@ -4617,6 +4858,7 @@ da73302a-e247-46ca-9557-913b9e9970fe,integrate_search,user,normal,Jayden Son,jay
 da82f767-e110-4342-aab2-a8f15a7d7a04,integrate_search,user,structured_data,Hangyul Son,hangyul.son@clsa.com,general,CLSA,4226.0,2025-07-30 01:26:21+00:00,active,Research,2025-06-09,onboarded,onboarded
 da8778e1-59b8-46e0-a7b0-6764382e1c70,integrate_search,user,meeting_agent,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,,2025-06-19 22:34:47+00:00,active,,2024-06-26,onboarded,
 da8fdd8e-22b7-499e-9817-430f85bda26d,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,162624.0,2025-07-21 02:59:42+00:00,active,,2025-06-10,,
+da9ba98e-4f64-4a21-bc0d-ec029b9da031,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,25250.0,2025-08-12 03:01:53+00:00,active,,2024-08-16,onboarded,
 daa7d99d-151f-4b41-881c-87176cde748e,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,,2025-06-25 14:34:05+00:00,active,,2024-08-16,onboarded,onboarded
 daa7d99d-151f-4b41-881c-87176cde748e,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,,2025-06-25 14:34:05+00:00,active,,2024-08-16,onboarded,onboarded
 daa7d99d-151f-4b41-881c-87176cde748e,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,,2025-06-25 14:34:05+00:00,active,,2024-08-16,onboarded,onboarded
@@ -4696,6 +4938,7 @@ dd74f004-4b2f-44c4-b5c9-a1aaadd7e0a7,integrate_search,user,meeting_agent,lu.sun,
 dd7fbf82-6089-4a1d-8c76-cd5a3b2a5e36,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,,2025-06-20 11:49:44+00:00,active,,2025-06-10,onboarded,onboarded
 dd7fbf82-6089-4a1d-8c76-cd5a3b2a5e36,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,,2025-06-20 11:49:44+00:00,active,,2025-06-10,onboarded,onboarded
 dd7fbf82-6089-4a1d-8c76-cd5a3b2a5e36,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,,2025-06-20 11:49:44+00:00,active,,2025-06-10,onboarded,onboarded
+dd8d63e4-ac9d-436d-96c0-395257f37174,integrate_search,user,meeting_agent,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,,2025-08-12 16:30:47+00:00,active,,2024-06-26,onboarded,
 dd92ad39-c47c-4b64-98b7-94b86942a4bb,reasoning_r1,user,deep_research,Victor German,victor.german@macquarie.com,general,Macquarie,,2025-07-25 12:29:43+00:00,active,,2025-06-10,,
 dd938620-e574-4e2e-88b1-22cf04b0a036,integrate_search,user,normal,Allie Eom,allie.eom@asia.bnpparibas.com,general,BNP Paribas,45249.0,2025-06-11 08:17:34+00:00,active,,2025-06-09,active,
 dd949004-8fa7-4fdb-ab56-a63c07d5ee92,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,31261.0,2024-10-30 21:43:21+00:00,active,,2024-06-26,onboarded,
@@ -4929,6 +5172,7 @@ e488a75b-414e-4ce9-8593-ddc57002e4d4,integrate_search,user,normal,Fergus Kwan,fe
 e4a3dfc7-ab7b-4e9a-9419-4829c729aafa,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,61819.0,2025-07-17 15:34:05+00:00,active,,2025-06-18,onboarded,onboarded
 e4a3dfc7-ab7b-4e9a-9419-4829c729aafa,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,61819.0,2025-07-17 15:34:05+00:00,active,,2025-06-18,onboarded,onboarded
 e4a54ec5-62ff-4bd9-8252-5500e63615bb,rms,user,individual_summary,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,,2025-07-15 06:39:28+00:00,active,,2025-06-10,,
+e4b49ae7-6720-4e52-90e5-7e7c5b06fcb2,rms,user,meeting_agent,Admin Janchor,admin@janchorpartners.com,general,Janchor Partners,,2025-08-12 08:05:59+00:00,active,,2025-06-02,,
 e4c96417-8e0d-400b-b5b1-73be746c08a5,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,16788.0,2025-07-24 08:28:47+00:00,active,,2024-06-26,onboarded,
 e4d2da20-406b-4c5f-b4c9-c713a1762cc1,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-07-21 13:00:02+00:00,active,,2024-06-26,onboarded,
 e4e0856c-2149-415a-b8a5-c4ab8b9b1492,integrate_search,user,normal,Ellie Jiang,ellie.jiang@macquarie.com,general,Macquarie,39579.0,2025-07-29 07:59:41+00:00,active,,2025-06-10,,onboarded
@@ -5005,6 +5249,7 @@ e744e7e9-7629-4efd-93d0-fa5b6cabfe9d,integrate_search,user,normal,Peter Williams
 e75356a0-d7aa-463c-836d-e24a3079de8a,integrate_search,user,normal,Abhiram Eleswarapu,abhiram.eleswarapu@asia.bnpparibas.com,general,BNP Paribas,,2025-07-08 09:29:37+00:00,active,,2025-06-09,onboarded,onboarded
 e759cbfb-fecf-45ee-a8b0-78c47c6b4806,reasoning_r1,user,deep_research,Dickie Wong,dickie.wong@carretprivate.com,general,Carret Private,,2025-06-24 03:09:51+00:00,active,,2025-06-18,,
 e75d69dd-5abe-4339-9377-e5afe500a3a0,integrate_search,user,normal,Eric Norr,eric.norr@macquarie.com,general,Macquarie,18114.0,2025-07-16 23:28:56+00:00,active,,2025-06-10,,
+e75d9d4e-846a-41c4-846f-24a0e503744d,integrate_search,user,normal,ian.wang,ian.wang@trivest-advisors.com,general,Trivest Advisors,41527.0,2025-08-12 14:02:38+00:00,active,,2024-06-26,onboarded,
 e76c19df-751b-4c44-8896-e06525c7b1ad,rms,user,normal,Jason Sim,jason.sim@cgsi.com,general,CGS International,24462.0,2025-07-09 04:40:42+00:00,active,,2025-06-10,,
 e76e748b-ff3f-46c9-b98d-32ed7888bfa5,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,389279.0,2025-07-04 12:20:03+00:00,active,,2025-06-10,onboarded,onboarded
 e76e748b-ff3f-46c9-b98d-32ed7888bfa5,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,389279.0,2025-07-04 12:20:03+00:00,active,,2025-06-10,onboarded,onboarded
@@ -5014,6 +5259,7 @@ e77b310f-daea-4b32-a528-4b4e9b65f171,linq_alpha,user,normal,jiang nan,nan.jiang@
 e77d022d-fe7d-4c4c-bbbb-4624a97e4e7d,integrate_search,user,normal,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,19197.0,2025-05-31 23:58:15+00:00,active,,2024-06-26,onboarded,
 e7853d5e-db41-46fc-9a6f-c41f56c37c55,integrate_search,user,normal,Scott Schafer,scott@rockspringscapital.com,general,Rock Springs Capital,37774.0,2025-07-25 19:00:05+00:00,active,,2025-07-07,,
 e78cc6d3-602d-4fcd-b09d-e162f4e61f6f,reasoning_r1,user,deep_research,Victor German,victor.german@macquarie.com,general,Macquarie,,2025-07-29 05:54:10+00:00,active,,2025-06-10,,
+e79c965a-0a91-4f73-bf3d-a6270eeb635b,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-08-12 15:10:45+00:00,active,,2025-05-27,onboarded,onboarded
 e7a45a5a-3ab9-4abe-9113-76149ac25298,integrate_search,user,normal,Fergus Kwan,fergus.kwan@macquarie.com,general,Macquarie,28108.0,2025-06-25 06:38:34+00:00,active,,2025-06-10,,
 e7bc33f6-519c-46f8-b84d-1e8521c1aaa8,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,35428.0,2025-08-11 16:57:03+00:00,active,,2025-06-18,onboarded,onboarded
 e7bc33f6-519c-46f8-b84d-1e8521c1aaa8,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,35428.0,2025-08-11 16:57:03+00:00,active,,2025-06-18,onboarded,onboarded
@@ -5100,127 +5346,10 @@ e9f4ae88-9c67-4b35-8424-42004220d9cf,rms,user,individual_summary,John Rolfe,john
 ea01ddf3-ada5-4ce5-b118-1c0893a7a64e,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,18664.0,2025-03-31 03:16:47+00:00,active,,2024-08-16,,
 ea17196d-6186-461a-86e0-fd9b89cfbf0e,reasoning_r1,user,deep_research,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,,2025-07-17 14:49:41+00:00,active,,2025-06-18,onboarded,onboarded
 ea17196d-6186-461a-86e0-fd9b89cfbf0e,reasoning_r1,user,deep_research,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,,2025-07-17 14:49:41+00:00,active,,2025-06-18,onboarded,onboarded
+ea201c5d-edbf-4233-8c13-fa00dc56fea1,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-08-12 18:30:57+00:00,active,,2025-05-27,onboarded,onboarded
 ea231870-36d2-4d47-9031-88a534eaba97,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-07-28 16:20:41+00:00,active,,2025-05-27,onboarded,onboarded
 ea341060-ca5d-4b26-b4fa-38d6f0e955cd,integrate_search,user,normal,Dickie Wong,dickie.wong@carretprivate.com,general,Carret Private,45570.0,2025-06-19 06:42:44+00:00,active,,2025-06-18,,
 ea3992d8-318e-4adc-b66f-18d05cea198f,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-06-06 15:39:54+00:00,active,,2024-06-26,onboarded,
-ea647b7f-696c-49ed-b522-7c52e22b07dc,integrate_search,user,call_summarize,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,,2025-08-05 10:04:43+00:00,active,,2024-08-16,,
-ea65c6a0-00a5-4237-aa88-5d2baa87316c,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,60375.0,2025-07-07 12:38:09+00:00,active,,2024-06-26,onboarded,
-ea7cee60-228d-4e55-be3e-a7598f11f3c3,integrate_search,user,normal,Kunal Aswani,intern7@carretprivate.com,general,Carret Private,41580.0,2025-07-10 05:23:24+00:00,active,,2025-06-18,,
-ea873649-7a06-4a67-8b3f-42618168759e,integrate_search,user,meeting_agent,steven.chen,steven.chen@trivest-advisors.com,general,Trivest Advisors,,2025-06-23 05:45:34+00:00,active,,2024-06-26,onboarded,
-ea8af4a7-eafa-42d9-807e-12421e3cb8d9,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,19492.0,2025-03-21 03:03:33+00:00,active,,2024-06-26,onboarded,
-ea93776f-d1d1-4401-8785-ec3d68b36717,integrate_search,user,call_summarize,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,,2025-08-01 13:38:58+00:00,active,,2024-08-16,,
-ea960175-f9be-4583-ba5c-b13633368cff,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,420268.0,2025-07-17 03:23:46+00:00,active,,2025-06-10,onboarded,onboarded
-ea960175-f9be-4583-ba5c-b13633368cff,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,420268.0,2025-07-17 03:23:46+00:00,active,,2025-06-10,onboarded,onboarded
-ea960175-f9be-4583-ba5c-b13633368cff,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,420268.0,2025-07-17 03:23:46+00:00,active,,2025-06-10,onboarded,onboarded
-ea9a2188-072d-4fe8-a668-07335260447c,rms,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,22925.0,2025-07-17 05:15:12+00:00,active,,2024-06-26,onboarded,
-ea9ddd0b-32f8-4629-b31e-27ec6f43e0ed,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,123859.0,2025-06-12 22:33:33+00:00,active,,2024-08-16,onboarded,onboarded
-ea9ddd0b-32f8-4629-b31e-27ec6f43e0ed,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,123859.0,2025-06-12 22:33:33+00:00,active,,2024-08-16,onboarded,onboarded
-ea9ddd0b-32f8-4629-b31e-27ec6f43e0ed,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,123859.0,2025-06-12 22:33:33+00:00,active,,2024-08-16,onboarded,onboarded
-eab2ba62-6920-40de-8c44-b99b78c1984c,integrate_search,user,meeting_agent,Admin Janchor,admin@janchorpartners.com,general,Janchor Partners,,2025-08-01 07:47:07+00:00,active,,2025-06-02,,
-eab673f3-fd8a-44be-af10-e59ddd9b8b46,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,37572.0,2025-07-15 05:20:31+00:00,active,,2025-06-10,,
-eab8272b-bc5d-4f79-9883-185de4bea548,integrate_search,user,normal,Carley Shum,carley@carretprivate.com,general,Carret Private,60789.0,2025-06-18 08:03:43+00:00,active,,2025-06-18,,onboarded
-ead66566-7968-401d-b888-de844dedaad8,integrate_search,user,normal,Scott Schafer,scott@rockspringscapital.com,general,Rock Springs Capital,125541.0,2025-07-22 17:50:49+00:00,active,,2025-07-07,,
-eae07e86-d727-4802-865b-481ce1ac6f1b,integrate_search,user,normal,Christopher Kim,christopher.kim@clsa.com,general,CLSA,22027.0,2025-07-25 01:12:16+00:00,active,Research,2025-06-09,onboarded,
-eafcaa8c-e076-4a01-a0db-1696ee08c1b3,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,32710.0,2025-07-29 01:33:44+00:00,active,,2024-08-16,onboarded,
-eafdbfdd-126d-4b33-82dd-2859914f5685,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,,2025-07-20 08:16:39+00:00,active,,2025-06-18,onboarded,onboarded
-eafdbfdd-126d-4b33-82dd-2859914f5685,integrate_search,user,normal,Cyrus Hung,cyrus.hung@carretprivate.com,general,Carret Private,,2025-07-20 08:16:39+00:00,active,,2025-06-18,onboarded,onboarded
-eb05a714-8cd1-483f-992b-7751172ad5c6,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,39912.0,2025-07-30 02:19:24+00:00,active,,2025-06-18,onboarded,onboarded
-eb05a714-8cd1-483f-992b-7751172ad5c6,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,39912.0,2025-07-30 02:19:24+00:00,active,,2025-06-18,onboarded,onboarded
-eb0b8ec3-668f-4d53-8b2f-d478cca60835,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,40707.0,2025-07-23 07:06:59+00:00,active,,2024-06-26,onboarded,
-eb33f7b2-394d-41a6-aa92-c61fdd909793,integrate_search,user,normal,Jayden Son,jayden.son@macquarie.com,general,Macquarie,42118.0,2025-07-23 05:29:25+00:00,active,,2025-06-10,onboarded,onboarded
-eb451a44-99b6-46d8-9f2a-7baaa7d229c3,integrate_search,user,normal,Peter Williamson,peter.williamson@macquarie.com,general,Macquarie,23706.0,2025-04-23 08:26:55+00:00,active,,2025-06-10,onboarded,
-eb5e38dc-4776-419f-8eef-d2e606b5ef0e,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,-15656.0,2025-02-12 00:22:21+00:00,active,,2024-06-26,onboarded,
-eb5fccc0-fc8f-4a7d-891a-3a3b6713d83a,integrate_search,user,normal,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,25981.0,2025-06-03 18:37:46+00:00,active,,2025-05-27,onboarded,onboarded
-eb620201-5270-4b39-a2da-9199ddb73317,integrate_search,user,normal,Hangyul Son,hangyul.son@clsa.com,general,CLSA,,2025-08-03 13:41:21+00:00,active,Research,2025-06-09,onboarded,onboarded
-eb6aea73-dc43-4a91-842f-210f8228e1f2,integrate_search,user,call_summarize,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,30544.0,2025-04-25 01:52:54+00:00,active,,2024-08-16,,
-eb6b3f98-5765-47e8-897c-719856631c5c,integrate_search,user,normal,Sunkey Wang,sunkey.wang@trivest-advisors.com,general,Trivest Advisors,28951.0,2025-06-23 14:07:02+00:00,active,,2024-06-26,active,
-eb6b5cd9-0480-4147-a2a7-056fdc513a1f,integrate_search,user,normal,Sandy Dowling,sandy.chen.dowling@clsa.com,general,CLSA,22945.0,2025-07-14 07:07:17+00:00,active,Trading,2025-06-09,,
-eb6d604d-a968-4191-9131-6bbcfd43dbd8,integrate_search,user,normal,MICHAEL YAN LUNG YIP,michael@carretprivate.com,general,Carret Private,30483.0,2025-07-28 01:57:15+00:00,active,,2025-06-18,,
-eb783c62-9e08-4705-b88f-976a9dd36b1e,reasoning_r1,user,deep_research,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-08-04 09:31:41+00:00,active,,2024-06-26,onboarded,
-eb7fbda6-d6e2-4c76-8968-dac6ffc4f903,integrate_search,user,call_summarize,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,72192.0,2025-08-05 10:05:01+00:00,active,,2024-08-16,,
-eb8f73ed-2b8b-4adb-bde4-277170c741df,integrate_search,user,normal,Lin Hu,hu.lin@cgsi.com,general,CGS International,41335.0,2025-06-24 06:24:04+00:00,active,,2025-06-10,onboarded,onboarded
-eb8f73ed-2b8b-4adb-bde4-277170c741df,integrate_search,user,normal,Lin Hu,hu.lin@cgsi.com,general,CGS International,41335.0,2025-06-24 06:24:04+00:00,active,,2025-06-10,onboarded,onboarded
-eb91e93c-7b1e-40a5-8de5-1eea5e76dd8c,integrate_search,user,normal,Peter Williamson,peter.williamson@macquarie.com,general,Macquarie,51398.0,2025-05-09 08:37:27+00:00,active,,2025-06-10,onboarded,
-eb99b74e-7839-48bb-977b-4cedd685b03d,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,21708.0,2025-06-20 11:53:22+00:00,active,,2025-06-10,,
-eb9a11b6-741f-492a-971e-5cc4c8b6883f,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,19135.0,2025-06-02 15:06:19+00:00,active,,2024-06-26,onboarded,
-eb9b2eec-1bb9-4144-a443-c55b64006c3e,integrate_search,user,normal,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,18282.0,2024-10-24 06:56:39+00:00,active,,2024-06-26,onboarded,
-ebb752b9-2072-4534-a87b-5afb8c3c293a,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,21016.0,2025-06-18 02:04:34+00:00,active,,2025-06-18,onboarded,onboarded
-ebb752b9-2072-4534-a87b-5afb8c3c293a,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,21016.0,2025-06-18 02:04:34+00:00,active,,2025-06-18,onboarded,onboarded
-ebd44166-56b2-4a63-a693-75b9869c3c0f,rms,user,individual_summary,Qiqi Wang,qiqi.wang@trivest-advisors.com,general,Trivest Advisors,,2025-06-05 15:56:09+00:00,active,,2024-06-26,onboarded,
-ebd44323-76e7-40d8-8ab1-3fc7ec62ad38,news,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,11394.0,2024-10-05 13:03:22+00:00,active,,2024-06-26,onboarded,
-ebea9177-0f81-48e0-a529-0b7dbbb51930,rms,user,normal,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,18845.0,2025-05-13 13:46:59+00:00,active,,2024-06-26,onboarded,
-ebeef00b-c2a1-4cd5-ad61-c7957d93fca9,rms,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,21425.0,2025-07-09 11:56:56+00:00,active,,2025-06-10,,
-ebf182ca-e348-48e1-b31b-1edc24139300,reasoning_r1,user,deep_research,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,,2025-08-05 02:58:53+00:00,active,,2025-06-10,,
-ec118f48-7c79-4076-a640-a23b03170f10,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,29548.0,2025-07-10 16:34:44+00:00,active,,2025-05-27,onboarded,onboarded
-ec118f48-7c79-4076-a640-a23b03170f10,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,29548.0,2025-07-10 16:34:44+00:00,active,,2025-05-27,onboarded,onboarded
-ec185a6e-fd9b-4a72-b9e4-0f834fb1359e,integrate_search,user,structured_data,Alfred Yam,intern8@carretprivate.com,general,Carret Private,4793.0,2025-08-04 08:53:58+00:00,active,,2025-06-18,onboarded,onboarded
-ec185a6e-fd9b-4a72-b9e4-0f834fb1359e,integrate_search,user,structured_data,Alfred Yam,intern8@carretprivate.com,general,Carret Private,4793.0,2025-08-04 08:53:58+00:00,active,,2025-06-18,onboarded,onboarded
-ec188549-7c75-4181-b7bf-9832caa7d81e,reasoning_r1,user,deep_research,Jayden Son,jayden.son@macquarie.com,general,Macquarie,,2025-06-30 06:45:56+00:00,active,,2025-06-10,onboarded,onboarded
-ec2c9894-81a9-49fe-addb-28e1b09d8ce5,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-05-19 02:10:59+00:00,active,,2024-06-26,onboarded,
-ec3fe18e-5fb5-4415-b48e-a3654e7a27bc,integrate_search,user,normal,Peter Li,peter.li@macquarie.com,general,Macquarie,40452.0,2025-06-11 02:18:10+00:00,active,,2025-06-10,onboarded,
-ec408730-00ef-4b50-a8d4-7db289c3f143,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,391934.0,2025-07-04 13:11:04+00:00,active,,2025-06-10,onboarded,onboarded
-ec408730-00ef-4b50-a8d4-7db289c3f143,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,391934.0,2025-07-04 13:11:04+00:00,active,,2025-06-10,onboarded,onboarded
-ec408730-00ef-4b50-a8d4-7db289c3f143,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,391934.0,2025-07-04 13:11:04+00:00,active,,2025-06-10,onboarded,onboarded
-ec6a9d10-97d9-41b2-a044-8ecf4d1f3e3c,rms,user,normal,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,53222.0,2025-02-03 16:18:00+00:00,active,,2024-06-26,onboarded,
-ec77ae8c-6c31-4760-adb5-693bbee7ebf5,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,35867.0,2025-07-20 01:59:36+00:00,active,,2024-06-26,onboarded,
-ec7e32e6-0655-4123-bb35-5c4131c4b3bc,integrate_search,user,normal,Sunkey Wang,sunkey.wang@trivest-advisors.com,general,Trivest Advisors,23127.0,2025-08-01 00:35:19+00:00,active,,2024-06-26,active,
-ec8688b0-92e8-4d08-bd15-81fcb33e9ff1,reasoning_r1,user,deep_research,Victor German,victor.german@macquarie.com,general,Macquarie,,2025-06-19 22:56:21+00:00,active,,2025-06-10,,
-ec9a269b-5f15-4240-995b-079587b525d6,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,17818.0,2024-10-31 14:10:57+00:00,active,,2024-06-26,onboarded,
-ec9bbcea-c5b1-4241-b55b-7595a52d50e6,reasoning_r1,user,deep_research,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,,2025-08-05 10:08:40+00:00,active,,2024-08-16,,
-ecacebc0-230d-419f-8dad-8943aef3a850,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,25125.0,2025-07-11 18:49:18+00:00,active,,2025-05-27,onboarded,onboarded
-ecacebc0-230d-419f-8dad-8943aef3a850,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,25125.0,2025-07-11 18:49:18+00:00,active,,2025-05-27,onboarded,onboarded
-ecc983b5-4450-4de1-8d11-fbce749f05d5,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,55328.0,2025-07-24 08:21:51+00:00,active,,2024-08-16,onboarded,
-ecd0fbbd-5191-45ae-939e-d4dc944fa2e7,integrate_search,user,normal,Abhiram Eleswarapu,abhiram.eleswarapu@asia.bnpparibas.com,general,BNP Paribas,59734.0,2025-06-09 08:19:15+00:00,active,,2025-06-09,onboarded,onboarded
-ecd3c79f-04ce-438c-bbae-b37200a371a8,rms,user,normal,jack.wei,jack.wei@trivest-advisors.com,general,Trivest Advisors,1732258080392.0,2024-11-22 06:47:54+00:00,active,,2024-06-26,onboarded,
-ecd45e08-d43c-4463-92ba-c70e79dfe87d,integrate_search,user,structured_data,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,15860.0,2025-07-21 11:48:05+00:00,active,,2025-05-27,onboarded,onboarded
-ecd92feb-c4e8-453c-bd28-6cc29157df40,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,59011.0,2025-07-21 18:45:05+00:00,active,,2025-05-27,onboarded,onboarded
-ecd92feb-c4e8-453c-bd28-6cc29157df40,integrate_search,user,normal,Scott Mosberg,scott@crescentrockcapital.com,general,Crescent Rock Capital Management,59011.0,2025-07-21 18:45:05+00:00,active,,2025-05-27,onboarded,onboarded
-ecda4e04-0a8f-40b1-bf34-654020f5c401,integrate_search,user,normal,Yang Liu,yaliu@schonfeld.com,test_feature,Schonfeld,44793.0,2025-04-29 05:43:01+00:00,active,,2024-08-16,,
-ece6a4d8-45ad-4a54-b972-325c7d16431a,integrate_search,user,normal,Terence Chang,terence.chang@macquarie.com,general,Macquarie,20435.0,2025-06-12 12:45:46+00:00,active,,2025-06-10,onboarded,onboarded
-ece6a4d8-45ad-4a54-b972-325c7d16431a,integrate_search,user,normal,Terence Chang,terence.chang@macquarie.com,general,Macquarie,20435.0,2025-06-12 12:45:46+00:00,active,,2025-06-10,onboarded,onboarded
-ece6a4d8-45ad-4a54-b972-325c7d16431a,integrate_search,user,normal,Terence Chang,terence.chang@macquarie.com,general,Macquarie,20435.0,2025-06-12 12:45:46+00:00,active,,2025-06-10,onboarded,onboarded
-ececcd75-e1b0-4b94-b56c-87fe47081885,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,14218.0,2025-07-09 08:40:19+00:00,active,,2025-06-10,,
-eceda728-5757-4189-8849-ca5fe7f4c4ec,rms,user,meeting_agent,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,,2025-07-06 02:55:26+00:00,active,,2024-06-26,onboarded,
-ecf9fe05-9393-4a83-9aab-453c4f93d74f,integrate_search,user,normal,Seri Idan,idan@anekcapital.com,general,Anek Capital,39838.0,2025-08-06 07:12:57+00:00,active,,2025-07-07,onboarded,onboarded
-ed0d8555-3dc7-4b0e-b268-feea05c123ee,integrate_search,user,normal,Chee Kin Soo,cheekin.soo@cgsi.com,general,CGS International,,2025-06-19 00:56:36+00:00,active,,2025-06-10,,
-ed22a957-475f-48d3-8f84-ecb52de80ba7,integrate_search,user,normal,Jayden Son,jayden.son@macquarie.com,general,Macquarie,30407.0,2025-06-17 07:55:40+00:00,active,,2025-06-10,onboarded,onboarded
-ed382c7a-50c0-471a-9338-621ce455e5e4,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-06-13 21:50:22+00:00,active,,2024-06-26,onboarded,
-ed383867-b82c-43e0-9182-9a19105fcc2a,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,107447.0,2025-06-30 02:50:15+00:00,active,,2025-06-18,onboarded,onboarded
-ed383867-b82c-43e0-9182-9a19105fcc2a,integrate_search,user,normal,Alfred Yam,intern8@carretprivate.com,general,Carret Private,107447.0,2025-06-30 02:50:15+00:00,active,,2025-06-18,onboarded,onboarded
-ed3b4950-a153-4b0e-8f0b-43152e72ce17,rms,user,individual_summary,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,,2025-06-10 14:42:32+00:00,active,,2025-05-27,onboarded,onboarded
-ed3bc7c1-c158-4d2f-a16c-982f5d343354,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,441930.0,2025-06-20 10:54:26+00:00,active,,2025-06-10,onboarded,onboarded
-ed3bc7c1-c158-4d2f-a16c-982f5d343354,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,441930.0,2025-06-20 10:54:26+00:00,active,,2025-06-10,onboarded,onboarded
-ed3bc7c1-c158-4d2f-a16c-982f5d343354,integrate_search,user,normal,Jason Chandra,jason.chandra@cgsi.com,general,CGS International,441930.0,2025-06-20 10:54:26+00:00,active,,2025-06-10,onboarded,onboarded
-ed5956a6-6768-4cdf-bdcf-340209afb63c,integrate_search,user,normal,Sunkey Wang,sunkey.wang@trivest-advisors.com,general,Trivest Advisors,31768.0,2025-07-13 13:09:05+00:00,active,,2024-06-26,active,
-ed7676d1-9828-4f18-b359-161b0598735e,integrate_search,user,meeting_agent,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,,2025-07-29 02:05:32+00:00,active,,2024-08-16,onboarded,onboarded
-ed7676d1-9828-4f18-b359-161b0598735e,integrate_search,user,meeting_agent,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,,2025-07-29 02:05:32+00:00,active,,2024-08-16,onboarded,onboarded
-ed7676d1-9828-4f18-b359-161b0598735e,integrate_search,user,meeting_agent,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,,2025-07-29 02:05:32+00:00,active,,2024-08-16,onboarded,onboarded
-ed8a7b18-5b6e-4942-bdd8-f0881835d59c,integrate_search,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,22859.0,2025-07-31 17:42:08+00:00,active,,2025-06-10,,
-ed995c0f-d8ee-46bb-8d1b-1c3228b68b5a,integrate_search,user,normal,shida.zhang,shida.zhang@trivest-advisors.com,general,Trivest Advisors,22776.0,2025-07-21 08:56:38+00:00,active,,2024-06-26,onboarded,
-ed9a7bef-4432-4d7e-aa66-08aceaed09ed,integrate_search,user,normal,Kelly Chan,kelly.chan@janchorpartners.com,general,Janchor Partners,26980.0,2025-07-28 13:58:46+00:00,active,,2025-06-02,active,
-ed9abffa-b5d0-43cf-b946-553cdaa0aee9,integrate_search,user,normal,Soyoung Lee,soylee@schonfeld.com,test_feature,Schonfeld,95136.0,2025-07-23 14:43:26+00:00,active,,2024-08-16,onboarded,
-eda78f8d-62cc-46e7-8e96-e1e5a0c323be,integrate_search,user,normal,Felix Sit,felix.sit@cgsi.com,general,CGS International,19842.0,2025-07-16 08:16:35+00:00,active,,2025-06-10,,
-edb44995-ca44-44c2-ba66-da6331820483,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,12997.0,2025-03-04 22:42:24+00:00,active,,2024-06-26,onboarded,
-edb76233-b4fc-4103-b999-e2924f374765,integrate_search,user,normal,Scott Schafer,scott@rockspringscapital.com,general,Rock Springs Capital,28469.0,2025-07-09 11:45:07+00:00,active,,2025-07-07,,
-edc48124-fa5f-4d88-ae6e-d2afc8942d20,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,23850.0,2025-05-25 12:40:11+00:00,active,,2024-08-16,onboarded,onboarded
-edc48124-fa5f-4d88-ae6e-d2afc8942d20,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,23850.0,2025-05-25 12:40:11+00:00,active,,2024-08-16,onboarded,onboarded
-edc48124-fa5f-4d88-ae6e-d2afc8942d20,integrate_search,user,normal,Chris Jeon,cjeon@schonfeld.com,test_feature,Schonfeld,23850.0,2025-05-25 12:40:11+00:00,active,,2024-08-16,onboarded,onboarded
-edc7a102-2128-4795-a0bb-bc6d0e3d3777,rms,user,overall_summary,Kelly Chan,kelly.chan@janchorpartners.com,general,Janchor Partners,25059.0,2025-06-02 07:45:23+00:00,active,,2025-06-02,active,
-edcbdf10-7f6f-4d20-8869-96be37ac19ee,linq_alpha,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,22093.0,2024-08-08 14:45:56+00:00,active,,2024-06-26,onboarded,
-edd79c0c-3c78-455e-8fd5-c692b7a3dd12,integrate_search,user,normal,Hangyul Son,hangyul.son@clsa.com,general,CLSA,,2025-08-11 14:16:57+00:00,active,Research,2025-06-09,onboarded,onboarded
-edd7ccf1-5adc-47c9-90f6-f7631ed7a483,integrate_search,user,meeting_agent,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-04-07 03:33:14+00:00,active,,2024-06-26,onboarded,
-edd82f70-729e-4bd6-aea9-076fad7107d7,integrate_search,user,normal,lu.sun,lu.sun@trivest-advisors.com,general,Trivest Advisors,991.0,2024-10-19 14:06:03+00:00,active,,2024-06-26,onboarded,
-eddb6be7-dc61-4b21-a3c0-2a84ebae5619,reasoning_r1,user,deep_research,Cherry Ma,cherry.ma@macquarie.com,general,Macquarie,,2025-07-08 03:16:40+00:00,active,,2025-06-10,onboarded,
-eddee231-95de-4b31-88c5-c82b590c2e0a,integrate_search,user,normal,David Lee,dlee@redwoodpeak.com,general,Redwood Peak,37338.0,2025-07-21 07:25:52+00:00,active,,2025-07-03,onboarded,
-ede507ca-44ce-4740-84dc-9caf59b5a121,integrate_search,user,normal,Jason Sim,jason.sim@cgsi.com,general,CGS International,60745.0,2025-06-24 02:09:48+00:00,active,,2025-06-10,,
-edf2431c-0c23-4dc4-9c42-a788cfc68c16,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,11791.0,2024-11-10 09:33:26+00:00,active,,2024-06-26,onboarded,
-edfbc772-3a46-472f-a503-f45921d7b933,integrate_search,user,normal,Ray Kwok,ray.kwok@cgsi.com,general,CGS International,33717.0,2025-07-21 02:33:07+00:00,active,,2025-06-10,,
-ee00bc8b-673f-4356-8b4d-6b2995d06a49,rms,user,normal,Sameet Sinha,sameet.sinha@macquarie.com,general,Macquarie,16497.0,2025-06-14 11:24:14+00:00,active,,2025-06-10,,
-ee05eff6-f05a-4294-a513-685b77370466,integrate_search,user,normal,Elsie Haiwen Cheng,elsie.cheng@trivest-advisors.com,general,Trivest Advisors,18007.0,2025-01-26 14:39:27+00:00,active,,2024-06-26,blocked,
-ee07dae9-b76d-44b0-8197-f72088dba17c,integrate_search,user,normal,John Rolfe,john@crescentrockcapital.com,general,Crescent Rock Capital Management,28536.0,2025-05-30 18:30:12+00:00,active,,2025-05-27,onboarded,onboarded
-ee1a399d-632c-4187-a449-111b9dcd118b,integrate_search,user,normal,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,9188.0,2024-11-21 08:47:31+00:00,active,,2024-06-26,onboarded,
-ee267dbe-70df-4afd-83ee-e73ce719cd2e,rms,user,individual_summary,Erica Xie,erica.xie@trivest-advisors.com,general,Trivest Advisors,,2025-06-04 00:20:10+00:00,active,,2024-06-26,onboarded,
-ee2a2db9-ae3f-4328-b629-660223fcce0a,integrate_search,user,normal,Carley Shum,carley@carretprivate.com,general,Carret Private,28666.0,2025-06-26 08:18:39+00:00,active,,2025-06-18,,onboarded
 ,,user,catalysts,Peretz Amit,amit@anekcapital.com,,Anek Capital,,2025-07-30 10:51:35.033000,active,,2025-07-07,,
 ,,user,catalysts,Cecily Yu,cecily.yu@clsa.com,,CLSA,,2025-06-13 06:18:25.107000,active,Research,2025-06-09,onboarded,
 ,,user,catalysts,Sagnik Dey,sdey@panvira.com,,Panvira,,2025-07-23 11:42:45.022000,active,,2025-06-10,onboarded,
@@ -5414,6 +5543,7 @@ ee2a2db9-ae3f-4328-b629-660223fcce0a,integrate_search,user,normal,Carley Shum,ca
 ,,,,Paul Kim,phkim@schonfeld.com,,Schonfeld,,,joined_no_usage,,2024-08-16,onboarded,
 ,,,,Rachel YIN,rachel.yin@carretprivate.com,,Carret Private,,,joined_no_usage,,2025-06-18,,
 ,,,,Benny Chark,benny@carretprivate.com,,Carret Private,,,joined_no_usage,,2025-06-18,,
+,,,,Aditya Suresh,aditya.suresh@macquarie.com,,Macquarie,,,joined_no_usage,,2025-06-10,,
 ,,,,Damian Thong,damian.thong@macquarie.com,,Macquarie,,,joined_no_usage,,2025-06-10,,
 ,,,,james Druce,james.druce@clsa.com,,CLSA,,,joined_no_usage,Product,2025-06-09,,
 ,,,,Mahir Murtaza,mahir.murtaza@clsa.com,,CLSA,,,joined_no_usage,Research,2025-06-09,,
