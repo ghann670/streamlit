@@ -21,29 +21,7 @@ df_all = pd.read_csv("df_all.csv")
 df_all['created_at'] = pd.to_datetime(df_all['created_at'], errors='coerce', utc=True).dt.tz_localize(None)
 df_all['trial_start_date'] = pd.to_datetime(df_all['trial_start_date'], errors='coerce')
 
-# 기준 날짜: 오늘 날짜 정오 기준
-now = pd.Timestamp.now().normalize() + pd.Timedelta(hours=12)
-
-# 각 주차 범위 설정
-week_ranges = {
-    'week4': (now - pd.Timedelta(days=6), now),
-    'week3': (now - pd.Timedelta(days=13), now - pd.Timedelta(days=7)),
-    'week2': (now - pd.Timedelta(days=20), now - pd.Timedelta(days=14)),
-    'week1': (now - pd.Timedelta(days=27), now - pd.Timedelta(days=21)),
-}
-
-# 주차 버킷 할당 함수
-def assign_week_bucket(date):
-    if pd.isna(date):
-        return None
-    # date는 이미 timezone-naive 상태
-    for week, (start, end) in week_ranges.items():
-        if start <= date <= end:
-            return week
-    return None
-
-# 전처리
-df_all['week_bucket'] = df_all['created_at'].apply(assign_week_bucket)
+# 전처리 (week_bucket은 나중에 필요할 때 생성)
 df_all['day_bucket'] = df_all['created_at'].dt.date
 df_all['agent_type'] = df_all['function_mode'].str.split(":").str[0]
 
@@ -522,6 +500,32 @@ view_mode = st.radio(
 
 st.subheader("📈 Weekly Function Usage Trends")
 
+# 주차 범위 설정 (Recent 4 Weeks 모드에서만 사용)
+if view_mode == "Recent 4 Weeks":
+    # 기준 날짜: 오늘 날짜 정오 기준
+    now = pd.Timestamp.now().normalize() + pd.Timedelta(hours=12)
+    
+    # 각 주차 범위 설정
+    week_ranges = {
+        'week4': (now - pd.Timedelta(days=6), now),
+        'week3': (now - pd.Timedelta(days=13), now - pd.Timedelta(days=7)),
+        'week2': (now - pd.Timedelta(days=20), now - pd.Timedelta(days=14)),
+        'week1': (now - pd.Timedelta(days=27), now - pd.Timedelta(days=21)),
+    }
+    
+    # 주차 버킷 할당 함수
+    def assign_week_bucket(date):
+        if pd.isna(date):
+            return None
+        # date는 이미 timezone-naive 상태
+        for week, (start, end) in week_ranges.items():
+            if start <= date <= end:
+                return week
+        return None
+    
+    # 이 섹션에서만 week_bucket 할당
+    df_org['week_bucket'] = df_org['created_at'].apply(assign_week_bucket)
+
 if view_mode == f"Trial Period (Trial Start Date: {trial_start})":
     # trial_start_date 기준으로 주차 계산
     df_org['week_from_trial'] = ((df_org['created_at'] - df_org['trial_start_date'])
@@ -621,6 +625,30 @@ st.subheader("📊 Daily Function Usage for a Selected Week")
 
 # 📅 주차 선택 - view mode에 따라 다르게
 if view_mode == "Recent 4 Weeks":
+    # week_bucket이 없으면 생성
+    if 'week_bucket' not in df_org.columns:
+        # 기준 날짜: 오늘 날짜 정오 기준
+        now = pd.Timestamp.now().normalize() + pd.Timedelta(hours=12)
+        
+        # 각 주차 범위 설정
+        week_ranges = {
+            'week4': (now - pd.Timedelta(days=6), now),
+            'week3': (now - pd.Timedelta(days=13), now - pd.Timedelta(days=7)),
+            'week2': (now - pd.Timedelta(days=20), now - pd.Timedelta(days=14)),
+            'week1': (now - pd.Timedelta(days=27), now - pd.Timedelta(days=21)),
+        }
+        
+        # 주차 버킷 할당 함수
+        def assign_week_bucket(date):
+            if pd.isna(date):
+                return None
+            for week, (start, end) in week_ranges.items():
+                if start <= date <= end:
+                    return week
+            return None
+        
+        df_org['week_bucket'] = df_org['created_at'].apply(assign_week_bucket)
+    
     week_options = sorted(df_org['week_bucket'].dropna().unique(), reverse=True)
     selected_week = st.selectbox("Select Week", week_options, key="daily_select_week")
     
@@ -772,6 +800,30 @@ selected_user = st.selectbox(
 
 # 📅 주차 선택 - view mode에 따라 다르게
 if view_mode == "Recent 4 Weeks":
+    # week_bucket이 없으면 생성
+    if 'week_bucket' not in df_org.columns:
+        # 기준 날짜: 오늘 날짜 정오 기준
+        now = pd.Timestamp.now().normalize() + pd.Timedelta(hours=12)
+        
+        # 각 주차 범위 설정
+        week_ranges = {
+            'week4': (now - pd.Timedelta(days=6), now),
+            'week3': (now - pd.Timedelta(days=13), now - pd.Timedelta(days=7)),
+            'week2': (now - pd.Timedelta(days=20), now - pd.Timedelta(days=14)),
+            'week1': (now - pd.Timedelta(days=27), now - pd.Timedelta(days=21)),
+        }
+        
+        # 주차 버킷 할당 함수
+        def assign_week_bucket(date):
+            if pd.isna(date):
+                return None
+            for week, (start, end) in week_ranges.items():
+                if start <= date <= end:
+                    return week
+            return None
+        
+        df_org['week_bucket'] = df_org['created_at'].apply(assign_week_bucket)
+    
     week_options = sorted(df_org['week_bucket'].dropna().unique(), reverse=True)
     selected_week = st.selectbox("Select Week", week_options, key="user_week_select")
     
