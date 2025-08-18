@@ -8,6 +8,11 @@ from urllib.parse import parse_qs
 # Page config
 st.set_page_config(page_title="Usage Summary", page_icon="📊", layout="wide")
 
+# 캐시 클리어 (디버깅용)
+if st.button("🔄 Clear Cache & Refresh"):
+    st.cache_data.clear()
+    st.rerun()
+
 # Load dataset
 df_all = pd.read_csv("df_all.csv")
 
@@ -442,6 +447,17 @@ else:
 
     # 테이블 추가
     st.markdown("#### Daily Usage Table")
+    
+    # 디버깅 정보 (임시)
+    with st.expander("🔍 Debug Info"):
+        st.write(f"Data range: {df_user_filtered['created_at'].min()} ~ {df_user_filtered['created_at'].max()}")
+        st.write(f"Total records: {len(df_user_filtered)}")
+        actual_usage = df_user_filtered[df_user_filtered['count'] > 0]
+        st.write(f"Records with usage: {len(actual_usage)}")
+        if not actual_usage.empty:
+            recent = actual_usage.nlargest(5, 'created_at')[['created_at', 'user', 'count', 'date_label']]
+            st.write("Recent 5 usage dates:")
+            st.dataframe(recent)
     # 피벗 테이블 생성
     df_user_filtered['date_col'] = df_user_filtered['created_at'].dt.strftime("%m/%d")
     table_data = df_user_filtered.pivot_table(
