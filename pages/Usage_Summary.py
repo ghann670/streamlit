@@ -451,10 +451,18 @@ else:
         fill_value=0
     )
     
-    # 날짜 컬럼을 시간순으로 정렬
+    # 날짜 컬럼을 시간순으로 정렬 (실제 데이터의 연도 사용)
     date_columns = [col for col in table_data.columns if col != 'Total']
-    # 날짜 문자열을 실제 날짜로 변환하여 정렬
-    sorted_date_columns = sorted(date_columns, key=lambda x: pd.to_datetime(f"2024/{x}"))
+    # 실제 데이터에서 해당 날짜의 연도를 찾아서 정렬
+    def get_actual_date_for_sorting(date_str):
+        # mm/dd 형식의 날짜 문자열에 대해 실제 데이터에서 해당하는 전체 날짜 찾기
+        matching_dates = df_user_filtered[df_user_filtered['created_at'].dt.strftime("%m/%d") == date_str]['created_at']
+        if not matching_dates.empty:
+            return matching_dates.min()  # 가장 이른 날짜 사용
+        else:
+            return pd.to_datetime(f"2024/{date_str}")  # 기본값
+    
+    sorted_date_columns = sorted(date_columns, key=get_actual_date_for_sorting)
     
     # Total 컬럼 추가
     table_data['Total'] = table_data.sum(axis=1)
@@ -704,9 +712,18 @@ with right2:
     # 컬럼 이름을 mm-dd 형식으로 변경
     df_day_table.columns = pd.to_datetime(df_day_table.columns).strftime('%m-%d')
     
-    # 날짜 컬럼을 시간순으로 정렬
+    # 날짜 컬럼을 시간순으로 정렬 (실제 데이터의 연도 사용)
     date_columns = [col for col in df_day_table.columns if col != 'Total']
-    sorted_date_columns = sorted(date_columns, key=lambda x: pd.to_datetime(f"2024-{x}"))
+    # 실제 데이터에서 해당 날짜의 연도를 찾아서 정렬
+    def get_actual_date_for_day_sorting(date_str):
+        # mm-dd 형식의 날짜 문자열에 대해 실제 데이터에서 해당하는 전체 날짜 찾기
+        matching_dates = df_day[df_day['created_at'].dt.strftime("%m-%d") == date_str]['created_at']
+        if not matching_dates.empty:
+            return matching_dates.min()  # 가장 이른 날짜 사용
+        else:
+            return pd.to_datetime(f"2024-{date_str}")  # 기본값
+    
+    sorted_date_columns = sorted(date_columns, key=get_actual_date_for_day_sorting)
     
     df_day_table['Total'] = df_day_table.sum(axis=1)
     df_day_table = df_day_table.sort_values('Total', ascending=False)
@@ -861,9 +878,18 @@ with right:
             fill_value=0
         )
         
-        # 날짜 컬럼을 시간순으로 정렬
+        # 날짜 컬럼을 시간순으로 정렬 (실제 데이터의 연도 사용)
         date_columns = [col for col in df_user_table.columns if col != 'Total']
-        sorted_date_columns = sorted(date_columns, key=lambda x: pd.to_datetime(f"2024/{x}"))
+        # 실제 데이터에서 해당 날짜의 연도를 찾아서 정렬
+        def get_actual_date_for_user_sorting(date_str):
+            # mm/dd 형식의 날짜 문자열에 대해 실제 데이터에서 해당하는 전체 날짜 찾기
+            matching_dates = df_user_detail[df_user_detail['created_at'].dt.strftime("%m/%d") == date_str]['created_at']
+            if not matching_dates.empty:
+                return matching_dates.min()  # 가장 이른 날짜 사용
+            else:
+                return pd.to_datetime(f"2024/{date_str}")  # 기본값
+        
+        sorted_date_columns = sorted(date_columns, key=get_actual_date_for_user_sorting)
         
         # Total 컬럼 추가 및 정렬
         df_user_table['Total'] = df_user_table.sum(axis=1)
