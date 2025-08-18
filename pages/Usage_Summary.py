@@ -32,9 +32,6 @@ df_all["saved_minutes"] = df_all["agent_type"].map(time_map).fillna(30)
 # UI 설정
 st.title("\U0001F680 Usage Summary Dashboard")
 
-# 🔧 디버깅: 업데이트 확인용
-st.info("🔧 DEBUG: 코드 업데이트됨 - 2025/08/18 11:25 - Daily Usage Table 날짜 형식 YYYY/MM/DD로 변경")
-
 # 조직 리스트 추출
 org_event_counts = (
     df_all[df_all['status'] == 'active']
@@ -442,8 +439,8 @@ else:
             recent = actual_usage.nlargest(5, 'created_at')[['created_at', 'user', 'count', 'date_label']]
             st.write("Recent 5 usage dates:")
             st.dataframe(recent)
-    # 피벗 테이블 생성 (연도 포함)
-    df_user_filtered['date_col'] = df_user_filtered['created_at'].dt.strftime("%Y/%m/%d")
+    # 피벗 테이블 생성
+    df_user_filtered['date_col'] = df_user_filtered['created_at'].dt.strftime("%m/%d")
     table_data = df_user_filtered.pivot_table(
         index='user',
         columns='date_col',
@@ -453,8 +450,15 @@ else:
     
     # 날짜 컬럼을 시간순으로 정렬
     date_columns = [col for col in table_data.columns if col != 'Total']
-    # 연도가 포함되어 있으므로 직접 datetime 변환 가능
-    sorted_date_columns = sorted(date_columns, key=lambda x: pd.to_datetime(x))
+    # 실제 데이터에서 해당 날짜의 연도를 찾아서 정렬
+    def get_actual_date_for_sorting(date_str):
+        matching_dates = df_user_filtered[df_user_filtered['created_at'].dt.strftime("%m/%d") == date_str]['created_at']
+        if not matching_dates.empty:
+            return matching_dates.min()
+        else:
+            return pd.to_datetime(f"2025/{date_str}")  # 2025년 기본값으로 변경
+    
+    sorted_date_columns = sorted(date_columns, key=get_actual_date_for_sorting)
     
     # Total 컬럼 추가
     table_data['Total'] = table_data.sum(axis=1)
