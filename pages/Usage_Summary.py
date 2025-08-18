@@ -332,12 +332,12 @@ st.plotly_chart(fig1, use_container_width=True)
 st.markdown("### 👥 Users' Daily Usage (2025 Data Only)")
 
 # 유저별 일별 사용량 집계 (각 유저의 첫 사용일부터 현재까지)
+# 실제 사용량 데이터 집계 (2025년 데이터만)
+df_2025 = df_active_org[df_active_org['created_at'].dt.year == 2025]
+
 # 각 유저의 첫 사용일 찾기 (2025년 기준)
 user_first_dates = df_2025.groupby('user_name')['created_at'].min().reset_index()
 user_first_dates['created_at'] = user_first_dates['created_at'].dt.date
-
-# 실제 사용량 데이터 집계 (2025년 데이터만)
-df_2025 = df_active_org[df_active_org['created_at'].dt.year == 2025]
 user_counts = df_2025.groupby(
     [df_2025["created_at"].dt.date, "user_name"]
 ).size().reset_index(name="count")
