@@ -21,7 +21,7 @@ df_all = pd.read_csv("df_all.csv")
 df_all['created_at'] = pd.to_datetime(df_all['created_at'], errors='coerce', utc=True).dt.tz_localize(None)
 df_all['trial_start_date'] = pd.to_datetime(df_all['trial_start_date'], errors='coerce')
 
-# 전처리 (week_bucket은 나중에 필요할 때 생성)
+# 전처리 
 df_all['day_bucket'] = df_all['created_at'].dt.date
 df_all['agent_type'] = df_all['function_mode'].str.split(":").str[0]
 
@@ -172,15 +172,15 @@ with status_col2:
     normal_only_users.sort()
     normal_only_display = ", ".join(normal_only_users) if normal_only_users else "—"
 
-    # Recent 2 Weeks Active Users 찾기 (week3, week4)
-    recent_weeks = ['week3', 'week4']
-    users_by_week = {
-        week: set(df_org[df_org['week_bucket'] == week]['user_name'].unique())
-        for week in recent_weeks
-    }
-    consistent_users = list(set.intersection(*users_by_week.values()))
-    consistent_users.sort()
-    consistent_display = ", ".join(consistent_users) if consistent_users else "—"
+    # Recent 2 Weeks Active Users 찾기 (최근 2주간 활성 사용자)
+    if not df_active.empty:
+        # 최근 2주간 활성 사용자 찾기
+        recent_date = df_active['created_at'].max()
+        two_weeks_ago = recent_date - pd.Timedelta(days=14)
+        recent_users = df_active[df_active['created_at'] >= two_weeks_ago]['user_name'].unique()
+        consistent_display = ", ".join(sorted(recent_users)) if len(recent_users) > 0 else "—"
+    else:
+        consistent_display = "—"
 
     # 오른쪽 열
     st.markdown("**Recent 2 Weeks Active Users**")
