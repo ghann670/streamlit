@@ -346,16 +346,17 @@ st.plotly_chart(fig1, use_container_width=True)
 
 
 # ✅ New Section: 유저별 라인차트 추가
-st.markdown("### 👥 Users' Daily Usage (All events)")
+st.markdown("### 👥 Users' Daily Usage (2025 Data Only)")
 
 # 유저별 일별 사용량 집계 (각 유저의 첫 사용일부터 현재까지)
-# 각 유저의 첫 사용일 찾기
-user_first_dates = df_active_org.groupby('user_name')['created_at'].min().reset_index()
+# 각 유저의 첫 사용일 찾기 (2025년 기준)
+user_first_dates = df_2025.groupby('user_name')['created_at'].min().reset_index()
 user_first_dates['created_at'] = user_first_dates['created_at'].dt.date
 
-# 실제 사용량 데이터 집계 (모든 데이터 포함, 날짜 필터링 제거)
-user_counts = df_active_org.groupby(
-    [df_active_org["created_at"].dt.date, "user_name"]
+# 실제 사용량 데이터 집계 (2025년 데이터만)
+df_2025 = df_active_org[df_active_org['created_at'].dt.year == 2025]
+user_counts = df_2025.groupby(
+    [df_2025["created_at"].dt.date, "user_name"]
 ).size().reset_index(name="count")
 
 # 유저별 total usage 수 기준 정렬
@@ -386,8 +387,8 @@ selected_users = st.multiselect(
     key="selected_users"
 )
 
-# 실제 데이터의 최대 날짜 사용
-actual_end_date = df_active_org['created_at'].max().date()
+# 2025년 데이터의 최대 날짜 사용
+actual_end_date = df_2025['created_at'].max().date() if not df_2025.empty else pd.Timestamp.now().date()
 
 # 선택된 유저들의 데이터만 처리
 df_user_daily_list = []
