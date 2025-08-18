@@ -348,10 +348,8 @@ st.markdown("### 👥 Users' Daily Usage (All events)")
 user_first_dates = df_active_org.groupby('user_name')['created_at'].min().reset_index()
 user_first_dates['created_at'] = user_first_dates['created_at'].dt.date
 
-# 실제 사용량 데이터 집계
-user_counts = df_active_org[
-    df_active_org['created_at'] <= end_date
-].groupby(
+# 실제 사용량 데이터 집계 (모든 데이터 포함, 날짜 필터링 제거)
+user_counts = df_active_org.groupby(
     [df_active_org["created_at"].dt.date, "user_name"]
 ).size().reset_index(name="count")
 
@@ -383,11 +381,14 @@ selected_users = st.multiselect(
     key="selected_users"
 )
 
+# 실제 데이터의 최대 날짜 사용
+actual_end_date = df_active_org['created_at'].max().date()
+
 # 선택된 유저들의 데이터만 처리
 df_user_daily_list = []
 for user in selected_users:
     user_start = user_first_dates[user_first_dates['user_name'] == user]['created_at'].iloc[0]
-    user_dates = pd.date_range(start=user_start, end=end_date.date(), freq='D')
+    user_dates = pd.date_range(start=user_start, end=actual_end_date, freq='D')
     
     # 해당 유저의 날짜별 데이터 생성
     user_df = pd.DataFrame({'created_at': user_dates})
