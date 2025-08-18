@@ -450,14 +450,19 @@ else:
         fill_value=0
     )
     
+    # 날짜 컬럼을 시간순으로 정렬
+    date_columns = [col for col in table_data.columns if col != 'Total']
+    # 날짜 문자열을 실제 날짜로 변환하여 정렬
+    sorted_date_columns = sorted(date_columns, key=lambda x: pd.to_datetime(f"2024/{x}"))
+    
     # Total 컬럼 추가
     table_data['Total'] = table_data.sum(axis=1)
     
     # Total 기준으로 정렬
     table_data = table_data.sort_values('Total', ascending=False)
     
-    # Total을 맨 앞으로 이동
-    cols = ['Total'] + [col for col in table_data.columns if col != 'Total']
+    # Total을 맨 앞으로, 그 다음 날짜를 시간순으로 배치
+    cols = ['Total'] + sorted_date_columns
     table_data = table_data[cols]
     
     # Total 행 추가
@@ -697,9 +702,14 @@ with right2:
     
     # 컬럼 이름을 mm-dd 형식으로 변경
     df_day_table.columns = pd.to_datetime(df_day_table.columns).strftime('%m-%d')
+    
+    # 날짜 컬럼을 시간순으로 정렬
+    date_columns = [col for col in df_day_table.columns if col != 'Total']
+    sorted_date_columns = sorted(date_columns, key=lambda x: pd.to_datetime(f"2024-{x}"))
+    
     df_day_table['Total'] = df_day_table.sum(axis=1)
     df_day_table = df_day_table.sort_values('Total', ascending=False)
-    df_day_table = df_day_table[['Total'] + [col for col in df_day_table.columns if col != 'Total']]
+    df_day_table = df_day_table[['Total'] + sorted_date_columns]
     df_day_table.loc['Total'] = df_day_table.sum(numeric_only=True)
 
     # 0을 '-'로 대체
@@ -850,10 +860,14 @@ with right:
             fill_value=0
         )
         
+        # 날짜 컬럼을 시간순으로 정렬
+        date_columns = [col for col in df_user_table.columns if col != 'Total']
+        sorted_date_columns = sorted(date_columns, key=lambda x: pd.to_datetime(f"2024/{x}"))
+        
         # Total 컬럼 추가 및 정렬
         df_user_table['Total'] = df_user_table.sum(axis=1)
         df_user_table = df_user_table.sort_values('Total', ascending=False)
-        df_user_table = df_user_table[['Total'] + [col for col in df_user_table.columns if col != 'Total']]
+        df_user_table = df_user_table[['Total'] + sorted_date_columns]
         
         # Total 행 추가
         df_user_table.loc['Total'] = df_user_table.sum(numeric_only=True)
