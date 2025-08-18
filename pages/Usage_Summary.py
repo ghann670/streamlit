@@ -82,9 +82,11 @@ else:
 # 평균 이벤트
 avg_events = round(total_events / active_users, 1) if active_users > 0 else 0
 
-# 절감 시간
-used_weeks = df_org["week_bucket"].dropna().nunique()
-if used_weeks >= 1 and active_users > 0:
+# 절감 시간 (주차 계산 대신 전체 기간 사용)
+if not df_active.empty and active_users > 0:
+    # 전체 사용 기간을 주 단위로 계산
+    date_range = (df_active['created_at'].max() - df_active['created_at'].min()).days
+    used_weeks = max(1, date_range // 7)  # 최소 1주
     total_saved_minutes = df_active["saved_minutes"].sum()
     saved_minutes_per_user_per_week = round(total_saved_minutes / used_weeks / active_users, 1)
     saved_display = f"{saved_minutes_per_user_per_week} min"
@@ -437,8 +439,8 @@ else:
             recent = actual_usage.nlargest(5, 'created_at')[['created_at', 'user', 'count', 'date_label']]
             st.write("Recent 5 usage dates:")
             st.dataframe(recent)
-    # 피벗 테이블 생성
-    df_user_filtered['date_col'] = df_user_filtered['created_at'].dt.strftime("%m/%d")
+    # 피벗 테이블 생성 (연도 포함)
+    df_user_filtered['date_col'] = df_user_filtered['created_at'].dt.strftime("%Y/%m/%d")
     table_data = df_user_filtered.pivot_table(
         index='user',
         columns='date_col',
@@ -446,18 +448,10 @@ else:
         fill_value=0
     )
     
-    # 날짜 컬럼을 시간순으로 정렬 (실제 데이터의 연도 사용)
+    # 날짜 컬럼을 시간순으로 정렬
     date_columns = [col for col in table_data.columns if col != 'Total']
-    # 실제 데이터에서 해당 날짜의 연도를 찾아서 정렬
-    def get_actual_date_for_sorting(date_str):
-        # mm/dd 형식의 날짜 문자열에 대해 실제 데이터에서 해당하는 전체 날짜 찾기
-        matching_dates = df_user_filtered[df_user_filtered['created_at'].dt.strftime("%m/%d") == date_str]['created_at']
-        if not matching_dates.empty:
-            return matching_dates.min()  # 가장 이른 날짜 사용
-        else:
-            return pd.to_datetime(f"2024/{date_str}")  # 기본값
-    
-    sorted_date_columns = sorted(date_columns, key=get_actual_date_for_sorting)
+    # 연도가 포함되어 있으므로 직접 datetime 변환 가능
+    sorted_date_columns = sorted(date_columns, key=lambda x: pd.to_datetime(x))
     
     # Total 컬럼 추가
     table_data['Total'] = table_data.sum(axis=1)
@@ -800,30 +794,6 @@ selected_user = st.selectbox(
 
 # 📅 주차 선택 - view mode에 따라 다르게
 if view_mode == "Recent 4 Weeks":
-    # week_bucket이 없으면 생성
-    if 'week_bucket' not in df_org.columns:
-        # 기준 날짜: 오늘 날짜 정오 기준
-        now = pd.Timestamp.now().normalize() + pd.Timedelta(hours=12)
-        
-        # 각 주차 범위 설정
-        week_ranges = {
-            'week4': (now - pd.Timedelta(days=6), now),
-            'week3': (now - pd.Timedelta(days=13), now - pd.Timedelta(days=7)),
-            'week2': (now - pd.Timedelta(days=20), now - pd.Timedelta(days=14)),
-            'week1': (now - pd.Timedelta(days=27), now - pd.Timedelta(days=21)),
-        }
-        
-        # 주차 버킷 할당 함수
-        def assign_week_bucket(date):
-            if pd.isna(date):
-                return None
-            for week, (start, end) in week_ranges.items():
-                if start <= date <= end:
-                    return week
-            return None
-        
-        df_org['week_bucket'] = df_org['created_at'].apply(assign_week_bucket)
-    
     week_options = sorted(df_org['week_bucket'].dropna().unique(), reverse=True)
     selected_week = st.selectbox("Select Week", week_options, key="user_week_select")
     
