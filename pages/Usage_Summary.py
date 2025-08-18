@@ -32,6 +32,9 @@ df_all["saved_minutes"] = df_all["agent_type"].map(time_map).fillna(30)
 # UI 설정
 st.title("\U0001F680 Usage Summary Dashboard")
 
+# 🔧 디버깅: 업데이트 확인용
+st.info("🔧 DEBUG: 코드 업데이트됨 - 2025/08/18 11:25 - Daily Usage Table 날짜 형식 YYYY/MM/DD로 변경")
+
 # 조직 리스트 추출
 org_event_counts = (
     df_all[df_all['status'] == 'active']
