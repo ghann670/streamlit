@@ -13,17 +13,53 @@ if st.button("🔄 Clear Cache & Refresh"):
     st.cache_data.clear()
     st.rerun()
 
-# Load dataset
-df_all = pd.read_csv("df_all.csv")
+# Load dataset from Excel and normalize columns to expected schema
+df_usage = pd.read_excel("df_usage.xlsx")
 
-# Convert created_at and trial_start_date to datetime
-# errors='coerce'를 사용해 파싱할 수 없는 날짜는 NaT로 처리
-df_all['created_at'] = pd.to_datetime(df_all['created_at'], errors='coerce', utc=True).dt.tz_localize(None)
-df_all['trial_start_date'] = pd.to_datetime(df_all['trial_start_date'], errors='coerce')
+# normalize helper
+_norm = lambda s: "".join(str(s).strip().lower().replace("_", " ").split())
+colmap = {_norm(c): c for c in df_usage.columns}
+get = lambda name: colmap.get(_norm(name))
 
-# 전처리 
-df_all['day_bucket'] = df_all['created_at'].dt.date
-df_all['agent_type'] = df_all['function_mode'].str.split(":").str[0]
+# rename to expected columns if present
+rename_map = {}
+for src, dst in [
+    ("User Email", "user_email"),
+    ("User Name", "user_name"),
+    ("Organization", "organization"),
+    ("Created At", "created_at"),
+    ("Function Mode", "function_mode"),
+    ("Selected Model", "selected_model"),
+    ("Sender", "sender"),
+    ("Time To First Byte", "time_to_first_byte"),
+    ("Status", "status"),
+    ("Division", "division"),
+    ("Trial Start Date", "trial_start_date"),
+]:
+    src_col = get(src)
+    if src_col:
+        rename_map[src_col] = dst
+
+df_all = df_usage.rename(columns=rename_map).copy()
+
+# ensure required columns
+for col, default in [
+    ("status", "active"),
+]:
+    if col not in df_all.columns:
+        df_all[col] = default
+    else:
+        df_all[col] = df_all[col].fillna(default)
+
+# datetime parsing
+if "created_at" in df_all.columns:
+    df_all['created_at'] = pd.to_datetime(df_all['created_at'], errors='coerce', utc=True).dt.tz_localize(None)
+if "trial_start_date" in df_all.columns:
+    df_all['trial_start_date'] = pd.to_datetime(df_all['trial_start_date'], errors='coerce')
+
+# preprocessing
+df_all['day_bucket'] = df_all['created_at'].dt.date if 'created_at' in df_all.columns else pd.NaT
+df_all['agent_type'] = df_all['function_mode'].astype(str).str.split(":").str[0] if 'function_mode' in df_all.columns else "normal"
 
 # 절감 시간 매핑
 time_map = {"deep_research": 40, "pulse_check": 30}
@@ -32,9 +68,9 @@ df_all["saved_minutes"] = df_all["agent_type"].map(time_map).fillna(30)
 # UI 설정
 st.title("\U0001F680 Usage Summary Dashboard")
 
-# 조직 리스트 추출
+# 조직 리스트 추출 (모든 이벤트 기준)
 org_event_counts = (
-    df_all[df_all['status'] == 'active']
+    df_all
     .groupby('organization')
     .size()
     .sort_values(ascending=False)
@@ -66,7 +102,7 @@ if 'trial_start_date' not in df_org.columns or df_org['trial_start_date'].isna()
     df_org['trial_start_date'] = trial_start_date
 
 # Metric 계산
-total_events = df_active.shape[0]
+total_events = df_org.shape[0]
 total_users = df_org['user_email'].nunique()
 active_users = df_active['user_email'].nunique()
 active_ratio = f"{active_users} / {total_users}"
