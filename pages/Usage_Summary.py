@@ -4,6 +4,7 @@ import plotly.express as px
 import altair as alt
 import matplotlib.pyplot as plt
 from urllib.parse import parse_qs
+import os, requests, io
 
 # Page config
 st.set_page_config(page_title="Usage Summary", page_icon="📊", layout="wide")
@@ -13,8 +14,30 @@ if st.button("🔄 Clear Cache & Refresh"):
     st.cache_data.clear()
     st.rerun()
 
-# Load dataset from Excel and normalize columns to expected schema
-df_usage = pd.read_excel("df_usage.xlsx")
+USAGE_LOCAL = "df_usage.xlsx"
+USAGE_URL = "https://raw.githubusercontent.com/ghann670/streamlit/main/df_usage.xlsx"
+
+@st.cache_data(show_spinner=False)
+def load_usage_df() -> pd.DataFrame:
+    """Load usage data from local file if available, else fall back to remote URL.
+    Stops the app with an error message if both sources fail."""
+    # Try local first
+    if os.path.exists(USAGE_LOCAL):
+        try:
+            return pd.read_excel(USAGE_LOCAL)
+        except Exception as e:
+            st.warning(f"Failed to read local '{USAGE_LOCAL}': {e}. Falling back to remote…")
+    # Fall back to remote
+    try:
+        r = requests.get(USAGE_URL, timeout=30)
+        r.raise_for_status()
+        return pd.read_excel(io.BytesIO(r.content))
+    except Exception as e:
+        st.error("Failed to load usage data from both local file and remote URL. Please check the data source.")
+        st.stop()
+
+
+df_usage = load_usage_df()
 
 # normalize helper
 _norm = lambda s: "".join(str(s).strip().lower().replace("_", " ").split())
